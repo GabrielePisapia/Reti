@@ -11,9 +11,9 @@ public class ReviewsBean {
 		this.userLocation = userLocation;
 	}
 	
-	
-
-
+	public ReviewsBean() {
+		// TODO Auto-generated constructor stub
+	}
 
 	public String getTitolo() {
 		return titolo;

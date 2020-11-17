@@ -13,6 +13,10 @@ public class RistoBean {
 		
 	}
 	
+	public RistoBean() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public ArrayList<String> getCucina() {
 		return cucina;
 	}
