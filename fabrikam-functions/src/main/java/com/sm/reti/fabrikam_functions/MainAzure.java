@@ -43,7 +43,7 @@ public class MainAzure {
 			System.out.println(tipiCucina);
 			
 		}
-		System.out.println("-------------------------------"+"\n");
+		System.out.println("----------------------------------------------------------------------------------"+"\n");
 		JsonArray reviews = jsonObject.get("reviews").getAsJsonArray();
 
 		for (JsonElement e: reviews) {
