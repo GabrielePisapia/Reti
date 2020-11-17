@@ -50,12 +50,7 @@ public class MainAzure {
 			JsonObject oggetto =e.getAsJsonObject();
 			String titolo = oggetto.get("title").getAsString();
 			/*String text = oggetto.get("text").getAsString();*/
-			
-			
-			
-
-		}
-		
+			}
 		}
 	}
 }
