@@ -44,7 +44,7 @@ public class TextAnalyticsSamples {
 	    System.out.printf("Document = %s%n", document);
 
 	    AnalyzeSentimentOptions options = new AnalyzeSentimentOptions().setIncludeOpinionMining(true);
-	    final DocumentSentiment documentSentiment = client.analyzeSentiment(document, "it", options);
+	    final DocumentSentiment documentSentiment = client.analyzeSentiment(document, options);
 	    SentimentConfidenceScores scores = documentSentiment.getConfidenceScores();
 	    System.out.printf(
 	            "\tRecognized document sentiment: %s, positive score: %f, neutral score: %f, negative score: %f.%n",

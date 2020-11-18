@@ -22,7 +22,6 @@ public class MainAzure {
 		//System.out.println(ristoranti.size());
 		
 	    TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);
-	    TextAnalyticsSamples.sentimentAnalysisWithOpinionMiningExample(client);
 	    //detectLanguageExample(client);
 	    //TextAnalyticsSamples.sentimentAnalysisExample(client, text); 
 	    //extractKeyPhrasesExample(client);
