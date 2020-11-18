@@ -18,13 +18,14 @@ public class MainAzure {
 	public static void main(String[] args) throws JsonIOException, JsonSyntaxException, FileNotFoundException {
 	    //You will create these methods later in the quickstart.
 		ArrayList<RistoBean> ristoranti = new ArrayList<RistoBean>();
-		ristoranti = readJson();
-		System.out.println(ristoranti.size());
-	    /*TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);
-
+		//ristoranti = readJson();
+		//System.out.println(ristoranti.size());
+		
+	    TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);
+	    TextAnalyticsSamples.sentimentAnalysisWithOpinionMiningExample(client);
 	    //detectLanguageExample(client);
-	    TextAnalyticsSamples.sentimentAnalysisExample(client,text); 
-	    //extractKeyPhrasesExample(client);**/
+	    //TextAnalyticsSamples.sentimentAnalysisExample(client, text); 
+	    //extractKeyPhrasesExample(client);
 	}
 	
 	/*Legge il JSON e riempi beans*/
