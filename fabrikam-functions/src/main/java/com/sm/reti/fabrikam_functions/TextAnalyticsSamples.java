@@ -7,9 +7,7 @@ import com.azure.ai.textanalytics.TextAnalyticsClient;
 
 public class TextAnalyticsSamples {
 	
-	
 
-	
 	static TextAnalyticsClient authenticateClient(String key, String endpoint) {
 	    return new TextAnalyticsClientBuilder()
 	        .credential(new AzureKeyCredential(key))
@@ -17,19 +15,16 @@ public class TextAnalyticsSamples {
 	        .buildClient();
 	}
 	
-	static void sentimentAnalysisExample(TextAnalyticsClient client,String text)
+	static String sentimentAnalysisExample(TextAnalyticsClient client, String text)
 	{
 	    // The text that need be analyzed.
 	   
-
 	    DocumentSentiment documentSentiment = client.analyzeSentiment(text);
-	    System.out.println("Il testo è: "+text);
-	    System.out.printf(
-	        "Recognized document sentiment: %s, positive score: %s, neutral score: %s, negative score: %s.%n",
-	        documentSentiment.getSentiment(),
-	        documentSentiment.getConfidenceScores().getPositive(),
-	        documentSentiment.getConfidenceScores().getNeutral(),
-	        documentSentiment.getConfidenceScores().getNegative());
+	    System.out.println("Il testo è: " + text);
+	    return "Recognized document sentiment: " + documentSentiment.getSentiment() + 
+	    		", positive score: " +  documentSentiment.getConfidenceScores().getPositive() +
+	    		", neutral score: " + documentSentiment.getConfidenceScores().getNeutral() + 
+	    		", negative score: " + documentSentiment.getConfidenceScores().getNegative() + ".";
 
 	   /* for (SentenceSentiment sentenceSentiment : documentSentiment.getSentences()) {
 	        System.out.printf(
@@ -53,10 +48,9 @@ public class TextAnalyticsSamples {
 	        detectedLanguage.getConfidenceScore());
 	}
 	
-	static void extractKeyPhrasesExample(TextAnalyticsClient client)
+	static void extractKeyPhrasesExample(TextAnalyticsClient client, String text)
 	{
 	    // The text that need be analyzed.
-	    String text = "La pizza è buona, ma il locale è sporco";
 
 	    System.out.printf("Recognized phrases: %n");
 	    for (String keyPhrase : client.extractKeyPhrases(text)) {
