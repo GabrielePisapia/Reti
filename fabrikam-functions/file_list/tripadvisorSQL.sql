@@ -15,9 +15,11 @@ create table Recensione (
     UserLocation varchar(300) not null,
     Ratereview double,
 	NomeRistorante varchar(100) not null,
+    positive_score double not null,
+    neutral_score double not null,
+    negative_score double not null,
     foreign key (NomeRistorante)
     references tripadvisor.Ristorante(Nome)
     on delete no action
-    on update no action,
-    primary key (NomeRistorante)
+    on update no action
 );
