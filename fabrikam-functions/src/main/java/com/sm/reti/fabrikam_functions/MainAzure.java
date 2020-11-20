@@ -24,10 +24,9 @@ public class MainAzure {
 		//ristoranti = readJson();
 		//System.out.println(ristoranti.size());
 		
-<<<<<<< Updated upstream
-	    TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);
-=======
-		Process p = Runtime.getRuntime().exec("python "+"file_list\\ProgettoReti\\LanguageDetector.py "+"La pizza è buona");
+
+	    //TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);
+		Process p = Runtime.getRuntime().exec("python "+"file_list\\ProgettoReti\\LanguageDetector.py "+" Πήραμε δύο παραδοσιακά πιάτα, το οσομπούκο μιλανέζε και τη κοτολέτα. Οι μερίδες τεράστιες και το φαγητό πολύ νόστιμο. Η εξυπηρέτηση πολύ καλή. Στην αρχή μας έφεραν ένα ορεκτικό παραδοσιακό να δοκιμάσουμε και στο τέλος του γεύματος ένα πιατάκια με διάφορα μπισκότα.");
 		BufferedReader stdInput = new BufferedReader(new InputStreamReader(p.getInputStream()));
         String temp ="";
 		while((temp = stdInput.readLine()) != null) {
@@ -37,7 +36,6 @@ public class MainAzure {
 		
 	   /* TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);
 	    TextAnalyticsSamples.sentimentAnalysisWithOpinionMiningExample(client);*/
->>>>>>> Stashed changes
 	    //detectLanguageExample(client);
 	    //TextAnalyticsSamples.sentimentAnalysisExample(client, text); 
 	    //extractKeyPhrasesExample(client);
