@@ -101,6 +101,17 @@ public class MainAzure {
 		ArrayList<String> cucina = r.getCucina();
 		
 		if(cucina.isEmpty()) {
+			/*Split del nome del ristorante*/
+			String nameOfResturant = r.getNomeRistorante();
+			String[] splittedNameOfResturant = nameOfResturant.split("\\s+");
+			
+			for (int i =0; i<splittedNameOfResturant.length;i++) {
+				if (dolci.contains(splittedNameOfResturant[i].toLowerCase()) && !r_dolci.contains(r)) {
+					r_dolci.add(r);
+					System.out.println("Ho aggiunto una gelateria %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+				}
+			}
+			
 			r_temp.add(r);
 			return;
 		}
