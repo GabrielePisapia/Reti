@@ -31,15 +31,26 @@ public class MainAzure {
 	private static List<String> bar_ =  Arrays.asList("bar", "cafe");
 	private static String fast_food = "fast food";
 	private static List<String> straniera_ =  Arrays.asList("greek", "egyptian", "moroccan", "tunisian", "turkish", "brazilian", "arabic", "ethiopian", "african", "mexican", "latin", "central american", "south american", "polish", "french");
-	private static List<String> dolci_ = Arrays.asList("gelateria", "pasticceria", "gelato", "gelati", "dolce", "dolci", "cremeria");
-	private static String ristorante = "ristorante";
+	private static List<String> ristorante =  Arrays.asList("restaurant", "ristorante", "osteria", "trattoria");
+	
+	private static List<String> dolci_ = Arrays.asList("gelateria", "pasticceria", "gelato", "gelati", "dolce", "dolci", "cremeria", "cioccolato");
+	private static List<String> pizzaN = Arrays.asList("pizzeria", "pizza", "pizze");
+	private static List<String> paninotecaN = Arrays.asList("panino", "panini", "burgers", "burger", "pub", "paninoteca");
+	private static List<String> enotecaN = Arrays.asList("vino", "vini", "vineria", "enoteca");
+	private static List<String> barN = Arrays.asList("bar", "cafe", "cafe\'", "caffe'", "caffè", "caffe", "caffetteria", "baretto");
 	
 	private static ArrayList<String> orientale = new ArrayList<String>();
 	private static ArrayList<String> paninoteca = new ArrayList<String>();
 	private static ArrayList<String> enoteca = new ArrayList<String>();
 	private static ArrayList<String> bar = new ArrayList<String>();
 	private static ArrayList<String> straniera = new ArrayList<String>();
-	private static ArrayList<String> dolci = new ArrayList<String>();
+	
+	private static ArrayList<String> dolci = new ArrayList<String>();	
+	private static ArrayList<String> n_pizza = new ArrayList<String>();
+	private static ArrayList<String> n_enoteca = new ArrayList<String>();
+	private static ArrayList<String> n_paninoteca = new ArrayList<String>();
+	private static ArrayList<String> n_bar = new ArrayList<String>();
+	private static ArrayList<String> n_ristorante = new ArrayList<String>();
 	
 	public static ArrayList<RistoBean> r_orientali = new ArrayList<RistoBean>();
 	public static ArrayList<RistoBean> r_pizzerie = new ArrayList<RistoBean>();
@@ -77,9 +88,14 @@ public class MainAzure {
 				"Bar: " + r_bar.size() + "\n" +
 				"Fast food: " + r_fast_food.size() + "\n" +
 				"Stranieri: " + r_stranieri.size() + "\n" +
-				"Temp: " + r_temp.size()+"\n"+
-				"Gelaterie: "+r_dolci.size()
+				"Temp: " + r_temp.size() + "\n"+
+				"Gelaterie: " + r_dolci.size() + "\n"+
+				"Ristoranti: " + r_ristoranti.size()
 				);
+		
+		for(RistoBean r : r_stranieri) {
+			System.out.println(r.getNomeRistorante());
+		}
 		
 	    //TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);		
 	   /* TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);
@@ -95,22 +111,21 @@ public class MainAzure {
 		enoteca.addAll(enoteca_);
 		bar.addAll(bar_);
 		straniera.addAll(straniera_);
+		
 		dolci.addAll(dolci_);
+		n_pizza.addAll(pizzaN);
+		n_enoteca.addAll(enotecaN);
+		n_paninoteca.addAll(paninotecaN);
+		n_bar.addAll(barN);
+		n_ristorante.addAll(ristorante);
 	}
 	
 	static void findCategory(RistoBean r) {
 		ArrayList<String> cucina = r.getCucina();
 		
 		if(cucina.isEmpty()) {
-			/*Split del nome del ristorante*/
-			String nameOfResturant = r.getNomeRistorante();
-			String[] splittedNameOfResturant = nameOfResturant.split("\\s+");
-			
-			for (int i =0; i<splittedNameOfResturant.length;i++) {
-				if (dolci.contains(splittedNameOfResturant[i].toLowerCase()) && !r_dolci.contains(r)) {
-					r_dolci.add(r);
-					System.out.println("Ho aggiunto una gelateria %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
-				}
+			if(!checkName(r)) {
+				r_temp.add(r);
 			}
 			return;
 		}
@@ -157,12 +172,51 @@ public class MainAzure {
 		}
 		
 		if(!flag) {
-			System.out.println("Categoria non trovata");
-			r_temp.add(r);
+			if(!checkName(r)) {
+				r_temp.add(r);
+			}
 		} else {
 			flag = false;
 		}
 
+	}
+	
+	static boolean checkName(RistoBean r) {
+		boolean flag = false;
+		String nameOfResturant = r.getNomeRistorante();
+		String[] splittedNameOfResturant = nameOfResturant.split("\\s+");
+		for (int i =0; i<splittedNameOfResturant.length;i++) {
+			if (dolci.contains(splittedNameOfResturant[i].toLowerCase()) && !r_dolci.contains(r)) {
+				r_dolci.add(r);
+				flag = true;
+			}
+			
+			if(n_ristorante.contains(splittedNameOfResturant[i].toLowerCase()) && !r_ristoranti.contains(r)) {
+				r_ristoranti.add(r);
+				flag = true;
+			}
+			
+			if (n_pizza.contains(splittedNameOfResturant[i].toLowerCase()) && !r_pizzerie.contains(r)) {
+				r_pizzerie.add(r);
+				flag = true;
+			}
+			
+			if (n_enoteca.contains(splittedNameOfResturant[i].toLowerCase()) && !r_enoteche.contains(r)) {
+				r_enoteche.add(r);
+				flag = true;
+			}
+			
+			if (n_paninoteca.contains(splittedNameOfResturant[i].toLowerCase()) && !r_paninoteche.contains(r)) {
+				r_paninoteche.add(r);
+				flag = true;
+			}
+			
+			if (n_bar.contains(splittedNameOfResturant[i].toLowerCase()) && !r_bar.contains(r)) {
+				r_bar.add(r);
+				flag = true;
+			}
+		}
+		return flag;
 	}
 	
 	/*Legge il JSON e riempi beans*/
