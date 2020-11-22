@@ -77,7 +77,8 @@ public class MainAzure {
 				"Bar: " + r_bar.size() + "\n" +
 				"Fast food: " + r_fast_food.size() + "\n" +
 				"Stranieri: " + r_stranieri.size() + "\n" +
-				"Temp: " + r_temp.size()
+				"Temp: " + r_temp.size()+"\n"+
+				"Gelaterie: "+r_dolci.size()
 				);
 		
 	    //TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);		
@@ -111,8 +112,6 @@ public class MainAzure {
 					System.out.println("Ho aggiunto una gelateria %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
 				}
 			}
-			
-			r_temp.add(r);
 			return;
 		}
 		
