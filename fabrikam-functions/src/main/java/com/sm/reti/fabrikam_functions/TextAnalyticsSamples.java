@@ -36,11 +36,9 @@ public class TextAnalyticsSamples {
 	        }*/
 	    }
 	
-	static void sentimentAnalysisWithOpinionMiningExample(TextAnalyticsClient client)
+	static String sentimentAnalysisWithOpinionMining(TextAnalyticsClient client, String document)
 	{
-	    // The Document that needs be analyzed.
-	    String document = "Partiamo dal sapore: ho provato il pistacchio e un altro gusto con la ricotta, ma non mi ha colpita in positivo nessuno dei due... Nel primo caso, il classico retrogusto leggermente salato che contraddistingue questo gusto, era completamente assente, quasi come se ne avessi preso uno alla panna! In generale, anche l'altro è risultato essere troppo delicato, facilmente confondibile. \\nPrezzi poco chiari: una coppetta piccola (due gusti) costa 2 euro e 50, mentre un cono 3 euro; non sapendo questa distinzione, ho chiesto comunque il cono scegliendo due gusti, scoprendo che in realtà  per la stessa cifra se ne potevano prendere tre... Considerando la porzione davvero piccola (altra nota dolente), avrei senz'altro avuto piacere di aggiungere un altro gusto per lo stesso prezzo! Insomma, per me c'è di meglio.";
-
+	    System.out.printf("Document = %s%n", document);
 	    System.out.printf("Document = %s%n", document);
 
 	    AnalyzeSentimentOptions options = new AnalyzeSentimentOptions().setIncludeOpinionMining(true);
