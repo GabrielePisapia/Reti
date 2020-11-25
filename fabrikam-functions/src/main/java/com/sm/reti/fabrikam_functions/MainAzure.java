@@ -53,8 +53,6 @@ public class MainAzure {
 				"Ristoranti: " + r_ristoranti.size()
 				);
 		
-		System.out.println("#rec: "+r_bar.get(0).getRecensioni().size());
-		
 		//WriterFile.inizialize(key, endpoint);
 		
 		//Scrittura dei file con i risultati di analisi
@@ -214,12 +212,15 @@ public class MainAzure {
 					risto.setNomeRistorante(getNomeRisto(element));
 					risto.setRate(getRatingRisto(element));
 					risto.setCucina(getCucina(element));
+					ArrayList<String> cucina = risto.getCucina();
+					for(String c : cucina) {
+						System.out.println(c);
+					}
+					System.out.println("%%%%%%%%%%%%%%%%%%%%%");
 					risto.setRecensioni(getReviews(element));
 					risto.setCity(name.substring(0,name.length()-5));
 					if (risto.getRecensioni().size()>0) {
 						arrayRisto.add(risto);
-						System.out.println("Vado nell'if all'iterazione: "+i);
-						System.out.println(arrayRisto.size());
 						i++;
 					}
 			}
