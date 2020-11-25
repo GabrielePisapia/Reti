@@ -53,7 +53,9 @@ public class MainAzure {
 				"Ristoranti: " + r_ristoranti.size()
 				);
 		
-		WriterFile.inizialize(key, endpoint);
+		System.out.println("#rec: "+r_bar.get(0).getRecensioni().size());
+		
+		//WriterFile.inizialize(key, endpoint);
 		
 		//Scrittura dei file con i risultati di analisi
 		WriterFile.writeFile(r_orientali, "orientali");
@@ -201,19 +203,25 @@ public class MainAzure {
 	static ArrayList<RistoBean> readJson(String name) throws JsonIOException, JsonSyntaxException, FileNotFoundException {
 		JsonParser parser = new JsonParser();
 		Object obj = parser.parse(new FileReader("file_list\\" + name));
+		System.out.println(name);
 		JsonArray jsonArray = (JsonArray) obj;
 		ArrayList<RistoBean> arrayRisto = new ArrayList<RistoBean>();
 		int i = 0;
 		for (JsonElement element : jsonArray) {
 			if(i < 10) {
-				RistoBean risto = new RistoBean();
-				risto.setNomeRistorante(getNomeRisto(element));
-				risto.setRate(getRatingRisto(element));
-				risto.setCucina(getCucina(element));
-				risto.setRecensioni(getReviews(element));
-				risto.setCity("Milano");
-				arrayRisto.add(risto);
-				i++;
+				
+					RistoBean risto = new RistoBean();
+					risto.setNomeRistorante(getNomeRisto(element));
+					risto.setRate(getRatingRisto(element));
+					risto.setCucina(getCucina(element));
+					risto.setRecensioni(getReviews(element));
+					risto.setCity(name.substring(0,name.length()-5));
+					if (risto.getRecensioni().size()>0) {
+						arrayRisto.add(risto);
+						System.out.println("Vado nell'if all'iterazione: "+i);
+						System.out.println(arrayRisto.size());
+						i++;
+					}
 			}
 		}
 		return arrayRisto;
@@ -226,6 +234,9 @@ public class MainAzure {
 	
 	static float getRatingRisto(JsonElement element) {
 		JsonObject jsonObject = element.getAsJsonObject();
+		if(jsonObject.get("rating") == null) {
+			return 0;
+		}
 		return jsonObject.get("rating").getAsFloat();
 	}
 	
@@ -257,6 +268,7 @@ public class MainAzure {
 					rb.setUserLocation("Non localizzato");
 				}
 				reviews.add(rb);
+				j++;
 			}
 		}
 		return reviews;

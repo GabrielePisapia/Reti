@@ -64,6 +64,7 @@ public class TextAnalyticsSamples {
 	            }
 	        });
 	    });
+	    return "";
 	}
 	
 	static void detectLanguageExample(TextAnalyticsClient client)
