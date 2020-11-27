@@ -23,29 +23,31 @@ public class WriterFile {
 		//FileWriter fw = new FileWriter("output\\" + category + ".txt");
 		JSONArray ristos = new JSONArray();
 		for(RistoBean r : array) {
+			
 			JSONObject obj = new JSONObject();
+			
 			obj.put("NOME",r.getNomeRistorante());
 			obj.put("CITTA'" , r.getCity());
 			obj.put("RANKING" ,r.getRate());
-	
+			
 			ArrayList<ReviewsBean> b = r.getRecensioni();
 			JSONArray recensioni = new JSONArray();
 			
 			for(ReviewsBean t : b) {
-				recensioni.put("TESTO: "+ t.getTitolo()+" "+ t.getCorpo());
-				obj.put("Recensioni", recensioni);
+				recensioni.put(t.getTitolo() + " "+ t.getCorpo());
+				//recensioni = TextAnalyticsSamples.sentimentAnalysisWithOpinionMining(client, t.getTitolo() + " "+ t.getCorpo(), recensioni);
 			}
-			
+			obj.put("RECENSIONI", recensioni);
 			ristos.put(obj);
 		}
 		
 		FileWriter fw = new FileWriter("output//"+category+".json");
 		
 		for (int i =0;i<ristos.length();i++) {
-		fw.write(ristos.getJSONObject(i).toString());
+			fw.write(ristos.getJSONObject(i).toString());
 		}
 		fw.flush();
-		fw.close();
+		//fw.close();
 		
 	}
 	

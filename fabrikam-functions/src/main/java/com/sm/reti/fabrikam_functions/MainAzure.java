@@ -66,7 +66,6 @@ public class MainAzure {
 		WriterFile.writeFile(r_paninoteche, "paninoteche");
 		WriterFile.writeFile(r_stranieri, "stranieri");
 		
-	    //TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);		
 	   /* TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);*/
 	    //detectLanguageExample(client);
 	    //TextAnalyticsSamples.sentimentAnalysisExample(client, text); 

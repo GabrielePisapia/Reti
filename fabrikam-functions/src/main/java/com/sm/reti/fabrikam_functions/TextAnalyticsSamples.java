@@ -2,8 +2,13 @@ package com.sm.reti.fabrikam_functions;
 import com.azure.core.credential.AzureKeyCredential;
 import com.azure.ai.textanalytics.models.*;
 import com.azure.ai.textanalytics.TextAnalyticsClientBuilder;
-import com.azure.ai.textanalytics.TextAnalyticsClient;
 
+import java.io.IOException;
+
+import com.azure.ai.textanalytics.TextAnalyticsClient;
+import java.util.ArrayList;
+
+import org.json.JSONArray;
 
 public class TextAnalyticsSamples {
 	
@@ -36,14 +41,31 @@ public class TextAnalyticsSamples {
 	        }*/
 	    }
 	
-	static String sentimentAnalysisWithOpinionMining(TextAnalyticsClient client, String document)
+	/*static ArrayList<String> getDocumentSentiment(TextAnalyticsClient client, ReviewsBean r, WriterFile w) throws IOException { 
+		
+		String doc = Translator.translate("", "en", r.getTitolo() + " " + r.getCorpo());
+	    AnalyzeSentimentOptions options = new AnalyzeSentimentOptions().setIncludeOpinionMining(true);
+
+	    final DocumentSentiment documentSentiment = client.analyzeSentiment(doc, "en", options);
+	    SentimentConfidenceScores scores = documentSentiment.getConfidenceScores();
+	    
+	    ArrayList<String> res = new ArrayList<String>();
+	    res.add(documentSentiment.getSentiment().toString());
+	    res.add(String.valueOf(scores.getPositive()));
+	    res.add(String.valueOf(scores.getNeutral()));
+	    res.add(String.valueOf(scores.getNegative()));
+	    return res;
+	}*/
+	
+	static void sentimentAnalysisWithOpinionMining(TextAnalyticsClient client, ReviewsBean r) throws IOException
 	{
-	    System.out.printf("Document = %s%n", document);
-	    System.out.printf("Document = %s%n", document);
+		System.out.printf("Document = %s%n", r.getTitolo() + " " + r.getCorpo());
+		String doc = Translator.translate("", "en", r.getTitolo() + " " + r.getCorpo());
+	    System.out.printf("Document = %s%n", doc);
 
 	    AnalyzeSentimentOptions options = new AnalyzeSentimentOptions().setIncludeOpinionMining(true);
 
-	    final DocumentSentiment documentSentiment = client.analyzeSentiment(document, "en", options);
+	    final DocumentSentiment documentSentiment = client.analyzeSentiment(doc, "en", options);
 
 	    SentimentConfidenceScores scores = documentSentiment.getConfidenceScores();
 	    System.out.printf(
@@ -63,8 +85,8 @@ public class TextAnalyticsSamples {
 	                        opinionSentiment.getSentiment(), opinionSentiment.getText(), opinionSentiment.isNegated());
 	            }
 	        });
-	    });
-	    return "";
+	   });
+	     
 	}
 	
 	static void detectLanguageExample(TextAnalyticsClient client)

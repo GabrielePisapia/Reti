@@ -40,10 +40,7 @@ public class ReviewsBean {
 		this.userLocation = userLocation;
 	}
 
-
-
-
-
+	
 	private String titolo;
 	private String corpo;
 	private float rateReview;
