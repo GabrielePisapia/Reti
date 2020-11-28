@@ -53,17 +53,17 @@ public class MainAzure {
 				"Ristoranti: " + r_ristoranti.size()
 				);
 		
-		//WriterFile.inizialize(key, endpoint);
+		WriterFile.inizialize(key, endpoint);
 		
 		//Scrittura dei file con i risultati di analisi
-		WriterFile.writeFile(r_orientali, "orientali");
+		/*WriterFile.writeFile(r_orientali, "orientali");
 		WriterFile.writeFile(r_pizzerie, "pizzerie");
-		WriterFile.writeFile(r_ristoranti, "ristoranti");
+		WriterFile.writeFile(r_ristoranti, "ristoranti");       // commentati per test
 		WriterFile.writeFile(r_bar, "bar");
 		WriterFile.writeFile(r_fast_food, "fast_food");
 		WriterFile.writeFile(r_dolci, "dolci_gelaterie");
 		WriterFile.writeFile(r_enoteche, "enoteche");
-		WriterFile.writeFile(r_paninoteche, "paninoteche");
+		WriterFile.writeFile(r_paninoteche, "paninoteche");*/
 		WriterFile.writeFile(r_stranieri, "stranieri");
 		
 	   /* TextAnalyticsClient client = TextAnalyticsSamples.authenticateClient(KEY, ENDPOINT);*/
