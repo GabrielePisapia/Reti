@@ -34,12 +34,13 @@ public class WriterFile {
 			JSONArray recensioni = new JSONArray();
 			
 			for(ReviewsBean t : b) {
+				JSONObject singleReview = new JSONObject();
 				String textOfReview = t.getTitolo()+" "+t.getCorpo();
-				recensioni.put(textOfReview);
-				JSONArray sentimentInfo = new JSONArray();
+				singleReview.put("RECENSIONE", textOfReview);
+				JSONObject sentimentInfo = new JSONObject();
 				sentimentInfo = TextAnalyticsSamples.sentimentAnalysisWithOpinionMining(client,textOfReview);
-				recensioni.put(sentimentInfo);
-				//recensioni = TextAnalyticsSamples.sentimentAnalysisWithOpinionMining(client, t.getTitolo() + " "+ t.getCorpo(), recensioni);
+				singleReview.put("SENTIMENT RECENSIONE", sentimentInfo);
+				recensioni.put(singleReview);
 			}
 			obj.put("RECENSIONI", recensioni);
 			ristos.put(obj);

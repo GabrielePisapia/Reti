@@ -9,6 +9,7 @@ import com.azure.ai.textanalytics.TextAnalyticsClient;
 import java.util.ArrayList;
 
 import org.json.JSONArray;
+import org.json.JSONObject;
 
 public class TextAnalyticsSamples {
 	
@@ -57,18 +58,16 @@ public class TextAnalyticsSamples {
 	    return res;
 	}*/
 	
-	static JSONArray sentimentAnalysisWithOpinionMining(TextAnalyticsClient client, String textOfReview ) throws IOException
+	static JSONObject sentimentAnalysisWithOpinionMining(TextAnalyticsClient client, String textOfReview ) throws IOException
 	{
 		System.out.printf("Document = %s%n", textOfReview);
 		String doc = Translator.translate("", "en", textOfReview);
 	    System.out.printf("Document = %s%n", doc);
 	    
+	    JSONObject rootSentiment = new JSONObject();
 	    JSONArray sentInfo = new JSONArray();         /*L'array da restituire ed inserire in writerfile*/
 
 	    AnalyzeSentimentOptions options = new AnalyzeSentimentOptions().setIncludeOpinionMining(true);
-	    if(client== null) {
-	    	System.out.println("stampa null");
-	    }
 	    final DocumentSentiment documentSentiment = client.analyzeSentiment(doc, "en", options);
 
 	    SentimentConfidenceScores scores = documentSentiment.getConfidenceScores();
@@ -87,52 +86,72 @@ public class TextAnalyticsSamples {
 	     * 2) punteggi in questo ordine (positivo,neutrale,negativo)
 	     * */
 	    
-	    sentInfo.put(sentimento);
+	    rootSentiment.put("SENTIMENT", sentimento);
 	    sentInfo.put(positiveSc);
 	    sentInfo.put(neutralSc);
 	    sentInfo.put(negativeSc);
+	    rootSentiment.put("SCORE", sentInfo);
 	    
-
+	    JSONArray sentences = new JSONArray();
 	    documentSentiment.getSentences().forEach(sentenceSentiment -> {
 	        SentimentConfidenceScores sentenceScores = sentenceSentiment.getConfidenceScores();
 	        System.out.printf("\t\tSentence sentiment: %s, positive score: %f, neutral score: %f, negative score: %f.%n",
 	        		sentenceSentiment.getSentiment(), sentenceScores.getPositive(), sentenceScores.getNeutral(), sentenceScores.getNegative());
 	     
+	     JSONObject singleSentence = new JSONObject();
+	     JSONArray sentenceSent = new JSONArray();
 	     String sentenceInfo = sentenceSentiment.getSentiment().toString();
 	     double sentencePos = sentenceScores.getPositive();
 	     double sentenceNeut = sentenceScores.getNeutral();
 	     double sentenceNeg = sentenceScores.getNegative();
-	     
+	     singleSentence.put("SENTENCE SENTIMENT", sentenceInfo);
+	     sentenceSent.put(sentencePos);
+	     sentenceSent.put(sentenceNeut);
+	     sentenceSent.put(sentenceNeg);
+	     singleSentence.put("SCORE", sentenceSent);
 	     
 	       /*Qua prendiamo le info sul sentiment delle sentenze
 	        * NB.Non mi interessa lo score, ma se lo si vuole aggiungere basta inserirlo con put
 	        * */
-	     sentInfo.put(sentenceInfo);
+	     //sentInfo.put(sentenceInfo);
 	     
+	     JSONArray aspects = new JSONArray();
 	        sentenceSentiment.getMinedOpinions().forEach(minedOpinions -> {
 	            AspectSentiment aspectSentiment = minedOpinions.getAspect();
 	            System.out.printf("\t\t\tAspect sentiment: %s, aspect text: %s%n", aspectSentiment.getSentiment(),
 	                    aspectSentiment.getText());
 	            
+	            JSONObject singleAspect = new JSONObject();
 	            /*Raccolta ed inserimento degli aspetti, formato sentimento- testo*/
-	            
 	            String sentAspect = aspectSentiment.getSentiment().toString();
 	            String textAspect = aspectSentiment.getText();
-	            sentInfo.put(sentAspect);
-	            sentInfo.put(textAspect);
+	            
+	            singleAspect.put("ASPECT", textAspect);
+	            singleAspect.put("SENTIMENT ASPECT", sentAspect);
+	      
+	            JSONArray opinions = new JSONArray();
+	            JSONObject singleOpinion = new JSONObject();
 	            for (OpinionSentiment opinionSentiment : minedOpinions.getOpinions()) {
 	                System.out.printf("\t\t\t\t'%s' opinion sentiment because of \"%s\". Is the opinion negated: %s.%n",
 	                        opinionSentiment.getSentiment(), opinionSentiment.getText(), opinionSentiment.isNegated());
-	                
+	                singleOpinion = new JSONObject();
 	                /*raccolta opinioni ed inserimento formato sentiment-testo*/
 	                String minedSentiment = opinionSentiment.getSentiment().toString();
 	                String textMined = opinionSentiment.getText();
-	                sentInfo.put(minedSentiment);
-	                sentInfo.put(textMined);
+	         
+	                singleOpinion.put("OPINION", textMined);
+	                singleOpinion.put("OPINION SENTIMENT", minedSentiment);
+	                opinions.put(singleOpinion);
 	            }
+	            singleAspect.put("OPINION MINING", opinions);
+	            aspects.put(singleAspect);
 	        });
+	        singleSentence.put("ASPECTS", aspects);
+	        sentences.put(singleSentence);
 	   });
-	     return sentInfo;
+	    
+	    rootSentiment.put("SENTENCES", sentences);
+	     return rootSentiment;
 	}
 	
 	static void detectLanguageExample(TextAnalyticsClient client)
