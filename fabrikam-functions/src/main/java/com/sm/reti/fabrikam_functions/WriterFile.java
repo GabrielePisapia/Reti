@@ -36,7 +36,9 @@ public class WriterFile {
 			for(ReviewsBean t : b) {
 				JSONObject singleReview = new JSONObject();
 				String textOfReview = t.getTitolo()+" "+t.getCorpo();
+				double rateReview = t.getRateReview();
 				singleReview.put("RECENSIONE", textOfReview);
+				singleReview.put("RATE RECENSIONE", rateReview);
 				JSONObject sentimentInfo = new JSONObject();
 				sentimentInfo = TextAnalyticsSamples.sentimentAnalysisWithOpinionMining(client,textOfReview);
 				singleReview.put("SENTIMENT RECENSIONE", sentimentInfo);
