@@ -6,8 +6,10 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
 import com.google.gson.Gson;
@@ -66,7 +68,9 @@ public class MainAzure {
 		WriterFile.writeFile(r_dolci, "dolci_gelaterie");
 		WriterFile.writeFile(r_paninoteche, "paninoteche");
 		WriterFile.writeFile(r_stranieri, "stranieri");*/
-
+		
+		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
+		System.out.println(timeStamp);
 	}
 	
 	static void inizialize() {
