@@ -57,7 +57,7 @@ public class MainAzure {
 		for (RistoBean brew: r_temp) {
 			System.out.println(brew.getNomeRistorante()+"\n");
 		}
-		/*
+		
 		WriterFile.inizialize(key, endpoint);
 		
 		//Scrittura dei file con i risultati di analisi
@@ -67,7 +67,7 @@ public class MainAzure {
 		WriterFile.writeFile(r_fast_food, "fast_food");
 		WriterFile.writeFile(r_dolci, "dolci_gelaterie");
 		WriterFile.writeFile(r_paninoteche, "paninoteche");
-		WriterFile.writeFile(r_stranieri, "stranieri");*/
+		WriterFile.writeFile(r_stranieri, "stranieri");
 		
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 		System.out.println(timeStamp);
