@@ -1,5 +1,5 @@
 {
-	"RECENSIONI": [{
+	"RISTORANTI": [{
 		"RECENSIONI": [{
 				"RECENSIONE": "Good place for a quick dinner late in the evening This is a very informal food stall with a couple of tables and chairs outdoors, more of a take-away than a restaurant. But the staff are really cool and kind and really try to make their guests happy! The dishes are tasty too and the good thing is that they are open in the later evening too.",
 				"RATE RECENSIONE": 5,
@@ -76,7 +76,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Wokaway Ã¨ il mio salvacena Quando sto a casa da sola e la voglia di cucinare scarseggia chiamo wokaway per farmi portare gli udon al vitello a domicilio . Wokaway Ã¨ un localino fantastico con personale alla mano e  davvero simpatici. Ha un ottima qualitÃ  prezzo . Ordino molto spesso andomicilio perÃ² le ultime due volte ci sono stati degli intoppi , avevo ordinato 2 udon al vitello e un pollo in tempura ma Ã¨ arrivato ( in perfetto orario ) solo un udon e il pollo. Consiglio questo locale magari a chi sta visitando ancona e vuole fermarsi a fare una pausa pranzo. A quasi dimenticavo io nei piatti metterei un po' meno olio perchÃ¨ a volte puÃ² risultare quasi stucchevole",
+				"RECENSIONE": "Wokaway ÃƒÂ¨ il mio salvacena Quando sto a casa da sola e la voglia di cucinare scarseggia chiamo wokaway per farmi portare gli udon al vitello a domicilio . Wokaway ÃƒÂ¨ un localino fantastico con personale alla mano e  davvero simpatici. Ha un ottima qualitÃƒÂ  prezzo . Ordino molto spesso andomicilio perÃƒÂ² le ultime due volte ci sono stati degli intoppi , avevo ordinato 2 udon al vitello e un pollo in tempura ma ÃƒÂ¨ arrivato ( in perfetto orario ) solo un udon e il pollo. Consiglio questo locale magari a chi sta visitando ancona e vuole fermarsi a fare una pausa pranzo. A quasi dimenticavo io nei piatti metterei un po' meno olio perchÃƒÂ¨ a volte puÃƒÂ² risultare quasi stucchevole",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -197,7 +197,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "â�¤ï¸� Molto buono e sano!vengo spesso a mangiare anche con amici da consigliare, non sapete cosa vi perdeteðŸ¤ŸðŸ‘…",
+				"RECENSIONE": "Ã¢ï¿½Â¤Ã¯Â¸ï¿½ Molto buono e sano!vengo spesso a mangiare anche con amici da consigliare, non sapete cosa vi perdeteÃ°Å¸Â¤Å¸Ã°Å¸â€˜â€¦",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -232,7 +232,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cena informale in centro cittÃ  Ubicato in una via laterale dell'area pedonale del centro cittÃ , offre piatti componibili da asporto o consumabili anche nei pochi tavolini all'esterno. Piatti ben fatti e con buoni ingredienti. Prezzi, nel complesso, data la particolare natura di cibo da asporto, non particolarmente economici soprattutto con riguardo delle bibite abbastanza care. Vale comunque una sosta.",
+				"RECENSIONE": "Cena informale in centro cittÃƒÂ  Ubicato in una via laterale dell'area pedonale del centro cittÃƒÂ , offre piatti componibili da asporto o consumabili anche nei pochi tavolini all'esterno. Piatti ben fatti e con buoni ingredienti. Prezzi, nel complesso, data la particolare natura di cibo da asporto, non particolarmente economici soprattutto con riguardo delle bibite abbastanza care. Vale comunque una sosta.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -313,7 +313,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Delicious!! Un salto in Asia nel centro di Ancona Siamo davvero soddisfatti di aver mangiato dei noodles gustosi e genuini! Street food asiatico eseguito da ragazzi molto cordiali e simpatici attenti alla provenienza delle materie prime, verdure a km0 e carne e pesce cotti sousvide! Ottimo rapporto qualitÃ  prezzo! Complementi e a presto! ",
+				"RECENSIONE": "Delicious!! Un salto in Asia nel centro di Ancona Siamo davvero soddisfatti di aver mangiato dei noodles gustosi e genuini! Street food asiatico eseguito da ragazzi molto cordiali e simpatici attenti alla provenienza delle materie prime, verdure a km0 e carne e pesce cotti sousvide! Ottimo rapporto qualitÃƒÂ  prezzo! Complementi e a presto! ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -396,7 +396,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Per un pasto ottimo e al giusto prezzo nel centro di Ancona Ã¨ il top Oramai Wokaway Ã¨ una conferma..Abbiamo preso gli spaghetti di soia con verdure, guanciale croccante e gamberetti..uno spettacolo! Servizio veloce e i ragazzi che lavorano lÃ¬ sono molto disponibili e alla mano..torneremo sicuramente!",
+				"RECENSIONE": "Per un pasto ottimo e al giusto prezzo nel centro di Ancona ÃƒÂ¨ il top Oramai Wokaway ÃƒÂ¨ una conferma..Abbiamo preso gli spaghetti di soia con verdure, guanciale croccante e gamberetti..uno spettacolo! Servizio veloce e i ragazzi che lavorano lÃƒÂ¬ sono molto disponibili e alla mano..torneremo sicuramente!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -548,7 +548,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Approvatissimo La prima cosa che abbiamo notato Ã¨ la cordialitÃ  del personale! Abbiamo preso i noodles con le verdure e gli udon con il pollo al curry.. eccezionali ed economici! Ci aspettavamo di mangiare dei piatti \u201cunti\u201d come ciÃ² che viene proposto nei wok-to-walk , invece i prodotti sono di ottima qualitÃ ",
+				"RECENSIONE": "Approvatissimo La prima cosa che abbiamo notato ÃƒÂ¨ la cordialitÃƒÂ  del personale! Abbiamo preso i noodles con le verdure e gli udon con il pollo al curry.. eccezionali ed economici! Ci aspettavamo di mangiare dei piatti \u201cunti\u201d come ciÃƒÂ² che viene proposto nei wok-to-walk , invece i prodotti sono di ottima qualitÃƒÂ ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -614,7 +614,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Pranzo veloce in centro ad Ancona Ingredienti freschi e di qualitÃ , ottimi abbinamenti e tanta scelta.\nPersonale simpatico e fa trasparire la propria passione.",
+				"RECENSIONE": "Pranzo veloce in centro ad Ancona Ingredienti freschi e di qualitÃƒÂ , ottimi abbinamenti e tanta scelta.\nPersonale simpatico e fa trasparire la propria passione.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -681,7 +681,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Gran posto Ci sono giÃ  stato un paio di volte, ottimo ristorante. Servono piatti fusion molto particolari ma molto Buoni, complimenti anche per l abbondanza",
+				"RECENSIONE": "Gran posto Ci sono giÃƒÂ  stato un paio di volte, ottimo ristorante. Servono piatti fusion molto particolari ma molto Buoni, complimenti anche per l abbondanza",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -730,7 +730,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Una bella sorpresa! Cibo ottimo, prodotti di qualitÃ , servizio veloce, cortese e professionale. Veramente consigliato per mangiare veloce ad Ancona.",
+				"RECENSIONE": "Una bella sorpresa! Cibo ottimo, prodotti di qualitÃƒÂ , servizio veloce, cortese e professionale. Veramente consigliato per mangiare veloce ad Ancona.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -877,7 +877,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Idea originale, cucina fusion Abbiamo ordinato due primi e un secondo da asporto. Quello che ci Ã© piaciuto di piÃ¹ sicuramente Ã¨ stato il tagliolino con il tonno affumicato e il nero di seppia (suggeritoci dallo staff), molto buono anche se un po\u2019 costoso (9,5\u20ac date le aggiunte), quello che ci ha convinto di meno sono i noodles di soia con il pollo alla curcuma, il pollo non era male ma nel complesso ci aspettavamo un piatto piÃ¹ speziato. Nella norma i gamberi. Tutti i piatti erano accompagnati da un mix di verdure molto ricco. Servizio rapido, per chi cena nel locale ci sono dei tavolini all\u2019esterno. Ci ritornerei.",
+				"RECENSIONE": "Idea originale, cucina fusion Abbiamo ordinato due primi e un secondo da asporto. Quello che ci ÃƒÂ© piaciuto di piÃƒÂ¹ sicuramente ÃƒÂ¨ stato il tagliolino con il tonno affumicato e il nero di seppia (suggeritoci dallo staff), molto buono anche se un po\u2019 costoso (9,5\u20ac date le aggiunte), quello che ci ha convinto di meno sono i noodles di soia con il pollo alla curcuma, il pollo non era male ma nel complesso ci aspettavamo un piatto piÃƒÂ¹ speziato. Nella norma i gamberi. Tutti i piatti erano accompagnati da un mix di verdure molto ricco. Servizio rapido, per chi cena nel locale ci sono dei tavolini all\u2019esterno. Ci ritornerei.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -1122,7 +1122,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Pesce crudo insapore e freddo Pesce crudo insapore e freddo (secondo noi avevamo le barche giÃ  pronte tenute in frigo pronto da servire). Non fanno lo scontrino, se non dopo richiesta. Atmosfera triste. ",
+				"RECENSIONE": "Pesce crudo insapore e freddo Pesce crudo insapore e freddo (secondo noi avevamo le barche giÃƒÂ  pronte tenute in frigo pronto da servire). Non fanno lo scontrino, se non dopo richiesta. Atmosfera triste. ",
 				"RATE RECENSIONE": 1,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -1412,7 +1412,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Nigiri mediocri  Una sera scelgo di venire a prendere del sushi take away per vedere la qualitÃ  dei nigiri, visto che sono ciÃ² che piÃ¹ simboleggia il sushi... Prendo un misto composto da:salmone, tonno, capesante, gamberi crudi, Anguilla, branzino, vongole,e un Sashimi di salmone, devo dire che tra tutti questi, quelli che secondo me sono stati piÃ¹ buoni degli altri sono state le capesante ed i gamberi... Per tutto il resto non ho trovato nessuna grande differenza con i buon all you can eat sparsi per Bologna\nCosto totale \u20ac25",
+				"RECENSIONE": "Nigiri mediocri  Una sera scelgo di venire a prendere del sushi take away per vedere la qualitÃƒÂ  dei nigiri, visto che sono ciÃƒÂ² che piÃƒÂ¹ simboleggia il sushi... Prendo un misto composto da:salmone, tonno, capesante, gamberi crudi, Anguilla, branzino, vongole,e un Sashimi di salmone, devo dire che tra tutti questi, quelli che secondo me sono stati piÃƒÂ¹ buoni degli altri sono state le capesante ed i gamberi... Per tutto il resto non ho trovato nessuna grande differenza con i buon all you can eat sparsi per Bologna\nCosto totale \u20ac25",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -1447,7 +1447,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Very japanese styleðŸ�£ Serata molto piacevole all insegna del vero stile giapponese, sia nell arredamento pulito ed essenziale sia nei piatti di ottima qualitÃ  e molto curati. Barca party top. Consigliatissimo. ",
+				"RECENSIONE": "Very japanese styleÃ°Å¸ï¿½Â£ Serata molto piacevole all insegna del vero stile giapponese, sia nell arredamento pulito ed essenziale sia nei piatti di ottima qualitÃƒÂ  e molto curati. Barca party top. Consigliatissimo. ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -1541,7 +1541,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "CONSIGLIATO Buona qualitÃ  e ambiente piacevole e pulito \nOttimo il rapporto con il prezzo e veloci nel servizio\nDi passaggio a Bologna non avrei dubbi a tornarci",
+				"RECENSIONE": "CONSIGLIATO Buona qualitÃƒÂ  e ambiente piacevole e pulito \nOttimo il rapporto con il prezzo e veloci nel servizio\nDi passaggio a Bologna non avrei dubbi a tornarci",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -1599,7 +1599,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Il migliore di Bologna Le recensioni degli avventori occasionali sono del tutto inattendibili. Siamo clienti abituali da anni e questo ristorante Ã¨ l'unico a conservare un rapporto tra qualitÃ  e prezzi eccellente, non solo a Bologna ma anche in molte altre cittÃ  d'Italia. Il cibo Ã¨ buonissimo, i piatti speciali hanno sapori che si distinguono dagli altri, mentre spesso le pietanze hanno lo stesso sapore pur avendo un aspetto e ingredienti diversi. La discrezione dei camerieri non Ã¨ maleducazione ma un fatto culturale. Provate saudate e poi fate un paragone con altri ristoranti. Perderanno di sicuro.",
+				"RECENSIONE": "Il migliore di Bologna Le recensioni degli avventori occasionali sono del tutto inattendibili. Siamo clienti abituali da anni e questo ristorante ÃƒÂ¨ l'unico a conservare un rapporto tra qualitÃƒÂ  e prezzi eccellente, non solo a Bologna ma anche in molte altre cittÃƒÂ  d'Italia. Il cibo ÃƒÂ¨ buonissimo, i piatti speciali hanno sapori che si distinguono dagli altri, mentre spesso le pietanze hanno lo stesso sapore pur avendo un aspetto e ingredienti diversi. La discrezione dei camerieri non ÃƒÂ¨ maleducazione ma un fatto culturale. Provate saudate e poi fate un paragone con altri ristoranti. Perderanno di sicuro.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -1989,7 +1989,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "una delusione pagata a caro prezzo vengo a cena in questo posto con un amico... un paio di amici vengono spesso qui e si trovano bene, ma io sinceramente non ho passato una bella esperienza... la qualitÃ  Ã¨ normale, ok non come nei sushi all you can eat ma leggermente maggiore, ma senza cosi tanta differenza... ci sono dei piatti particolari ma ce ne sono altri che sono invece simili a quelli dei menu AYCE, poi i prezzi comunque sono alti essendo un menÃ¹ alla carta e ripeto che per ciÃ² che ho pagato e per ciÃ² che ho mangiato, io non ci tornerÃ² sicuramente... ho altri ristoranti alla carta dove ho mangiato di meglio allo stesso prezzo quindi qui posso anche evitare di tornarci\n\np.s. uno dei camerieri Ã¨ stato anche molto sgorbutico e anti-professionale quando alla mia richiesta di leggere il menu, mentre ero di passaggio per prenotare, mi ha risposto un secco NO, e mi ha fatto andar via... mi dispiace per coloro che per problemi col cibo non possono leggere in anticipo il menu, almeno a me mi hanno trattato cosÃ¬",
+				"RECENSIONE": "una delusione pagata a caro prezzo vengo a cena in questo posto con un amico... un paio di amici vengono spesso qui e si trovano bene, ma io sinceramente non ho passato una bella esperienza... la qualitÃƒÂ  ÃƒÂ¨ normale, ok non come nei sushi all you can eat ma leggermente maggiore, ma senza cosi tanta differenza... ci sono dei piatti particolari ma ce ne sono altri che sono invece simili a quelli dei menu AYCE, poi i prezzi comunque sono alti essendo un menÃƒÂ¹ alla carta e ripeto che per ciÃƒÂ² che ho pagato e per ciÃƒÂ² che ho mangiato, io non ci tornerÃƒÂ² sicuramente... ho altri ristoranti alla carta dove ho mangiato di meglio allo stesso prezzo quindi qui posso anche evitare di tornarci\n\np.s. uno dei camerieri ÃƒÂ¨ stato anche molto sgorbutico e anti-professionale quando alla mia richiesta di leggere il menu, mentre ero di passaggio per prenotare, mi ha risposto un secco NO, e mi ha fatto andar via... mi dispiace per coloro che per problemi col cibo non possono leggere in anticipo il menu, almeno a me mi hanno trattato cosÃƒÂ¬",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2107,7 +2107,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sopra la media Ho frequentato diverse volte questo ristorante, sempre riscontrando un livello superiore alla maggioranza degli altri ristoranti giapponesi di Bologna. Grande varietÃ  di piatti, buona qualitÃ . Prezzi secondo me un po\u2019 cari, ma comunque consigliato.",
+				"RECENSIONE": "Sopra la media Ho frequentato diverse volte questo ristorante, sempre riscontrando un livello superiore alla maggioranza degli altri ristoranti giapponesi di Bologna. Grande varietÃƒÂ  di piatti, buona qualitÃƒÂ . Prezzi secondo me un po\u2019 cari, ma comunque consigliato.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2182,7 +2182,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "sempre una conferma sono un cliente abituale, vado in questo ristorante ormai da diversi anni e confermo ancora una volta, che a gusto mio, rimane il miglior ristorante di sushi della cittÃ \n\ndecisamente diverse spanne avanti rispetto a tutti gli all you can eat spuntati in ogni dove\n\nbravi!",
+				"RECENSIONE": "sempre una conferma sono un cliente abituale, vado in questo ristorante ormai da diversi anni e confermo ancora una volta, che a gusto mio, rimane il miglior ristorante di sushi della cittÃƒÂ \n\ndecisamente diverse spanne avanti rispetto a tutti gli all you can eat spuntati in ogni dove\n\nbravi!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2210,7 +2210,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Non escono fuori dal menÃ¹ Locale. nella media che non dÃ  la possibilitÃ  di ordinare un po di tutto ma vincola al menu.\nLocation apprezzabile e rigiditÃ  nel menu del giorno.\nMigliorabile senz'altro.",
+				"RECENSIONE": "Non escono fuori dal menÃƒÂ¹ Locale. nella media che non dÃƒÂ  la possibilitÃƒÂ  di ordinare un po di tutto ma vincola al menu.\nLocation apprezzabile e rigiditÃƒÂ  nel menu del giorno.\nMigliorabile senz'altro.",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2277,7 +2277,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottima qualitÃ   Finalmente un buon ristorante giapponese a Bologna. Il prezzo Ã¨ un po' alto, ma la qualitÃ  Ã¨ ottima. Non Ã¨ all you can eat ma si mangia davvero bene. ",
+				"RECENSIONE": "Ottima qualitÃƒÂ   Finalmente un buon ristorante giapponese a Bologna. Il prezzo ÃƒÂ¨ un po' alto, ma la qualitÃƒÂ  ÃƒÂ¨ ottima. Non ÃƒÂ¨ all you can eat ma si mangia davvero bene. ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2356,7 +2356,7 @@
 		"RANKING": 4
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Che delizia Locale suggestivo, delizioso, accoglienza eccellente. \nCi siamo stati due volte a colazione, veramente ottimi i dolci, il caffÃ¨ turco. \nSarÃ  la nostra tappa fissa quando saremo a Bologna.",
+				"RECENSIONE": "Che delizia Locale suggestivo, delizioso, accoglienza eccellente. \nCi siamo stati due volte a colazione, veramente ottimi i dolci, il caffÃƒÂ¨ turco. \nSarÃƒÂ  la nostra tappa fissa quando saremo a Bologna.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2442,7 +2442,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Tappa fissa! Ogni volta che riesco passo dal bar per un buon caffÃ¨ e una fetta di torta all'arancia.\n\nPersonale gentilissimo e sempre disponibile, locale pulito e curato in ogni dettaglio.\n\nAssolutamente consigliato.",
+				"RECENSIONE": "Tappa fissa! Ogni volta che riesco passo dal bar per un buon caffÃƒÂ¨ e una fetta di torta all'arancia.\n\nPersonale gentilissimo e sempre disponibile, locale pulito e curato in ogni dettaglio.\n\nAssolutamente consigliato.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2527,7 +2527,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Le mille e un pomeriggio Da subito siamo stati accolti calorosamente dal proprietario. \n L\u2019ambiente molto colorato, decorato e curato nel dettaglio mi ha fatto ricordare i Paesi arabi. Le pareti dipinte e i tipici divanetti marocchini.\nPer chi volesse sentirsi in Italia ma avere solo un assaggio di sapore arabo ci sono anche sedie e tavolini! Ci si puÃ² sedere anche fuori affacciandosi su una via poco trafficata, tranquilla. Ed Ã¨ bello vedere il contrasto sorseggiando un the marocchino in una via bolognese.\nLe pietanze davvero deliziose! Un vero viaggio culinario andando in Turchia con il tipico caffÃ¨ turco, in Marocco con il rinomato tÃ¨ e per chi non volesse andare troppo lontano ci sono ottime spremute e succhi.\nI cibi fatti bene, la presentazione non manca. \nConsigliato anche per chi volesse lavorare al pc senza essere disturbato, le chiacchiere di sottofondo non sono un problema.\nConsigliatissimo, ci torneremo.",
+				"RECENSIONE": "Le mille e un pomeriggio Da subito siamo stati accolti calorosamente dal proprietario. \n L\u2019ambiente molto colorato, decorato e curato nel dettaglio mi ha fatto ricordare i Paesi arabi. Le pareti dipinte e i tipici divanetti marocchini.\nPer chi volesse sentirsi in Italia ma avere solo un assaggio di sapore arabo ci sono anche sedie e tavolini! Ci si puÃƒÂ² sedere anche fuori affacciandosi su una via poco trafficata, tranquilla. Ed ÃƒÂ¨ bello vedere il contrasto sorseggiando un the marocchino in una via bolognese.\nLe pietanze davvero deliziose! Un vero viaggio culinario andando in Turchia con il tipico caffÃƒÂ¨ turco, in Marocco con il rinomato tÃƒÂ¨ e per chi non volesse andare troppo lontano ci sono ottime spremute e succhi.\nI cibi fatti bene, la presentazione non manca. \nConsigliato anche per chi volesse lavorare al pc senza essere disturbato, le chiacchiere di sottofondo non sono un problema.\nConsigliatissimo, ci torneremo.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2811,7 +2811,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "UNA CHICCA DI BAR! PROVARE PER CREDERE. Questa sera, insieme ad amici, ho trascorso una serata in questo localino che Ã¨ situato in pieno centro storico. Lo frequento spesso poichÃ© si trova sotto casa ed, ormai, la colazione della domenica mattina Ã¨ un rito a cui non riesco piÃ¹ a rinunciare. Il locale, pulitissimo e luminoso, si presenta curato in ogni dettaglio: tutto, dalle tazzine al narghilÃ©, dai dolci al tÃ¨, dalla musica ai proprietari stessi, ricorda la magica atmosfera della cultura marocchina ed egiziana. I padroni di casa sono di una gentilezza indiscutibile ed accolgono i clienti sempre con un gran sorriso. \nOltre al servizio di caffetteria, Ã¨ possibile usufruire anche del servizio risto-bar che dispone di una gustosa varietÃ  di pietanze, italiane e non, tutte preparate con gran cura. Consigliatissimo, inoltre, per gli amanti del narghilÃ©: diversi gusti sono lÃ¬ pronti ad attendervi.",
+				"RECENSIONE": "UNA CHICCA DI BAR! PROVARE PER CREDERE. Questa sera, insieme ad amici, ho trascorso una serata in questo localino che ÃƒÂ¨ situato in pieno centro storico. Lo frequento spesso poichÃƒÂ© si trova sotto casa ed, ormai, la colazione della domenica mattina ÃƒÂ¨ un rito a cui non riesco piÃƒÂ¹ a rinunciare. Il locale, pulitissimo e luminoso, si presenta curato in ogni dettaglio: tutto, dalle tazzine al narghilÃƒÂ©, dai dolci al tÃƒÂ¨, dalla musica ai proprietari stessi, ricorda la magica atmosfera della cultura marocchina ed egiziana. I padroni di casa sono di una gentilezza indiscutibile ed accolgono i clienti sempre con un gran sorriso. \nOltre al servizio di caffetteria, ÃƒÂ¨ possibile usufruire anche del servizio risto-bar che dispone di una gustosa varietÃƒÂ  di pietanze, italiane e non, tutte preparate con gran cura. Consigliatissimo, inoltre, per gli amanti del narghilÃƒÂ©: diversi gusti sono lÃƒÂ¬ pronti ad attendervi.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -2960,7 +2960,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Esperienza splendida!!! Locale suggestivo, personale super, qualitÃ  top, narghilÃ¨ semplicemente fantastico. Consigliatissimo!",
+				"RECENSIONE": "Esperienza splendida!!! Locale suggestivo, personale super, qualitÃƒÂ  top, narghilÃƒÂ¨ semplicemente fantastico. Consigliatissimo!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -3043,7 +3043,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cena tra amici Luogo intimo e accogliente, con un arredamento molto caratteristico e piacevole musica di sottofondo. Il gestore Ã¨ una persona davvero gentile e amichevole. Dolci e cocktail squisiti, idem il narguilÃ©",
+				"RECENSIONE": "Cena tra amici Luogo intimo e accogliente, con un arredamento molto caratteristico e piacevole musica di sottofondo. Il gestore ÃƒÂ¨ una persona davvero gentile e amichevole. Dolci e cocktail squisiti, idem il narguilÃƒÂ©",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -3116,7 +3116,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Aperitivo alternativo Tutto buonissimo, abbiamo preso il tÃ¨ alla menta e qualche dolce tipico per un aperitivo alternativo prima di cena. Sia i dolci che il tÃ¨ erano deliziosi, ci ha fatto piacere provare dolci tipici di un\u2019altra cultura. Personale super disponibile e alla mano, vasta scelta e anche il posto Ã¨ stupendo. Torneremo sicuramente!",
+				"RECENSIONE": "Aperitivo alternativo Tutto buonissimo, abbiamo preso il tÃƒÂ¨ alla menta e qualche dolce tipico per un aperitivo alternativo prima di cena. Sia i dolci che il tÃƒÂ¨ erano deliziosi, ci ha fatto piacere provare dolci tipici di un\u2019altra cultura. Personale super disponibile e alla mano, vasta scelta e anche il posto ÃƒÂ¨ stupendo. Torneremo sicuramente!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -3227,7 +3227,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "tranquillitÃ  e gentilizza con un tocco esotico Il caffÃ¨ Shahrazad Ã¨ un\u2019oasi di pace e cortesia, perfetta per rilassarsi in qualsiasi momento della giornata. I proprietari sono gentilissimi, il locale Ã¨ molto curato, pulito, accogliente. Accanto alla tradizione da bar per colazioni italiane, l\u2019offerta si arricchisce con piatti egiziano/marocchini alleggeriti e meno speziati rispetto alla versione originale.\nL\u2019offerta Ã¨ a oggi abbastanza limitata, ma la qualitÃ  Ã¨ elevatissima e pronta a soddisfare le esigenze di ciascuno: accanto a piatti di carne ce ne sono altri vegetariani e vegani proprio sfiziosi. Il baba ghannuj Ã¨ eccellente, l\u2019assenza di aglio lo rende idoneo anche alla consumazione intra lavorativa. I dolci medio-orientali offerti sono ottimi. Vasta Ã¨ la scelta di tÃ¨, infusi, bevande, centrifugati. A breve installeranno anche il gazebo per sedere all\u2019aperto. Non si servono alcolici. \nConsigliatissimo",
+				"RECENSIONE": "tranquillitÃƒÂ  e gentilizza con un tocco esotico Il caffÃƒÂ¨ Shahrazad ÃƒÂ¨ un\u2019oasi di pace e cortesia, perfetta per rilassarsi in qualsiasi momento della giornata. I proprietari sono gentilissimi, il locale ÃƒÂ¨ molto curato, pulito, accogliente. Accanto alla tradizione da bar per colazioni italiane, l\u2019offerta si arricchisce con piatti egiziano/marocchini alleggeriti e meno speziati rispetto alla versione originale.\nL\u2019offerta ÃƒÂ¨ a oggi abbastanza limitata, ma la qualitÃƒÂ  ÃƒÂ¨ elevatissima e pronta a soddisfare le esigenze di ciascuno: accanto a piatti di carne ce ne sono altri vegetariani e vegani proprio sfiziosi. Il baba ghannuj ÃƒÂ¨ eccellente, l\u2019assenza di aglio lo rende idoneo anche alla consumazione intra lavorativa. I dolci medio-orientali offerti sono ottimi. Vasta ÃƒÂ¨ la scelta di tÃƒÂ¨, infusi, bevande, centrifugati. A breve installeranno anche il gazebo per sedere all\u2019aperto. Non si servono alcolici. \nConsigliatissimo",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -3544,7 +3544,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Bellissima atmosfera e gentilezza Ho conosciuto lo shehrazad CafÃ© circa un anno fa perchÃ© organizzavano un corso di arabo gratuito. Ci vado ogni volta che posso. L'accoglienza dei due ragazzi che lo hanno creato e ci lavorano, AlÃ¬ e Abdallah, Ã¨ sempre calorosa ;sono gentili e comunicativi. \nPotete gustare te',infusi di origine marocchina, egiziana e mediorientale, tutti di ottima qualitÃ  e serviti nella tipica teiera. Anche i dolci sono ottimi e sempre freschi; l'aspetto positivo Ã¨ che sono sempre alla ricerca di qualcosa di nuovo e ogni volta si puÃ² assaggiare qualcosa di diverso. Qua potete trovare un sahab ottimo e in estate puoi rinfrescarti con karcade'freddo e altri shekerati.\nHo anche festeggiato il mio compleanno e ci hanno preparato un piatto misto di carne e cous cous. Hanno anche un ottimo hummus e ottimi falafel. \nÃˆ un locale accogliente dove Ã¨ possibile trovarsi col proprio gruppo di amici, col mio gruppo ad esempio organizziamo qualche volta degli scambi linguistici, ed Ã¨ stato sempre tutto perfetto e i ragazzi si sono sempre resi disponibili per accoglierci. \nSono molto felice che esista questo luogo nel cuore di Bologna, \nGrazie ragazzi !",
+				"RECENSIONE": "Bellissima atmosfera e gentilezza Ho conosciuto lo shehrazad CafÃƒÂ© circa un anno fa perchÃƒÂ© organizzavano un corso di arabo gratuito. Ci vado ogni volta che posso. L'accoglienza dei due ragazzi che lo hanno creato e ci lavorano, AlÃƒÂ¬ e Abdallah, ÃƒÂ¨ sempre calorosa ;sono gentili e comunicativi. \nPotete gustare te',infusi di origine marocchina, egiziana e mediorientale, tutti di ottima qualitÃƒÂ  e serviti nella tipica teiera. Anche i dolci sono ottimi e sempre freschi; l'aspetto positivo ÃƒÂ¨ che sono sempre alla ricerca di qualcosa di nuovo e ogni volta si puÃƒÂ² assaggiare qualcosa di diverso. Qua potete trovare un sahab ottimo e in estate puoi rinfrescarti con karcade'freddo e altri shekerati.\nHo anche festeggiato il mio compleanno e ci hanno preparato un piatto misto di carne e cous cous. Hanno anche un ottimo hummus e ottimi falafel. \nÃƒË† un locale accogliente dove ÃƒÂ¨ possibile trovarsi col proprio gruppo di amici, col mio gruppo ad esempio organizziamo qualche volta degli scambi linguistici, ed ÃƒÂ¨ stato sempre tutto perfetto e i ragazzi si sono sempre resi disponibili per accoglierci. \nSono molto felice che esista questo luogo nel cuore di Bologna, \nGrazie ragazzi !",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -3794,7 +3794,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Deliziosa coccola Deliziosa pausa regalatami oggi, per caso, passando davanti questo locale curato in ogni dettaglio. A cominciare dal gentilissimo barman e per finire all'ottimo the verde alla menta fresca servito alla maniera maghrebina, in bicchierino e teiera in silver molto curata. Invogliata dal servizio, ho preso anche due biscottini alla curcuma fragranti. Il tutto per 4 euro. Ho visto che viene offerto un menu ricco di piatti magrebini. TornerÃ² senz'altro in compagnia per condividere la sensazione  di un'atmosfera che ho sentito autenticamente piacevole e, ovviamente, per assaggiare le pietanze di una cucina che amo molto.",
+				"RECENSIONE": "Deliziosa coccola Deliziosa pausa regalatami oggi, per caso, passando davanti questo locale curato in ogni dettaglio. A cominciare dal gentilissimo barman e per finire all'ottimo the verde alla menta fresca servito alla maniera maghrebina, in bicchierino e teiera in silver molto curata. Invogliata dal servizio, ho preso anche due biscottini alla curcuma fragranti. Il tutto per 4 euro. Ho visto che viene offerto un menu ricco di piatti magrebini. TornerÃƒÂ² senz'altro in compagnia per condividere la sensazione  di un'atmosfera che ho sentito autenticamente piacevole e, ovviamente, per assaggiare le pietanze di una cucina che amo molto.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -3892,7 +3892,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Dipendenza da Shehrazad CafÃ¨ Assidui clienti fin dall\u2019apertura, io ed il mio compagno non manchiamo mai per un ottimo the alla menta marocchino, una ricca colazione o una merenda pomeridiana. \nProprietari gentilissimi, proposte sempre nuove. L\u2019atmosfera Ã¨ cosÃ¬ avvolgente ed esotica da sentirsi in viaggio. \nConsigliatissimo ",
+				"RECENSIONE": "Dipendenza da Shehrazad CafÃƒÂ¨ Assidui clienti fin dall\u2019apertura, io ed il mio compagno non manchiamo mai per un ottimo the alla menta marocchino, una ricca colazione o una merenda pomeridiana. \nProprietari gentilissimi, proposte sempre nuove. L\u2019atmosfera ÃƒÂ¨ cosÃƒÂ¬ avvolgente ed esotica da sentirsi in viaggio. \nConsigliatissimo ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -3992,7 +3992,7 @@
 		"RANKING": 5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "lo adoro premetto che non sono espertissimo di sushi ma rispetto ad altri che ho provato mi pare di buona qualitÃ . ci sono andato diverse volte a pranzo, lo trovo molto rilassante con una piacevole atmosfera, gestito da personale accogliente e discreto",
+				"RECENSIONE": "lo adoro premetto che non sono espertissimo di sushi ma rispetto ad altri che ho provato mi pare di buona qualitÃƒÂ . ci sono andato diverse volte a pranzo, lo trovo molto rilassante con una piacevole atmosfera, gestito da personale accogliente e discreto",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4055,7 +4055,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un buon all you can eat  Scoperto per caso in un viaggio di lavoro e devo dire che sono rimasto piacevolmente soddisfatto. Un buon sushi e personale cortese.\nSicuramente lo terrÃ² in considerazione nei prossimi viaggi.",
+				"RECENSIONE": "Un buon all you can eat  Scoperto per caso in un viaggio di lavoro e devo dire che sono rimasto piacevolmente soddisfatto. Un buon sushi e personale cortese.\nSicuramente lo terrÃƒÂ² in considerazione nei prossimi viaggi.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4115,7 +4115,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "ritorno dopo 1 anno e mezzo ritorno a cena dopo circa 1 anno e mezzo e sono rimasto piacevolmente sorpreso.\nMenÃ¹ vario, locale pulito, prezzi nella media, \"rullo\" migliorato notevolmente e camerieri gentilissimi.\nHo notato che le porzioni sono state ridotte, ma la qualitÃ  mi pare abbastanza alta.\nNoodles davvero molto buoni!",
+				"RECENSIONE": "ritorno dopo 1 anno e mezzo ritorno a cena dopo circa 1 anno e mezzo e sono rimasto piacevolmente sorpreso.\nMenÃƒÂ¹ vario, locale pulito, prezzi nella media, \"rullo\" migliorato notevolmente e camerieri gentilissimi.\nHo notato che le porzioni sono state ridotte, ma la qualitÃƒÂ  mi pare abbastanza alta.\nNoodles davvero molto buoni!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4227,7 +4227,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Meglio prima Lo conoscevo prima come ristorante cinese specializzato in noodles, adesso Ã¨ un giapponese che fa soprattutto sushi e qualche altro piatto cinese o impanate e patatine. Personale molto gentile, buono perÃ² lo preferivo prima",
+				"RECENSIONE": "Meglio prima Lo conoscevo prima come ristorante cinese specializzato in noodles, adesso ÃƒÂ¨ un giapponese che fa soprattutto sushi e qualche altro piatto cinese o impanate e patatine. Personale molto gentile, buono perÃƒÂ² lo preferivo prima",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4318,7 +4318,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sympa !  Large choix de nourriture que ce soit en friture, en sushi/maki et mÃªme en dessert. Tout Ã©taient trÃ¨s bons. \nConcept sympa et menu Ã  volontÃ© Ã  13\u20ac le midi. \nPetit bÃ©mol sur l\u2019accueil peu chaleureux pourtant nous parlons italien. Ainsi que sur le prix des boissons. ",
+				"RECENSIONE": "Sympa !  Large choix de nourriture que ce soit en friture, en sushi/maki et mÃƒÂªme en dessert. Tout ÃƒÂ©taient trÃƒÂ¨s bons. \nConcept sympa et menu ÃƒÂ  volontÃƒÂ© ÃƒÂ  13\u20ac le midi. \nPetit bÃƒÂ©mol sur l\u2019accueil peu chaleureux pourtant nous parlons italien. Ainsi que sur le prix des boissons. ",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4407,7 +4407,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Molto buono e ottima qualitÃ  Io e il mio compagno abbiamo cenato in questo locale e ci siamo trovati molto bene, moltissima varietÃ  e ottima qualitÃ  di pesce e molte varianti che non tutti i locali all you can eat hanno. Prezzi nella media ma li valgono tutti. Locale a due passi dall'acquario",
+				"RECENSIONE": "Molto buono e ottima qualitÃƒÂ  Io e il mio compagno abbiamo cenato in questo locale e ci siamo trovati molto bene, moltissima varietÃƒÂ  e ottima qualitÃƒÂ  di pesce e molte varianti che non tutti i locali all you can eat hanno. Prezzi nella media ma li valgono tutti. Locale a due passi dall'acquario",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4493,7 +4493,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Comida japonesa na ItÃ¡lia  Parece um contrassenso buscar um jantar oriental quando se estÃ¡ em GÃªnova, mas se vocÃª jÃ¡ provou a cozinha local vale a visita. PreÃ§o fixo para usufruir de todos os pratos da esteira e de um universo considerÃ¡vel do cardÃ¡pio.  NÃ£o deixa a desejar comparando com os melhores de SP, sÃ³ nÃ£o espere tepan de picanha, a maior variaÃ§Ã£o que encontramos foi sushi com arroz negro. \n",
+				"RECENSIONE": "Comida japonesa na ItÃƒÂ¡lia  Parece um contrassenso buscar um jantar oriental quando se estÃƒÂ¡ em GÃƒÂªnova, mas se vocÃƒÂª jÃƒÂ¡ provou a cozinha local vale a visita. PreÃƒÂ§o fixo para usufruir de todos os pratos da esteira e de um universo considerÃƒÂ¡vel do cardÃƒÂ¡pio.  NÃƒÂ£o deixa a desejar comparando com os melhores de SP, sÃƒÂ³ nÃƒÂ£o espere tepan de picanha, a maior variaÃƒÂ§ÃƒÂ£o que encontramos foi sushi com arroz negro. \n",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4549,7 +4549,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Riscoperta del SUSHI. Tutto molto buono. \nPersonale gentile, locale accogliente, abbastanza a tema orientale. \nIo e una mia amica abbiamo fatto ALL YOU CAN EAT al prezzo di 21.90\u20ac aggiungendo dei piatti senza pagare extra. \n\nIl gusto delle pietanze Ã¨ forte e deciso, molto allettante. \nL'unica cosa, forse, il taglio del salmone e del tonno troppo spesso, per i miei gusti, ma per il resto ottimo, davvero.",
+				"RECENSIONE": "Riscoperta del SUSHI. Tutto molto buono. \nPersonale gentile, locale accogliente, abbastanza a tema orientale. \nIo e una mia amica abbiamo fatto ALL YOU CAN EAT al prezzo di 21.90\u20ac aggiungendo dei piatti senza pagare extra. \n\nIl gusto delle pietanze ÃƒÂ¨ forte e deciso, molto allettante. \nL'unica cosa, forse, il taglio del salmone e del tonno troppo spesso, per i miei gusti, ma per il resto ottimo, davvero.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4675,7 +4675,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Piacevolissima sorpresa!  Abbiamo cenato presso il ristorante e siamo rimasti piacevolmente sorpresi. L'ambiente Ã¨ molto carino e pulito ed il personale gentile. MenÃ¹ All You Can Eat valido con una buona quantitÃ  di piatti inclusi nel menÃ¹ compreso Ramen (non l'abbiamo provato), sushi e altro.\nNastro abbastanza vario e con un buon ricambio nonostante la serata non proprio affollata (MartedÃ¬ sera).\nPrezzo in linea con altri ristoranti del genere a Genova. Ci torneremo sicuramente",
+				"RECENSIONE": "Piacevolissima sorpresa!  Abbiamo cenato presso il ristorante e siamo rimasti piacevolmente sorpresi. L'ambiente ÃƒÂ¨ molto carino e pulito ed il personale gentile. MenÃƒÂ¹ All You Can Eat valido con una buona quantitÃƒÂ  di piatti inclusi nel menÃƒÂ¹ compreso Ramen (non l'abbiamo provato), sushi e altro.\nNastro abbastanza vario e con un buon ricambio nonostante la serata non proprio affollata (MartedÃƒÂ¬ sera).\nPrezzo in linea con altri ristoranti del genere a Genova. Ci torneremo sicuramente",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4811,7 +4811,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Fantastico Siamo stati a mangiare oggi 27 agosto a pranzo abbiamo mangiato veramente bene menÃ¹ variegato pesce freschissimo e anche se era il menÃ¹ pranzo Ã¨ veramente molto buono consigliato.Noi da Savona veniamo a mangiare qui",
+				"RECENSIONE": "Fantastico Siamo stati a mangiare oggi 27 agosto a pranzo abbiamo mangiato veramente bene menÃƒÂ¹ variegato pesce freschissimo e anche se era il menÃƒÂ¹ pranzo ÃƒÂ¨ veramente molto buono consigliato.Noi da Savona veniamo a mangiare qui",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4933,7 +4933,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sushi sur tapis tiÃ¨des mais bons Ã  la carte Passant devant en sortant du travail je me suis dit que je me ferais bien un japonais pour changer.\nLe menu tapis roulant + plats \"vert\" Ã  volontÃ© pour 22 \u20ac est intÃ©ressant mais j'ai trouvÃ© les plats sur le tapis roulant tiÃ¨de en mÃªme temps il fait trÃ¨s chaud et nous n'Ã©tions pas nombreux dans le restaurant du coup certains devaient Ãªtre lÃ  depuis 1h ðŸ˜’\nIl est possible de commander des plats plus ou moins Ã©laborÃ©s avec ou sans supplÃ©ment du coup il est tout Ã  fait possible de manger trÃ¨s correctement pour un prix raisonnable.\nPersonnellement je m'en suis sorti Ã  30 \u20ac avec un demi litre de vin et qq supplÃ©ments.",
+				"RECENSIONE": "Sushi sur tapis tiÃƒÂ¨des mais bons ÃƒÂ  la carte Passant devant en sortant du travail je me suis dit que je me ferais bien un japonais pour changer.\nLe menu tapis roulant + plats \"vert\" ÃƒÂ  volontÃƒÂ© pour 22 \u20ac est intÃƒÂ©ressant mais j'ai trouvÃƒÂ© les plats sur le tapis roulant tiÃƒÂ¨de en mÃƒÂªme temps il fait trÃƒÂ¨s chaud et nous n'ÃƒÂ©tions pas nombreux dans le restaurant du coup certains devaient ÃƒÂªtre lÃƒÂ  depuis 1h Ã°Å¸Ëœâ€™\nIl est possible de commander des plats plus ou moins ÃƒÂ©laborÃƒÂ©s avec ou sans supplÃƒÂ©ment du coup il est tout ÃƒÂ  fait possible de manger trÃƒÂ¨s correctement pour un prix raisonnable.\nPersonnellement je m'en suis sorti ÃƒÂ  30 \u20ac avec un demi litre de vin et qq supplÃƒÂ©ments.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -4970,7 +4970,7 @@
 										"OPINION SENTIMENT": "positive",
 										"OPINION": "good"
 									}],
-									"ASPECT": "Ã  la carte",
+									"ASPECT": "ÃƒÂ  la carte",
 									"SENTIMENT ASPECT": "positive"
 								}
 							]
@@ -5023,7 +5023,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Per gli amanti del sushi  Ci siamo capitati per caso uscendo dal cinema.\nLocation molto carina, si puÃ² scegliere i piatti dal nastro e alla carta sempre con menÃ¹ all you can eat , ottimo cibo e pesce freschissimo. Per chi ama il sushi e non solo come me Ã¨ sicuramente da provare! Ci tornerÃ² molto presto. ",
+				"RECENSIONE": "Per gli amanti del sushi  Ci siamo capitati per caso uscendo dal cinema.\nLocation molto carina, si puÃƒÂ² scegliere i piatti dal nastro e alla carta sempre con menÃƒÂ¹ all you can eat , ottimo cibo e pesce freschissimo. Per chi ama il sushi e non solo come me ÃƒÂ¨ sicuramente da provare! Ci tornerÃƒÂ² molto presto. ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -5102,7 +5102,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Il migliore di Genova Sono andato a mangiare con mia moglie .Ã¨ stato veramente spettacolare pesce fresco e preparato bene il migliore",
+				"RECENSIONE": "Il migliore di Genova Sono andato a mangiare con mia moglie .ÃƒÂ¨ stato veramente spettacolare pesce fresco e preparato bene il migliore",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -5152,7 +5152,7 @@
 		"RANKING": 4
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Il migliore di Genova MenÃº originale rispetto alla media, sapori autentici, in una parola: eccezionale. Ormai diventerÃ  una tappa fissa. Complimenti a tutto lo staff! ",
+				"RECENSIONE": "Il migliore di Genova MenÃƒÂº originale rispetto alla media, sapori autentici, in una parola: eccezionale. Ormai diventerÃƒÂ  una tappa fissa. Complimenti a tutto lo staff! ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -5262,7 +5262,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un\u2019atmosfera piacevolissima La prima sensazione e di grande pulizia.\nI gestori sono molto gentili e dispinibili e molto attenti al cliente.\nIl cibo Ã© ottimo  nonostante  la scelta sia molto ampia.\nLo consiglio vivamente.",
+				"RECENSIONE": "Un\u2019atmosfera piacevolissima La prima sensazione e di grande pulizia.\nI gestori sono molto gentili e dispinibili e molto attenti al cliente.\nIl cibo ÃƒÂ© ottimo  nonostante  la scelta sia molto ampia.\nLo consiglio vivamente.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -5361,7 +5361,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cinese di rara qualitÃ . Cucina cinese semplice ma realizzata con cura e con ingredienti di qualitÃ . \nSi tratta senza dubbio del miglior ristorante cinese in cittÃ , ciÃ² che non Ã¨ poi difficile, considerando il livello del ristorante cinese medio. \nNel menÃ¹ sono presenti anche il pescato del giorno e l'anatra alla pechinese, che viene preparata su ordinazione.\nServizio e ambiente curati.\nConsigliato. ",
+				"RECENSIONE": "Cinese di rara qualitÃƒÂ . Cucina cinese semplice ma realizzata con cura e con ingredienti di qualitÃƒÂ . \nSi tratta senza dubbio del miglior ristorante cinese in cittÃƒÂ , ciÃƒÂ² che non ÃƒÂ¨ poi difficile, considerando il livello del ristorante cinese medio. \nNel menÃƒÂ¹ sono presenti anche il pescato del giorno e l'anatra alla pechinese, che viene preparata su ordinazione.\nServizio e ambiente curati.\nConsigliato. ",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -5473,7 +5473,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottimo cinese Ristorante cinese \"tradizionale\" tutti piatti provati sono risultati buoni, personale gentile e ambiente carino, l'unico suggerimento che mi sento di dare Ã¨ di servire le portate piÃ¹ calde, anche il prezzo Ã¨ risultato corretto.",
+				"RECENSIONE": "Ottimo cinese Ristorante cinese \"tradizionale\" tutti piatti provati sono risultati buoni, personale gentile e ambiente carino, l'unico suggerimento che mi sento di dare ÃƒÂ¨ di servire le portate piÃƒÂ¹ calde, anche il prezzo ÃƒÂ¨ risultato corretto.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -5594,7 +5594,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Consigliatissimo anche ai celiaci Ho mangiato piÃ¹ di una volta in questo ristorante. Sono rimasta colpita non solo dalla qualitÃ  dei piatti ma anche dalla preparazione del personale riguardo la celiachia. Hanno una vasta scelta di proposte senza glutine, rapidissimi a proporti alternative e tutto buonissimo.",
+				"RECENSIONE": "Consigliatissimo anche ai celiaci Ho mangiato piÃƒÂ¹ di una volta in questo ristorante. Sono rimasta colpita non solo dalla qualitÃƒÂ  dei piatti ma anche dalla preparazione del personale riguardo la celiachia. Hanno una vasta scelta di proposte senza glutine, rapidissimi a proporti alternative e tutto buonissimo.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -5650,7 +5650,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottima cena Siamo andati con la famiglia\nIl locale e molto accogliente,personale  molto gentile.\nSpiegano molto bene i piatti e il servizio Ã¨ molto veloce.\nLa qualitÃ  del cibo e ottima e secondo me Ã¨ uno dei ristoranti cinesi migliori di Genova.\nOttimo il rapporto qualitÃ  prezzo \n",
+				"RECENSIONE": "Ottima cena Siamo andati con la famiglia\nIl locale e molto accogliente,personale  molto gentile.\nSpiegano molto bene i piatti e il servizio ÃƒÂ¨ molto veloce.\nLa qualitÃƒÂ  del cibo e ottima e secondo me ÃƒÂ¨ uno dei ristoranti cinesi migliori di Genova.\nOttimo il rapporto qualitÃƒÂ  prezzo \n",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -5961,7 +5961,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ð�Ðµ ÐºÐ¸Ñ‚Ð°Ð¹Ñ�ÐºÐ¸Ð¹ Ñ€ÐµÑ�Ñ‚Ð¾Ñ€Ð°Ð½ ÐšÐ¸Ñ‚Ð°Ð¹Ñ�ÐºÐ¾Ð¹ ÐºÑƒÑ…Ð½Ð¸ Ð·Ð´ÐµÑ�ÑŒ Ð½ÐµÑ‚, Ð¾Ñ„Ð¾Ñ€Ð¼Ð»ÐµÐ½Ð¸Ðµ Ð±Ð»ÑŽÐ´ Ð¾Ñ‡ÐµÐ½ÑŒ Ð¿Ð¾Ñ…Ð¾Ð¶Ðµ Ð½Ð° ÐºÐ¸Ñ‚Ð°Ð¹Ñ�ÐºÐ¸Ðµ, Ð½Ð¾ Ð²ÐºÑƒÑ� Ð½ÐµÑ‚! Ð�Ðµ Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÑŽ ÐºÐ°Ðº Ñ€ÐµÑ�Ñ‚Ð¾Ñ€Ð°Ð½ ÐºÐ¸Ñ‚Ð°Ð¹Ñ�ÐºÐ¾Ð¹ ÐºÑƒÑ…Ð½Ð¸. ",
+				"RECENSIONE": "Ã�ï¿½Ã�Âµ Ã�ÂºÃ�Â¸Ã‘â€šÃ�Â°Ã�Â¹Ã‘ï¿½Ã�ÂºÃ�Â¸Ã�Â¹ Ã‘â‚¬Ã�ÂµÃ‘ï¿½Ã‘â€šÃ�Â¾Ã‘â‚¬Ã�Â°Ã�Â½ Ã�Å¡Ã�Â¸Ã‘â€šÃ�Â°Ã�Â¹Ã‘ï¿½Ã�ÂºÃ�Â¾Ã�Â¹ Ã�ÂºÃ‘Æ’Ã‘â€¦Ã�Â½Ã�Â¸ Ã�Â·Ã�Â´Ã�ÂµÃ‘ï¿½Ã‘Å’ Ã�Â½Ã�ÂµÃ‘â€š, Ã�Â¾Ã‘â€žÃ�Â¾Ã‘â‚¬Ã�Â¼Ã�Â»Ã�ÂµÃ�Â½Ã�Â¸Ã�Âµ Ã�Â±Ã�Â»Ã‘Å½Ã�Â´ Ã�Â¾Ã‘â€¡Ã�ÂµÃ�Â½Ã‘Å’ Ã�Â¿Ã�Â¾Ã‘â€¦Ã�Â¾Ã�Â¶Ã�Âµ Ã�Â½Ã�Â° Ã�ÂºÃ�Â¸Ã‘â€šÃ�Â°Ã�Â¹Ã‘ï¿½Ã�ÂºÃ�Â¸Ã�Âµ, Ã�Â½Ã�Â¾ Ã�Â²Ã�ÂºÃ‘Æ’Ã‘ï¿½ Ã�Â½Ã�ÂµÃ‘â€š! Ã�ï¿½Ã�Âµ Ã‘â‚¬Ã�ÂµÃ�ÂºÃ�Â¾Ã�Â¼Ã�ÂµÃ�Â½Ã�Â´Ã‘Æ’Ã‘Å½ Ã�ÂºÃ�Â°Ã�Âº Ã‘â‚¬Ã�ÂµÃ‘ï¿½Ã‘â€šÃ�Â¾Ã‘â‚¬Ã�Â°Ã�Â½ Ã�ÂºÃ�Â¸Ã‘â€šÃ�Â°Ã�Â¹Ã‘ï¿½Ã�ÂºÃ�Â¾Ã�Â¹ Ã�ÂºÃ‘Æ’Ã‘â€¦Ã�Â½Ã�Â¸. ",
 				"RATE RECENSIONE": 2,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6176,7 +6176,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottimo Sono venuto questa sera con la mia ragazza, entrambi ci siamo trovati benissimo.\nQualitÃ¡ del cibo ottima, servizio veloce e personale simpatico.\nRapporto qualitÃ¡ prezzo perfetto.\nRitorneremo.",
+				"RECENSIONE": "Ottimo Sono venuto questa sera con la mia ragazza, entrambi ci siamo trovati benissimo.\nQualitÃƒÂ¡ del cibo ottima, servizio veloce e personale simpatico.\nRapporto qualitÃƒÂ¡ prezzo perfetto.\nRitorneremo.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6265,7 +6265,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "ç¾Žå‘³ã�—ã�„ ã‚¤ã‚¿ãƒªã‚¢æ—…è¡Œï¼–æ—¥ç›®ã€�ã‚¹ãƒ‘ã‚²ãƒƒãƒ†ã‚£ã‚„ãƒ”ã‚¶ã‚’é£½ã��ã�Ÿé ƒã€�ä½•ã� ã�‹æ¸©ã�‹ã�„ç‰©ã‚’é£Ÿã�¹ã�Ÿã�„ã€�ã‚¢ã‚¸ã‚¢æ–™ç�†ã‚’é£Ÿã�¹ã�Ÿã�„ã�ªã€�ã�£ã�¦ã€�èª¿ã�¹ã�Ÿã‚‰ã€�ã�“ã�®åº—ã�«ã��ã�¾ã�—ã�Ÿã€‚ãƒ¨ãƒ¼ãƒ­ãƒƒãƒ‘ã�®ä¸­è�¯æ–™ç�†ã�¯æ²¹ã�“ã�„ã�Œã�»ã�¨ã‚“ã�©ã�¦ã�™ã€‚ã�“ã�“ã�¯é�•ã�†ã€�å‘³ã�¯ã‚‚ã�¡ã‚�ã‚“ã€�ã‚µãƒ¼ãƒ“ã‚¹ã‚‚æœ€é«˜ã€�ã�—ã�‹ã‚‚ã€�å€¤æ®µã‚‚å®‰ã�„ï¼�ï¼�é�•ã�†ç‰©ã‚’é£Ÿã�¹ã�Ÿã�„ã�ªã‚‰ã€�ã�“ã�®åº—ã�Šã�™ã�™ã‚�ã�§ã�™ã€‚",
+				"RECENSIONE": "Ã§Â¾Å½Ã¥â€˜Â³Ã£ï¿½â€”Ã£ï¿½â€ž Ã£â€šÂ¤Ã£â€šÂ¿Ã£Æ’ÂªÃ£â€šÂ¢Ã¦â€”â€¦Ã¨Â¡Å’Ã¯Â¼â€“Ã¦â€”Â¥Ã§â€ºÂ®Ã£â‚¬ï¿½Ã£â€šÂ¹Ã£Æ’â€˜Ã£â€šÂ²Ã£Æ’Æ’Ã£Æ’â€ Ã£â€šÂ£Ã£â€šâ€žÃ£Æ’â€�Ã£â€šÂ¶Ã£â€šâ€™Ã©Â£Â½Ã£ï¿½ï¿½Ã£ï¿½Å¸Ã©Â Æ’Ã£â‚¬ï¿½Ã¤Â½â€¢Ã£ï¿½Â Ã£ï¿½â€¹Ã¦Â¸Â©Ã£ï¿½â€¹Ã£ï¿½â€žÃ§â€°Â©Ã£â€šâ€™Ã©Â£Å¸Ã£ï¿½Â¹Ã£ï¿½Å¸Ã£ï¿½â€žÃ£â‚¬ï¿½Ã£â€šÂ¢Ã£â€šÂ¸Ã£â€šÂ¢Ã¦â€“â„¢Ã§ï¿½â€ Ã£â€šâ€™Ã©Â£Å¸Ã£ï¿½Â¹Ã£ï¿½Å¸Ã£ï¿½â€žÃ£ï¿½ÂªÃ£â‚¬ï¿½Ã£ï¿½Â£Ã£ï¿½Â¦Ã£â‚¬ï¿½Ã¨ÂªÂ¿Ã£ï¿½Â¹Ã£ï¿½Å¸Ã£â€šâ€°Ã£â‚¬ï¿½Ã£ï¿½â€œÃ£ï¿½Â®Ã¥Âºâ€”Ã£ï¿½Â«Ã£ï¿½ï¿½Ã£ï¿½Â¾Ã£ï¿½â€”Ã£ï¿½Å¸Ã£â‚¬â€šÃ£Æ’Â¨Ã£Æ’Â¼Ã£Æ’Â­Ã£Æ’Æ’Ã£Æ’â€˜Ã£ï¿½Â®Ã¤Â¸Â­Ã¨ï¿½Â¯Ã¦â€“â„¢Ã§ï¿½â€ Ã£ï¿½Â¯Ã¦Â²Â¹Ã£ï¿½â€œÃ£ï¿½â€žÃ£ï¿½Å’Ã£ï¿½Â»Ã£ï¿½Â¨Ã£â€šâ€œÃ£ï¿½Â©Ã£ï¿½Â¦Ã£ï¿½â„¢Ã£â‚¬â€šÃ£ï¿½â€œÃ£ï¿½â€œÃ£ï¿½Â¯Ã©ï¿½â€¢Ã£ï¿½â€ Ã£â‚¬ï¿½Ã¥â€˜Â³Ã£ï¿½Â¯Ã£â€šâ€šÃ£ï¿½Â¡Ã£â€šï¿½Ã£â€šâ€œÃ£â‚¬ï¿½Ã£â€šÂµÃ£Æ’Â¼Ã£Æ’â€œÃ£â€šÂ¹Ã£â€šâ€šÃ¦Å“â‚¬Ã©Â«ËœÃ£â‚¬ï¿½Ã£ï¿½â€”Ã£ï¿½â€¹Ã£â€šâ€šÃ£â‚¬ï¿½Ã¥â‚¬Â¤Ã¦Â®ÂµÃ£â€šâ€šÃ¥Â®â€°Ã£ï¿½â€žÃ¯Â¼ï¿½Ã¯Â¼ï¿½Ã©ï¿½â€¢Ã£ï¿½â€ Ã§â€°Â©Ã£â€šâ€™Ã©Â£Å¸Ã£ï¿½Â¹Ã£ï¿½Å¸Ã£ï¿½â€žÃ£ï¿½ÂªÃ£â€šâ€°Ã£â‚¬ï¿½Ã£ï¿½â€œÃ£ï¿½Â®Ã¥Âºâ€”Ã£ï¿½Å Ã£ï¿½â„¢Ã£ï¿½â„¢Ã£â€šï¿½Ã£ï¿½Â§Ã£ï¿½â„¢Ã£â‚¬â€š",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6367,7 +6367,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Cucina coreana zona Moscova Locale molto piccolo con una decina di coperti quindi non adatto a gruppi numerosi, personale molto cordiale disponibile a spiegarti le varie pietanze, menÃ¹ a mio parere poco vario (volevo assaggiare il riso mix tradizionale, ma purtroppo era terminato), molto apprezzato il te' al riso soffiato. Prezzi in linea con la zona. ",
+				"RECENSIONE": "Cucina coreana zona Moscova Locale molto piccolo con una decina di coperti quindi non adatto a gruppi numerosi, personale molto cordiale disponibile a spiegarti le varie pietanze, menÃƒÂ¹ a mio parere poco vario (volevo assaggiare il riso mix tradizionale, ma purtroppo era terminato), molto apprezzato il te' al riso soffiato. Prezzi in linea con la zona. ",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6434,7 +6434,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un gioiellino coreano nel cuore di Milano Sono stata in questo ristorante con degli amici, dopo che in molti ce lo avevano consigliato e devo dire che Ã¨ andato ben oltre le mie aspettative! Il personale super gentile, ci ha spiegato come si mangiassero le varie pietanze e ha saputo consigliarci i migliori piatti. L\u2019ambiente adorabile e curato in ogni dettaglio, esattamente come i nostri ordini. Rapporto qualitÃ -prezzo ottimo! Ci tornerÃ² sicuramente!",
+				"RECENSIONE": "Un gioiellino coreano nel cuore di Milano Sono stata in questo ristorante con degli amici, dopo che in molti ce lo avevano consigliato e devo dire che ÃƒÂ¨ andato ben oltre le mie aspettative! Il personale super gentile, ci ha spiegato come si mangiassero le varie pietanze e ha saputo consigliarci i migliori piatti. L\u2019ambiente adorabile e curato in ogni dettaglio, esattamente come i nostri ordini. Rapporto qualitÃƒÂ -prezzo ottimo! Ci tornerÃƒÂ² sicuramente!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6536,7 +6536,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Una scoperta che lo inserisce nelle mie tappe fisse a Milano Cena stupenda, in un piccolo locale nel centro di Milano. Riesce a \u201creggere\u201d una decina di coperti ma Ã¨ proprio per questo che lo rende unico.\nCibi della tradizione coreana (del sud), veramente particolari e mai mangiati prima. Servizio cortese, non invadente. Prezzi assolutamente competitivi. PiÃ¹ o meno si spende per una cena abbondante tra i 25 e i 30 euro. ",
+				"RECENSIONE": "Una scoperta che lo inserisce nelle mie tappe fisse a Milano Cena stupenda, in un piccolo locale nel centro di Milano. Riesce a \u201creggere\u201d una decina di coperti ma ÃƒÂ¨ proprio per questo che lo rende unico.\nCibi della tradizione coreana (del sud), veramente particolari e mai mangiati prima. Servizio cortese, non invadente. Prezzi assolutamente competitivi. PiÃƒÂ¹ o meno si spende per una cena abbondante tra i 25 e i 30 euro. ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6646,7 +6646,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Corea forever Ottimo posto , menÃ¹ buonissimo , personale cortese e disponibile a spiegarti i piatti scelti . Da tornarci assolutamente.",
+				"RECENSIONE": "Corea forever Ottimo posto , menÃƒÂ¹ buonissimo , personale cortese e disponibile a spiegarti i piatti scelti . Da tornarci assolutamente.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6708,7 +6708,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Una chicca coreana Una piacevole scoperta della cucina coreana. Piatti saporiti, equilibrati, materia prima di buona qualitÃ . Locale molto piccolo, ma accogliente, anche grazie alla cura e all\u2019attenzione di Jim, Ã¨ possibile anche prenotare un tavolo per due o al massimo quattro persone. Complimenti, ci siete piaciuti e appena torneremo a Milano torneremo certamente da voi per pranzo.",
+				"RECENSIONE": "Una chicca coreana Una piacevole scoperta della cucina coreana. Piatti saporiti, equilibrati, materia prima di buona qualitÃƒÂ . Locale molto piccolo, ma accogliente, anche grazie alla cura e all\u2019attenzione di Jim, ÃƒÂ¨ possibile anche prenotare un tavolo per due o al massimo quattro persone. Complimenti, ci siete piaciuti e appena torneremo a Milano torneremo certamente da voi per pranzo.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6794,7 +6794,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Una piccola, grande scoperta Piccolo locale con alcuni tavolini all\u2019interno ed all\u2019esterno\nAtmosfera familiare e rilassante. Personale di una cordialitÃ  unica.\nCibo di altissima qualitÃ  a prezzi super competitivi. Una grandissima scoperta. \nTornerÃ² sicuramente! Grazie dell\u2019accoglienza ",
+				"RECENSIONE": "Una piccola, grande scoperta Piccolo locale con alcuni tavolini all\u2019interno ed all\u2019esterno\nAtmosfera familiare e rilassante. Personale di una cordialitÃƒÂ  unica.\nCibo di altissima qualitÃƒÂ  a prezzi super competitivi. Una grandissima scoperta. \nTornerÃƒÂ² sicuramente! Grazie dell\u2019accoglienza ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -6934,7 +6934,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottimo Ãˆ la seconda volta che torno e sicuramente lo sceglierÃ² ancora per un pranzo o una cena! Sempre molto soddisfatta, moglie e marito che conducono il ristorantino, molto gentili e disponibili. Per quanto riguarda i piatti sono buonissimi, ovviamente se piace il genere di salse e condimenti usati. Opzioni sia di carne/pesce sia per vegani e vegetariani. Tutto ben fatto, ogni volta esco soddisfatta con il sorriso. Veramente ottimo, super consigliato!",
+				"RECENSIONE": "Ottimo ÃƒË† la seconda volta che torno e sicuramente lo sceglierÃƒÂ² ancora per un pranzo o una cena! Sempre molto soddisfatta, moglie e marito che conducono il ristorantino, molto gentili e disponibili. Per quanto riguarda i piatti sono buonissimi, ovviamente se piace il genere di salse e condimenti usati. Opzioni sia di carne/pesce sia per vegani e vegetariani. Tutto ben fatto, ogni volta esco soddisfatta con il sorriso. Veramente ottimo, super consigliato!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7018,7 +7018,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Buono Sono rimasto abbastanza soddisfatto, forse non all\u2019altezza delle aspettative viste le recensioni cosÃ¬ positive e il certificato di eccellenza, tuttavia un buon pranzo e ottimo rapporto qualitÃ  prezzo, peccato solo per il manzo piccante che Ã¨ stata una grossa delusione. Per il resto tutto discretamente buono.",
+				"RECENSIONE": "Buono Sono rimasto abbastanza soddisfatto, forse non all\u2019altezza delle aspettative viste le recensioni cosÃƒÂ¬ positive e il certificato di eccellenza, tuttavia un buon pranzo e ottimo rapporto qualitÃƒÂ  prezzo, peccato solo per il manzo piccante che ÃƒÂ¨ stata una grossa delusione. Per il resto tutto discretamente buono.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7143,7 +7143,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Buonissimo Ci siamo stati ieri sera, la mia ragazza ha prenotato nonostante lunedÃ¬ sera non servisse (eravamo gli unici alle 20.30), il proprietario gentilissimo ci ha tenuto comunque il tavolo ed illustrato l\u2019intero menu presentandolo di persona, molto utile dato che non c\u2019Ã¨ una copia cartacea, seguendo le sue raccomandazioni ci siamo lasciati guidare attraverso una bella esperienza gastronomica che ci ha stupito ad ogni piatto e saziato senza spendere piÃ¹ di 55\u20ac in due compreso di birre coreane. Torneremo sicuramente.",
+				"RECENSIONE": "Buonissimo Ci siamo stati ieri sera, la mia ragazza ha prenotato nonostante lunedÃƒÂ¬ sera non servisse (eravamo gli unici alle 20.30), il proprietario gentilissimo ci ha tenuto comunque il tavolo ed illustrato l\u2019intero menu presentandolo di persona, molto utile dato che non c\u2019ÃƒÂ¨ una copia cartacea, seguendo le sue raccomandazioni ci siamo lasciati guidare attraverso una bella esperienza gastronomica che ci ha stupito ad ogni piatto e saziato senza spendere piÃƒÂ¹ di 55\u20ac in due compreso di birre coreane. Torneremo sicuramente.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7197,7 +7197,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "buono, leggero e nuovo trovato grazie ai commenti su trip. lavoro in zona e finiamo sempre negli stessi posti. Bab Ã¨ una novitÃ . dalle recensioni sembra un vegano, in realtÃ  si puÃ² scegliere a pranzo tra menÃ¹ vegetariano e quello di carne. <Tutto molto buono, diverso dal solito. Ammiro il padrone perchÃ© ha deciso di offrire ai propri clienti e potenziali un menÃ¹ salutare (vedi tÃ¨ verde di default) e forse meno commerciale. Da provare",
+				"RECENSIONE": "buono, leggero e nuovo trovato grazie ai commenti su trip. lavoro in zona e finiamo sempre negli stessi posti. Bab ÃƒÂ¨ una novitÃƒÂ . dalle recensioni sembra un vegano, in realtÃƒÂ  si puÃƒÂ² scegliere a pranzo tra menÃƒÂ¹ vegetariano e quello di carne. <Tutto molto buono, diverso dal solito. Ammiro il padrone perchÃƒÂ© ha deciso di offrire ai propri clienti e potenziali un menÃƒÂ¹ salutare (vedi tÃƒÂ¨ verde di default) e forse meno commerciale. Da provare",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7259,7 +7259,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "ìš°ì—°ížˆ ì§€ë‚˜ë‹¤ ë°œê²¬í•œ í•œêµ­ ì‹�ë‹¹... ì�´ë¦„ë�„ ë°¥...! ìš°ì—°ížˆ ì§€ë‚˜ë‹¤ ë°œê²¬í•œ ë°˜ê°€ìš´ í•œêµ­ ì‹�ë‹¹ì�´ì˜€ìŠµë‹ˆë‹¤...\nì�´ë¦„ë�„ ë°¥ì�´ë„¤ìš”...ã…‹ã…‹\nì—¬ëŸ¬ê°€ì§€ ê¹€ë°¥ê³¼ ì£¼ë¨¹ë°¥ ìœ ë¶€ ì´ˆë°¥ì�´ ìžˆìœ¼ë©°...\në�¼ë©´ê³¼ ë–¡ë³¶ì�´ë�„ ë¨¹ì�„ìˆ˜ ìžˆìŠµë‹ˆë‹¤...\n\nì‚¬ìž¥ë‹˜ ì—„ì²­ ì¹œì ˆ í•˜ì‹œë©°, ìž�ìœ  ì—¬í–‰ ì¤‘ ì�´ë�¼ê³  í•˜ë‹ˆ ë¬´ìŠ¨ ì�¼ ìžˆìœ¼ë©´ ê¼­ ì—°ë�½ í•˜ë�¼ê³  ëª…í•¨ë�„ ì±™ê²¨ ì£¼ì‹­ë‹ˆë‹¤...\nì�´íƒˆë¦¬ì•„ ì—¬í–‰ì‹œ ì£¼ì�˜ í•  ì �ë�„ ìƒ�ì„¸ížˆ ì•Œë ¤ ì£¼ì‹œê³ , ì •ë§� ì¦�ê±°ìš´ ì‹�ì‚¬ì™€ ì�¸ì—°ì�´ì˜€ìŠµë‹ˆë‹¤...",
+				"RECENSIONE": "Ã¬Å¡Â°Ã¬â€”Â°Ã­Å¾Ë† Ã¬Â§â‚¬Ã«â€šËœÃ«â€¹Â¤ Ã«Â°Å“ÃªÂ²Â¬Ã­â€¢Å“ Ã­â€¢Å“ÃªÂµÂ­ Ã¬â€¹ï¿½Ã«â€¹Â¹... Ã¬ï¿½Â´Ã«Â¦â€žÃ«ï¿½â€ž Ã«Â°Â¥...! Ã¬Å¡Â°Ã¬â€”Â°Ã­Å¾Ë† Ã¬Â§â‚¬Ã«â€šËœÃ«â€¹Â¤ Ã«Â°Å“ÃªÂ²Â¬Ã­â€¢Å“ Ã«Â°ËœÃªÂ°â‚¬Ã¬Å¡Â´ Ã­â€¢Å“ÃªÂµÂ­ Ã¬â€¹ï¿½Ã«â€¹Â¹Ã¬ï¿½Â´Ã¬Ëœâ‚¬Ã¬Å ÂµÃ«â€¹Ë†Ã«â€¹Â¤...\nÃ¬ï¿½Â´Ã«Â¦â€žÃ«ï¿½â€ž Ã«Â°Â¥Ã¬ï¿½Â´Ã«â€žÂ¤Ã¬Å¡â€�...Ã£â€¦â€¹Ã£â€¦â€¹\nÃ¬â€”Â¬Ã«Å¸Â¬ÃªÂ°â‚¬Ã¬Â§â‚¬ ÃªÂ¹â‚¬Ã«Â°Â¥ÃªÂ³Â¼ Ã¬Â£Â¼Ã«Â¨Â¹Ã«Â°Â¥ Ã¬Å“Â Ã«Â¶â‚¬ Ã¬Â´Ë†Ã«Â°Â¥Ã¬ï¿½Â´ Ã¬Å¾Ë†Ã¬Å“Â¼Ã«Â©Â°...\nÃ«ï¿½Â¼Ã«Â©Â´ÃªÂ³Â¼ Ã«â€“Â¡Ã«Â³Â¶Ã¬ï¿½Â´Ã«ï¿½â€ž Ã«Â¨Â¹Ã¬ï¿½â€žÃ¬Ë†Ëœ Ã¬Å¾Ë†Ã¬Å ÂµÃ«â€¹Ë†Ã«â€¹Â¤...\n\nÃ¬â€šÂ¬Ã¬Å¾Â¥Ã«â€¹Ëœ Ã¬â€”â€žÃ¬Â²Â­ Ã¬Â¹Å“Ã¬Â Ë† Ã­â€¢ËœÃ¬â€¹Å“Ã«Â©Â°, Ã¬Å¾ï¿½Ã¬Å“Â  Ã¬â€”Â¬Ã­â€“â€° Ã¬Â¤â€˜ Ã¬ï¿½Â´Ã«ï¿½Â¼ÃªÂ³Â  Ã­â€¢ËœÃ«â€¹Ë† Ã«Â¬Â´Ã¬Å Â¨ Ã¬ï¿½Â¼ Ã¬Å¾Ë†Ã¬Å“Â¼Ã«Â©Â´ ÃªÂ¼Â­ Ã¬â€”Â°Ã«ï¿½Â½ Ã­â€¢ËœÃ«ï¿½Â¼ÃªÂ³Â  Ã«Âªâ€¦Ã­â€¢Â¨Ã«ï¿½â€ž Ã¬Â±â„¢ÃªÂ²Â¨ Ã¬Â£Â¼Ã¬â€¹Â­Ã«â€¹Ë†Ã«â€¹Â¤...\nÃ¬ï¿½Â´Ã­Æ’Ë†Ã«Â¦Â¬Ã¬â€¢â€ž Ã¬â€”Â¬Ã­â€“â€°Ã¬â€¹Å“ Ã¬Â£Â¼Ã¬ï¿½Ëœ Ã­â€¢Â  Ã¬Â ï¿½Ã«ï¿½â€ž Ã¬Æ’ï¿½Ã¬â€žÂ¸Ã­Å¾Ë† Ã¬â€¢Å’Ã«Â Â¤ Ã¬Â£Â¼Ã¬â€¹Å“ÃªÂ³Â , Ã¬Â â€¢Ã«Â§ï¿½ Ã¬Â¦ï¿½ÃªÂ±Â°Ã¬Å¡Â´ Ã¬â€¹ï¿½Ã¬â€šÂ¬Ã¬â„¢â‚¬ Ã¬ï¿½Â¸Ã¬â€”Â°Ã¬ï¿½Â´Ã¬Ëœâ‚¬Ã¬Å ÂµÃ«â€¹Ë†Ã«â€¹Â¤...",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7326,7 +7326,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "DÃ©licieux et raffinÃ©  Un trÃ¨s bon petit restaurant, dans cartier trÃ¨s sympa calm . Cuisine corÃ©enne, noodles dÃ©licieuse et raffinÃ©e. Accueil chaleureux, trÃ¨s gentil. Merci ",
+				"RECENSIONE": "DÃƒÂ©licieux et raffinÃƒÂ©  Un trÃƒÂ¨s bon petit restaurant, dans cartier trÃƒÂ¨s sympa calm . Cuisine corÃƒÂ©enne, noodles dÃƒÂ©licieuse et raffinÃƒÂ©e. Accueil chaleureux, trÃƒÂ¨s gentil. Merci ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7417,7 +7417,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "ELEGANZA MINUZIOSA Sono stata con amiche in questo locale, scoperto alla ricerca di scelte vegetariane vegane e ne sono rimasta affascinata. Un posto piccolo ma seguito nei minimi dettagli dal proprietario, una persona davvero umile, disponibile e davvero gentile. Ci siamo affidati a lui per le scelte e ne siamo rimaste piÃ¹ che soddisfatte!!!! Eleganza minuziosa sia nel servizio che nel locale, molto curato; il cibo BUONISSIMO!\nAbbiamo pagato 19\u20ac a testa, in 3! TOP\n\nÃˆ il mio nuovo locale preferito! ðŸŒ±",
+				"RECENSIONE": "ELEGANZA MINUZIOSA Sono stata con amiche in questo locale, scoperto alla ricerca di scelte vegetariane vegane e ne sono rimasta affascinata. Un posto piccolo ma seguito nei minimi dettagli dal proprietario, una persona davvero umile, disponibile e davvero gentile. Ci siamo affidati a lui per le scelte e ne siamo rimaste piÃƒÂ¹ che soddisfatte!!!! Eleganza minuziosa sia nel servizio che nel locale, molto curato; il cibo BUONISSIMO!\nAbbiamo pagato 19\u20ac a testa, in 3! TOP\n\nÃƒË† il mio nuovo locale preferito! Ã°Å¸Å’Â±",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7539,7 +7539,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Vegan friendly, dog friendly e accogliente Il locale Ã¨ molto piccolo ma molto accogliente, ha anche qualche tavolo all'esterno.\nIl proprietario Ã¨ gentilissimo, il cibo Ã¨ ottimo e non vedo l'ora di tornarci per provare tutti gli altri piatti.\n\nVegan Friendly e Dog Friendly.",
+				"RECENSIONE": "Vegan friendly, dog friendly e accogliente Il locale ÃƒÂ¨ molto piccolo ma molto accogliente, ha anche qualche tavolo all'esterno.\nIl proprietario ÃƒÂ¨ gentilissimo, il cibo ÃƒÂ¨ ottimo e non vedo l'ora di tornarci per provare tutti gli altri piatti.\n\nVegan Friendly e Dog Friendly.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7623,7 +7623,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Coreano preferito Il cibo Ã¨ fantastico, ambiente accogliente e servizio accurato. Abbiamo provato molti piatti e sono tutti gustosi. Buona anche la birra.",
+				"RECENSIONE": "Coreano preferito Il cibo ÃƒÂ¨ fantastico, ambiente accogliente e servizio accurato. Abbiamo provato molti piatti e sono tutti gustosi. Buona anche la birra.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7701,7 +7701,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottimo coreano  Ci sono stata con un amico, ottimi piatti coreani.\nMolto abbondanti ed economici.\nLa location Ã¨ piccola e un po' fredda, ma scaldata dal cibo davvero buono e curioso.\nServizio un po' lento a causa delle molte preparazioni che necessitano i piatti. \nCi tornerÃ³ sicuramente. ",
+				"RECENSIONE": "Ottimo coreano  Ci sono stata con un amico, ottimi piatti coreani.\nMolto abbondanti ed economici.\nLa location ÃƒÂ¨ piccola e un po' fredda, ma scaldata dal cibo davvero buono e curioso.\nServizio un po' lento a causa delle molte preparazioni che necessitano i piatti. \nCi tornerÃƒÂ³ sicuramente. ",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7864,7 +7864,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Buon coreano Buon ristorante coreano, i piatti sono gustosi e il personale molto gentile, da provare! Il posto Ã¨ piccolino quindi consiglio la prenotazione!",
+				"RECENSIONE": "Buon coreano Buon ristorante coreano, i piatti sono gustosi e il personale molto gentile, da provare! Il posto ÃƒÂ¨ piccolino quindi consiglio la prenotazione!",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7931,7 +7931,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Buon coreano Cucina coreana casalinga che si fa sentire nella sua semplicitÃ .  Il servizio Ã¨ agile e la ragazza gentilissima",
+				"RECENSIONE": "Buon coreano Cucina coreana casalinga che si fa sentire nella sua semplicitÃƒÂ .  Il servizio ÃƒÂ¨ agile e la ragazza gentilissima",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -7985,7 +7985,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sapori particolari, cortesia Sapori particolari, cortesia del servizio, semplicitÃ  ed eleganza della presentazione. Tutto ottimo\nIl locale Ã© molto spartano ed essenziale. ",
+				"RECENSIONE": "Sapori particolari, cortesia Sapori particolari, cortesia del servizio, semplicitÃƒÂ  ed eleganza della presentazione. Tutto ottimo\nIl locale ÃƒÂ© molto spartano ed essenziale. ",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -8067,7 +8067,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Esperienza positiva da consigliare Piccolo ristorante a gestione familiare, molto intimo e accogliente.\nIl personale Ã¨ estremamente gentile e disponibile; sicuramente d'aiuto nella scelta dei piatti, visti i nomi e i piatti a noi poco noti.\nNoi abbiamo chiesto consiglio e abbiamo provato, oltre a ravioli e frittatina eccellente di antipasto, due piatti simili con strisce di carne e riso ma in due varianti differenti.\nDi fatto le materie di base sono le stesse in diversi piatti.\nI sapori sono assolutamente esplosivi, piatti con un gusto nuovo, mai provati.\nAbbiamo bevuto il tÃ© consigliato da loro, eccellente.\nIl conto Ã¨ assolutamente onesto.\nDiventerÃ  il mio ristorante coreano preferito.\nLo consiglio a chi vuole sperimentare gusti nuovi. E buoni..",
+				"RECENSIONE": "Esperienza positiva da consigliare Piccolo ristorante a gestione familiare, molto intimo e accogliente.\nIl personale ÃƒÂ¨ estremamente gentile e disponibile; sicuramente d'aiuto nella scelta dei piatti, visti i nomi e i piatti a noi poco noti.\nNoi abbiamo chiesto consiglio e abbiamo provato, oltre a ravioli e frittatina eccellente di antipasto, due piatti simili con strisce di carne e riso ma in due varianti differenti.\nDi fatto le materie di base sono le stesse in diversi piatti.\nI sapori sono assolutamente esplosivi, piatti con un gusto nuovo, mai provati.\nAbbiamo bevuto il tÃƒÂ© consigliato da loro, eccellente.\nIl conto ÃƒÂ¨ assolutamente onesto.\nDiventerÃƒÂ  il mio ristorante coreano preferito.\nLo consiglio a chi vuole sperimentare gusti nuovi. E buoni..",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -8261,7 +8261,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Pranzo etnico Per una gita di un giorno a Milano scegliamo di pranzare etnico. La scelta ricade su questo ristorante coreano. X la scelta dei piatti ci affidiamo al cameriere. Prendiamo un buldak dolsot bibimbab e un bim dolsot bibimbab con gunmandu(ravioli fritti) e giapce(spaghetti di fecola di patate dolci)con zuppa di miso. Nonostante i nomi incomprensibili x noi( guardate le foto che si capisce meglio), scelta azzeccata... Il tutto con 2 birre coreane. Risultato...soddisfacente. nonostante il mio fosse leggermente (!!!) Piccante. Conto di 37\u20ac. Ed in regalo 2 Stick di caffÃ¨ coreano solubile...che dire? Ci torneremo",
+				"RECENSIONE": "Pranzo etnico Per una gita di un giorno a Milano scegliamo di pranzare etnico. La scelta ricade su questo ristorante coreano. X la scelta dei piatti ci affidiamo al cameriere. Prendiamo un buldak dolsot bibimbab e un bim dolsot bibimbab con gunmandu(ravioli fritti) e giapce(spaghetti di fecola di patate dolci)con zuppa di miso. Nonostante i nomi incomprensibili x noi( guardate le foto che si capisce meglio), scelta azzeccata... Il tutto con 2 birre coreane. Risultato...soddisfacente. nonostante il mio fosse leggermente (!!!) Piccante. Conto di 37\u20ac. Ed in regalo 2 Stick di caffÃƒÂ¨ coreano solubile...che dire? Ci torneremo",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -8400,7 +8400,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cucina coreana? Si puÃ² fare! Con Glovo ho provato la cucina coreana scegliendo questo ristorante. Scelta azzeccatissima! La cucina ha gusti equilibrati, agrodolce e piccante. Provati gli gnocchi di riso fritti e un piatto con carne, riso e verdure.\nConsegna a domicilio nei tempi previsti. Non mi resta che andare a provare anche il ristorante",
+				"RECENSIONE": "Cucina coreana? Si puÃƒÂ² fare! Con Glovo ho provato la cucina coreana scegliendo questo ristorante. Scelta azzeccatissima! La cucina ha gusti equilibrati, agrodolce e piccante. Provati gli gnocchi di riso fritti e un piatto con carne, riso e verdure.\nConsegna a domicilio nei tempi previsti. Non mi resta che andare a provare anche il ristorante",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -8520,7 +8520,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cena tra amiche all\u2019ultimo minuto! Siamo arrivate con 20 minuti di ritardo oltre l\u2019orario di prenotazione.\nSiamo state accolte con gentilezza, cortesia e disponibilitÃ  nonostante l\u2019orario di chiusura fosse previsto 30 minuti dopo il nostro arrivo.\nPiatti tipici coreani, seriviti con cura e attenzione al dettaglio, prodotti di qualitÃ .\nRapporto qualitÃ -prezzo eccellente.\n\n",
+				"RECENSIONE": "Cena tra amiche all\u2019ultimo minuto! Siamo arrivate con 20 minuti di ritardo oltre l\u2019orario di prenotazione.\nSiamo state accolte con gentilezza, cortesia e disponibilitÃƒÂ  nonostante l\u2019orario di chiusura fosse previsto 30 minuti dopo il nostro arrivo.\nPiatti tipici coreani, seriviti con cura e attenzione al dettaglio, prodotti di qualitÃƒÂ .\nRapporto qualitÃƒÂ -prezzo eccellente.\n\n",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -8612,7 +8612,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Una sorpresa Prima volta al coreano: abbiamo preso una porzione di ravioli fritti e una frittata di verdure, spaghettini con verdure e bibimbap con manzo. Abbiamo scoperto una cucina unica, dai sapori inconfondibili, molto diversi dalla cucina cinese, asiatica o tailandese, con piatti delicati ma gustosi. Ottimo anche il dolce, un  pancake coreano con cannella, zucchetto di canna, arachidi e gelato. Discreto e gentilissimo il cameriere, che ci ha consigliato sui piatti e quando ha saputo che era la prima volta che mangiavano coreano ci ha voluto omaggiare di due bustine di caffÃ¨ solubile coreano da provare a casa. Porzioni abbondanti, musica soft in sottofondo, prezzi giusti e utilissimo il menÃº chiaramente illustrato con fotografie dei piatti e lista degli ingredienti; forse solo i tavoli leggermente piccoli. Consigliatissimo!",
+				"RECENSIONE": "Una sorpresa Prima volta al coreano: abbiamo preso una porzione di ravioli fritti e una frittata di verdure, spaghettini con verdure e bibimbap con manzo. Abbiamo scoperto una cucina unica, dai sapori inconfondibili, molto diversi dalla cucina cinese, asiatica o tailandese, con piatti delicati ma gustosi. Ottimo anche il dolce, un  pancake coreano con cannella, zucchetto di canna, arachidi e gelato. Discreto e gentilissimo il cameriere, che ci ha consigliato sui piatti e quando ha saputo che era la prima volta che mangiavano coreano ci ha voluto omaggiare di due bustine di caffÃƒÂ¨ solubile coreano da provare a casa. Porzioni abbondanti, musica soft in sottofondo, prezzi giusti e utilissimo il menÃƒÂº chiaramente illustrato con fotografie dei piatti e lista degli ingredienti; forse solo i tavoli leggermente piccoli. Consigliatissimo!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -8758,7 +8758,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Attenzione alla qualitÃ  del cibo Consiglio questo posto informale per chi ama mangiare sano senza rinunciare al gusto. Piatti molto buoni, servizio attento. Da provare se si ama la cucina asiatica autentica. In questo caso l'autentico coreano. Per un pranzetto Ã¨ perfetto perchÃ© la location Ã¨ piccolina, piÃ¹ stile bar.",
+				"RECENSIONE": "Attenzione alla qualitÃƒÂ  del cibo Consiglio questo posto informale per chi ama mangiare sano senza rinunciare al gusto. Piatti molto buoni, servizio attento. Da provare se si ama la cucina asiatica autentica. In questo caso l'autentico coreano. Per un pranzetto ÃƒÂ¨ perfetto perchÃƒÂ© la location ÃƒÂ¨ piccolina, piÃƒÂ¹ stile bar.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -8854,7 +8854,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Non convince appieno Piccolo ristorante in zona semicentrale.\nPiatti coreani abbondanti; ma la qualitÃ , almeno per il nostro gusto, non Ã¨ uniforme. Ottimi i ravioli coreani, buono un piatto di spaghetti con carne...ma altri piatti non ci sono piaciuti affatto! Un piatto denominato subundu Ã¨ un brodo insapore in cui Ã¨ stato spappolato del tofu e ci sono alcune volte gole con il guscio...avrebbe dovuto essere piccante, era solo insapore! Un piatto di gnocchi di riso di cui non ricordo il nome avevano una salsa dal sapore poco genuino (come se fossero stati usati preparati industriali giÃ  pronti tipo dado) e con una gran quantitÃ  di zucchero. Il pollo fritto era glassato cosÃ¬ tanto da essere dolciastro. Insomma, rispetto a altri ristoranti coreani di Milano lo abbiamo trovato deludente ",
+				"RECENSIONE": "Non convince appieno Piccolo ristorante in zona semicentrale.\nPiatti coreani abbondanti; ma la qualitÃƒÂ , almeno per il nostro gusto, non ÃƒÂ¨ uniforme. Ottimi i ravioli coreani, buono un piatto di spaghetti con carne...ma altri piatti non ci sono piaciuti affatto! Un piatto denominato subundu ÃƒÂ¨ un brodo insapore in cui ÃƒÂ¨ stato spappolato del tofu e ci sono alcune volte gole con il guscio...avrebbe dovuto essere piccante, era solo insapore! Un piatto di gnocchi di riso di cui non ricordo il nome avevano una salsa dal sapore poco genuino (come se fossero stati usati preparati industriali giÃƒÂ  pronti tipo dado) e con una gran quantitÃƒÂ  di zucchero. Il pollo fritto era glassato cosÃƒÂ¬ tanto da essere dolciastro. Insomma, rispetto a altri ristoranti coreani di Milano lo abbiamo trovato deludente ",
 				"RATE RECENSIONE": 2,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9000,7 +9000,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "cena locale un pÃ² piccolo, ma ben tenuto e rifinito con gusto, servizio gentile. Cibo buono, e con scelta di cibo vegano, piccante o normale. Ottimo il Bibimbab, piatto tipico  coreano",
+				"RECENSIONE": "cena locale un pÃƒÂ² piccolo, ma ben tenuto e rifinito con gusto, servizio gentile. Cibo buono, e con scelta di cibo vegano, piccante o normale. Ottimo il Bibimbab, piatto tipico  coreano",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9097,7 +9097,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottima cena tranquilla Mi piace tornare in questo locale perchÃ© oltre a mangiare molto bene per varietÃ  e qualitÃ  Ã¨ un locale ideale se oltre a mangiare si vuole chiacchierare. Servizio puntuale e molto discreto.",
+				"RECENSIONE": "Ottima cena tranquilla Mi piace tornare in questo locale perchÃƒÂ© oltre a mangiare molto bene per varietÃƒÂ  e qualitÃƒÂ  ÃƒÂ¨ un locale ideale se oltre a mangiare si vuole chiacchierare. Servizio puntuale e molto discreto.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9170,7 +9170,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Ottimo anche il Poke Il mio ufficio si trova non distante dal Lorenteggio. Ordiniamo spesso sushi a pranzo. abbiamo provato anche il Poke di Fujiyama.\nSiamo molto contenti, la qualitÃ  Ã¨ molto buona, i prezzi ragionevoli.\nInoltre la gentilezza del personale TUTTO, invita il cliente a tornare piÃ¹ volte.",
+				"RECENSIONE": "Ottimo anche il Poke Il mio ufficio si trova non distante dal Lorenteggio. Ordiniamo spesso sushi a pranzo. abbiamo provato anche il Poke di Fujiyama.\nSiamo molto contenti, la qualitÃƒÂ  ÃƒÂ¨ molto buona, i prezzi ragionevoli.\nInoltre la gentilezza del personale TUTTO, invita il cliente a tornare piÃƒÂ¹ volte.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9273,7 +9273,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sono stata male subito dopo Ho ordinato sul loro sito invogliata dal prezzo ragionevole e dalle buone recensioni. \nIl cibo Ã¨ arrivato alle 22.30, ma la cosa peggiore Ã¨ che sia io che mia sorella siamo state veramente MALE nemmeno un'ora dopo! \nMi spiace davvero, ma sicuramente non ordineremo mai piÃ¹ qui e lo sconsigliamo vivamente!",
+				"RECENSIONE": "Sono stata male subito dopo Ho ordinato sul loro sito invogliata dal prezzo ragionevole e dalle buone recensioni. \nIl cibo ÃƒÂ¨ arrivato alle 22.30, ma la cosa peggiore ÃƒÂ¨ che sia io che mia sorella siamo state veramente MALE nemmeno un'ora dopo! \nMi spiace davvero, ma sicuramente non ordineremo mai piÃƒÂ¹ qui e lo sconsigliamo vivamente!",
 				"RATE RECENSIONE": 1,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9333,7 +9333,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sabato a pranzo delizioso  Siamo stati in questo posto su consiglio di un amico, sushi ottimo e di buona qualitÃ . \nRapporto qualitÃ  prezzo onesto. \nLo consiglio vivamente ",
+				"RECENSIONE": "Sabato a pranzo delizioso  Siamo stati in questo posto su consiglio di un amico, sushi ottimo e di buona qualitÃƒÂ . \nRapporto qualitÃƒÂ  prezzo onesto. \nLo consiglio vivamente ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9403,7 +9403,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Molto buono Locale carino e accogliente al centro di Milano. Sushi molto sfizioso e vario e buono il sashimi. Ottimo rapporto qualitÃ /prezzo. Torneremo molto volentieri. Consigliato ;)",
+				"RECENSIONE": "Molto buono Locale carino e accogliente al centro di Milano. Sushi molto sfizioso e vario e buono il sashimi. Ottimo rapporto qualitÃƒÂ /prezzo. Torneremo molto volentieri. Consigliato ;)",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9573,7 +9573,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sushi di qualitÃ   Vado da anni a mangiare in questo ristorante dove trovo sempre pesce freschissimo, piatti davvero buoni e porzioni abbondanti, il tutto ad un prezzo conveniente. \nIl personale Ã¨ sempre molto gentile e disponibile ad accontentare le esigenze ed i gusti del cliente.\nIl ristorante Ã¨ pulito ed accogliente e il servizio Ã¨ veloce.\nUltimamente hanno aggiunto nel menÃ¹ anche diversi piatti caldi tra i quali Udon, Ravioli (cinque gusti diversi) mini Involtini primavera, e alcuni dolcetti orientali, e li ho trovati tutti molto buoni. \nHo provato a volte anche il servizio a domicilio che Ã¨ preciso e veloce ed Ã¨ possibile acquistare con diverse soluzioni di pagamento.\nBravi, continuate cosÃ¬ !!! \n",
+				"RECENSIONE": "Sushi di qualitÃƒÂ   Vado da anni a mangiare in questo ristorante dove trovo sempre pesce freschissimo, piatti davvero buoni e porzioni abbondanti, il tutto ad un prezzo conveniente. \nIl personale ÃƒÂ¨ sempre molto gentile e disponibile ad accontentare le esigenze ed i gusti del cliente.\nIl ristorante ÃƒÂ¨ pulito ed accogliente e il servizio ÃƒÂ¨ veloce.\nUltimamente hanno aggiunto nel menÃƒÂ¹ anche diversi piatti caldi tra i quali Udon, Ravioli (cinque gusti diversi) mini Involtini primavera, e alcuni dolcetti orientali, e li ho trovati tutti molto buoni. \nHo provato a volte anche il servizio a domicilio che ÃƒÂ¨ preciso e veloce ed ÃƒÂ¨ possibile acquistare con diverse soluzioni di pagamento.\nBravi, continuate cosÃƒÂ¬ !!! \n",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9730,7 +9730,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sopravvalutato, servizio da migliorare Sopravvalutato il punteggio di tripdadvisor. Cibo non male, ma niente di strabiliante. I dolci non ci sono piaciuti (congelati, non freschi). Prezzi giusti. Il servizio da rivedere. Il personale Ã¨ cortese, ma 50 minuti tra ordinazione e il primo piatto sono veramente tanti (locale mediamente pieno, ma comunque piccolo; fanno perÃ² forse tanto, troppo, asporto). Inoltre abbiamo ordinato un piatto che non ci Ã¨ mai stato portato ma messo nel conto (abbiamo fatto notare la cosa in cassa e ce l\u2019hanno subito scalato dal totale). Altra nota negativa: molto freddo dentro il locale appena si rimane dentro in pochi! Non so se tornerÃ².. ",
+				"RECENSIONE": "Sopravvalutato, servizio da migliorare Sopravvalutato il punteggio di tripdadvisor. Cibo non male, ma niente di strabiliante. I dolci non ci sono piaciuti (congelati, non freschi). Prezzi giusti. Il servizio da rivedere. Il personale ÃƒÂ¨ cortese, ma 50 minuti tra ordinazione e il primo piatto sono veramente tanti (locale mediamente pieno, ma comunque piccolo; fanno perÃƒÂ² forse tanto, troppo, asporto). Inoltre abbiamo ordinato un piatto che non ci ÃƒÂ¨ mai stato portato ma messo nel conto (abbiamo fatto notare la cosa in cassa e ce l\u2019hanno subito scalato dal totale). Altra nota negativa: molto freddo dentro il locale appena si rimane dentro in pochi! Non so se tornerÃƒÂ².. ",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9893,7 +9893,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un buon sushi alla carta L'ambiente Ã¨ gradevole, anche se non troppo ricercato. Il menu Ã¨ abbastanza vario, e certamente in grado di soddisfare desideri sufficientemente diversificati.\nRapporto qualitÃ  prezzo a mio avviso onesto e personale cortese.",
+				"RECENSIONE": "Un buon sushi alla carta L'ambiente ÃƒÂ¨ gradevole, anche se non troppo ricercato. Il menu ÃƒÂ¨ abbastanza vario, e certamente in grado di soddisfare desideri sufficientemente diversificati.\nRapporto qualitÃƒÂ  prezzo a mio avviso onesto e personale cortese.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -9914,7 +9914,7 @@
 									"OPINION SENTIMENT": "positive",
 									"OPINION": "good"
 								}],
-								"ASPECT": "sushi Ã  la",
+								"ASPECT": "sushi ÃƒÂ  la",
 								"SENTIMENT ASPECT": "positive"
 							}]
 						},
@@ -9979,7 +9979,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Solo la Cucina Ã¨ da 5!!  Ottimo giapponese, prezzi bassi, sushi pieni di pesce, grandi e saporiti. Molto meno varietÃ  rispetto ad altri sushi con tipologie di ura piÃ¹ semplici (poche particolari). Essendo perÃ²  questo sushi di elevata qualitÃ  Ã¨ stato molto meglio cosÃ¬ poichÃ© quelli piÃ¹ \u201cricchi\u201d erano quelli meno buoni. \nLocale molto confusionario e brutto. Cameriere non troppo capace. \nPerÃ² ne vale la pena\nTemaki buonissimi \nConsiglio per chi Ã¨ della zona di portarlo a casa! ",
+				"RECENSIONE": "Solo la Cucina ÃƒÂ¨ da 5!!  Ottimo giapponese, prezzi bassi, sushi pieni di pesce, grandi e saporiti. Molto meno varietÃƒÂ  rispetto ad altri sushi con tipologie di ura piÃƒÂ¹ semplici (poche particolari). Essendo perÃƒÂ²  questo sushi di elevata qualitÃƒÂ  ÃƒÂ¨ stato molto meglio cosÃƒÂ¬ poichÃƒÂ© quelli piÃƒÂ¹ \u201cricchi\u201d erano quelli meno buoni. \nLocale molto confusionario e brutto. Cameriere non troppo capace. \nPerÃƒÂ² ne vale la pena\nTemaki buonissimi \nConsiglio per chi ÃƒÂ¨ della zona di portarlo a casa! ",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -10114,7 +10114,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Veramente un buon sushi! Passo abbastanza spesso in questo ristorante per le pause pranzo cosÃ¬ come a volte sfrutto il delivery del prodotto e sono sempre rimasto soddisfatto!\nIl cibo Ã¨ buono e la proposta di menÃ¹ molto ampia (ma senza esagerare). A volte il servizio nel ristorante Ã¨ un po' lento, ma la gentilezza e l'accoglienza dello staff sono perfetti!",
+				"RECENSIONE": "Veramente un buon sushi! Passo abbastanza spesso in questo ristorante per le pause pranzo cosÃƒÂ¬ come a volte sfrutto il delivery del prodotto e sono sempre rimasto soddisfatto!\nIl cibo ÃƒÂ¨ buono e la proposta di menÃƒÂ¹ molto ampia (ma senza esagerare). A volte il servizio nel ristorante ÃƒÂ¨ un po' lento, ma la gentilezza e l'accoglienza dello staff sono perfetti!",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -10212,7 +10212,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Buono ma... che servizio lento! Siamo andati in 2 senza prenotare.\nGiÃ  all'ingresso ci siamo dovuti sbracciare per poterci far notare dalla cassiera e dal cameriere per poter prendere posto. Ci ha indicato un tavolo ancora sporco e abbiamo atteso che lo sparecchiassero e lo pulissero. Arrivati al tavolo dopo un quarto d'ora che non ci portavano i menÃ¹, abbiamo dovuto chiederglieli noi. Dopo altri minuti che anche sbracciandoci non venivamo guardati, abbiamo dovuto chiamare noi il cameriere un po' distratto, per farci prendere l'ordinazione.\nDopo mezz'ora non era ancora arrivata neanche il da bere, che abbiamo dovuto chiedere noi di portarselo, Piano piano sono arrivati i piatti che abbiamo ordinato anche se a me sono arrivati due piatti e all'altra persona non era ancora arrivato niente e quindi mi sentivo in imbarazzo.\nI piatti alla carta sono buoni senza dubbio ma il servizio lento, non tanto per quanta gente ci fosse quanto al fatto che i camerieri quando andavano verso il bancone bar sembravano perdersi (a chiacchierare). \nNon ci tornerÃ².",
+				"RECENSIONE": "Buono ma... che servizio lento! Siamo andati in 2 senza prenotare.\nGiÃƒÂ  all'ingresso ci siamo dovuti sbracciare per poterci far notare dalla cassiera e dal cameriere per poter prendere posto. Ci ha indicato un tavolo ancora sporco e abbiamo atteso che lo sparecchiassero e lo pulissero. Arrivati al tavolo dopo un quarto d'ora che non ci portavano i menÃƒÂ¹, abbiamo dovuto chiederglieli noi. Dopo altri minuti che anche sbracciandoci non venivamo guardati, abbiamo dovuto chiamare noi il cameriere un po' distratto, per farci prendere l'ordinazione.\nDopo mezz'ora non era ancora arrivata neanche il da bere, che abbiamo dovuto chiedere noi di portarselo, Piano piano sono arrivati i piatti che abbiamo ordinato anche se a me sono arrivati due piatti e all'altra persona non era ancora arrivato niente e quindi mi sentivo in imbarazzo.\nI piatti alla carta sono buoni senza dubbio ma il servizio lento, non tanto per quanta gente ci fosse quanto al fatto che i camerieri quando andavano verso il bancone bar sembravano perdersi (a chiacchierare). \nNon ci tornerÃƒÂ².",
 				"RATE RECENSIONE": 1,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -10335,7 +10335,7 @@
 										"OPINION SENTIMENT": "positive",
 										"OPINION": "good"
 									}],
-									"ASPECT": "Ã  la carte dishes",
+									"ASPECT": "ÃƒÂ  la carte dishes",
 									"SENTIMENT ASPECT": "positive"
 								},
 								{
@@ -10371,7 +10371,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "QualitÃ  al giusto prezzo!  MenÃ¹ Ã  la carte molto vario ma senza eccessi, risultato: cibo ben fatto e materie prime di qualitÃ . Personale cortese e servizio rapido. Prezzi giusti per il rapporto qualitÃ -prezzo. Consigliatissimo! ",
+				"RECENSIONE": "QualitÃƒÂ  al giusto prezzo!  MenÃƒÂ¹ ÃƒÂ  la carte molto vario ma senza eccessi, risultato: cibo ben fatto e materie prime di qualitÃƒÂ . Personale cortese e servizio rapido. Prezzi giusti per il rapporto qualitÃƒÂ -prezzo. Consigliatissimo! ",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -10408,7 +10408,7 @@
 										"OPINION SENTIMENT": "positive",
 										"OPINION": "varied"
 									}],
-									"ASPECT": "Ã ",
+									"ASPECT": "ÃƒÂ ",
 									"SENTIMENT ASPECT": "positive"
 								},
 								{
@@ -10485,7 +10485,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottima qualitÃ  e personale super accogliente! Se siete alla ricerca di un buon sushi ad un prezzo piÃ¹ che onesto dovete assolutamente provare quello di Fujiyama. Il menÃ¹ offre davvero un'ampia scelta e la qualitÃ  Ã¨ ottima, la simpatia e la disponibilitÃ  del personale poi completano il quadro! Se amate gli Uramaki consiglio caldamente di provare quello con gambero crudo e Goma Wakame... Si Ã¨ aggiudicato il podio tra i miei preferiti!",
+				"RECENSIONE": "Ottima qualitÃƒÂ  e personale super accogliente! Se siete alla ricerca di un buon sushi ad un prezzo piÃƒÂ¹ che onesto dovete assolutamente provare quello di Fujiyama. Il menÃƒÂ¹ offre davvero un'ampia scelta e la qualitÃƒÂ  ÃƒÂ¨ ottima, la simpatia e la disponibilitÃƒÂ  del personale poi completano il quadro! Se amate gli Uramaki consiglio caldamente di provare quello con gambero crudo e Goma Wakame... Si ÃƒÂ¨ aggiudicato il podio tra i miei preferiti!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -10675,7 +10675,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Una garanzia Ho ordinato del take away..rispetto a tutti i cenesi travestiti da giapponesi questo posto Ã¨ una garanzia. Oltre ad essere molto gentili, cibo eccellente!",
+				"RECENSIONE": "Una garanzia Ho ordinato del take away..rispetto a tutti i cenesi travestiti da giapponesi questo posto ÃƒÂ¨ una garanzia. Oltre ad essere molto gentili, cibo eccellente!",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -10843,7 +10843,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Ottimo Kebab e panini squisiti! Ottimo Kebab e panini squisiti! Quando abbiamo voglia di cibo speziato come si deve, Grifo Kebab Ã¨ un must. Comodissimo anche prenotare telefonicamente e andare a ritirare il panino in men che non si dica senza fare alcuna fila. Consigliato! ",
+				"RECENSIONE": "Ottimo Kebab e panini squisiti! Ottimo Kebab e panini squisiti! Quando abbiamo voglia di cibo speziato come si deve, Grifo Kebab ÃƒÂ¨ un must. Comodissimo anche prenotare telefonicamente e andare a ritirare il panino in men che non si dica senza fare alcuna fila. Consigliato! ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -10936,7 +10936,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Armin, un nome e una garanzia. Ambiente molto familiare e molto pulito, sempre gentili ed educati.\nOltre al kebab buonissimo consiglio di assaggiare gli altri piatti (burek, baklava dolci ecc ecc) ðŸ–¤",
+				"RECENSIONE": "Armin, un nome e una garanzia. Ambiente molto familiare e molto pulito, sempre gentili ed educati.\nOltre al kebab buonissimo consiglio di assaggiare gli altri piatti (burek, baklava dolci ecc ecc) Ã°Å¸â€“Â¤",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -11129,7 +11129,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Da tornarci ...e tornarci Siamo stati in questo locale per caso, non essendo del quartiere e avendo saltato il pranzo per un imprevisto, abbiamo scoperto uno dei piu buoni kebab mai mangiati! Il posto Ã¨ molto carino, pulito e curato, ma sopratutto il kebab Ã¨ ottimo! Abbiamo mangiato anche un burek, che non conoscevamo, e...ancora ne parliamo! Una bontÃ ! Proprietario simpatico e prezzi ottimi! Torneremo presto",
+				"RECENSIONE": "Da tornarci ...e tornarci Siamo stati in questo locale per caso, non essendo del quartiere e avendo saltato il pranzo per un imprevisto, abbiamo scoperto uno dei piu buoni kebab mai mangiati! Il posto ÃƒÂ¨ molto carino, pulito e curato, ma sopratutto il kebab ÃƒÂ¨ ottimo! Abbiamo mangiato anche un burek, che non conoscevamo, e...ancora ne parliamo! Una bontÃƒÂ ! Proprietario simpatico e prezzi ottimi! Torneremo presto",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -11400,7 +11400,7 @@
 		"RANKING": 3.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "La Polonia a primavalle  Abito a due passi dal ristorante ma non avevo mai avuto l'occasione di provarlo.\nHo pranzato la domenica di Ognissanti in questo ristorante e sono rimasto piacevolmente sorpreso dalla bontÃ  dei piatti polacchi.\nOttimi i ravioli ripieni e la cotoletta di maiale!  E per finire ho provato dei dolci squisiti con la ricotta e il cioccolato.\nCi tornerÃ² sicuramente! ",
+				"RECENSIONE": "La Polonia a primavalle  Abito a due passi dal ristorante ma non avevo mai avuto l'occasione di provarlo.\nHo pranzato la domenica di Ognissanti in questo ristorante e sono rimasto piacevolmente sorpreso dalla bontÃƒÂ  dei piatti polacchi.\nOttimi i ravioli ripieni e la cotoletta di maiale!  E per finire ho provato dei dolci squisiti con la ricotta e il cioccolato.\nCi tornerÃƒÂ² sicuramente! ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -11487,7 +11487,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottimo Seconda volta. Il ristorante si trova in una tranquilla piazzetta romana facilmente raggiungibile dal raccordo anulare. Il locale Ã¨ piccolo e vi si respira tutta l'atmosfera tipica polacca. I proprietari sono deliziosi, disponibili, socievoli, simpatici ed Ã¨ facile intrattenersi in conversazioni sulla Polonia sopratutto se si torna da un viaggio in questa terra che merita di essere scoperta. Il rapporto qualitÃ  prezzo Ã¨ ottimo, il cibo anche, tutto fatto in casa. Un posto dove tornare con piacere. ",
+				"RECENSIONE": "Ottimo Seconda volta. Il ristorante si trova in una tranquilla piazzetta romana facilmente raggiungibile dal raccordo anulare. Il locale ÃƒÂ¨ piccolo e vi si respira tutta l'atmosfera tipica polacca. I proprietari sono deliziosi, disponibili, socievoli, simpatici ed ÃƒÂ¨ facile intrattenersi in conversazioni sulla Polonia sopratutto se si torna da un viaggio in questa terra che merita di essere scoperta. Il rapporto qualitÃƒÂ  prezzo ÃƒÂ¨ ottimo, il cibo anche, tutto fatto in casa. Un posto dove tornare con piacere. ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -11586,7 +11586,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Assolutamente da provare... piÃ¹ e piÃ¹ volte... Sono tornata in questo ristorante dopo alcuni mesi... beh che dire?!?! Semplicemente meraviglioso come la prima volta! Come tanti locali sta risentendo della crisi causata dal Covid, perÃ² la passione e l\u2019amore che viene messo in ogni piatto non ha eguali!!! Super consigliatissimi tutti i loro piatti!!! ",
+				"RECENSIONE": "Assolutamente da provare... piÃƒÂ¹ e piÃƒÂ¹ volte... Sono tornata in questo ristorante dopo alcuni mesi... beh che dire?!?! Semplicemente meraviglioso come la prima volta! Come tanti locali sta risentendo della crisi causata dal Covid, perÃƒÂ² la passione e l\u2019amore che viene messo in ogni piatto non ha eguali!!! Super consigliatissimi tutti i loro piatti!!! ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -11748,7 +11748,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Siamo stati benissimo  Locale accogliente, qualitÃ  eccezionale, unico locale in italia a proporre cibo tipicamente polacco. Ritorneremo sicuro! ",
+				"RECENSIONE": "Siamo stati benissimo  Locale accogliente, qualitÃƒÂ  eccezionale, unico locale in italia a proporre cibo tipicamente polacco. Ritorneremo sicuro! ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -11899,7 +11899,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un'oasi polacca a Roma Presa dalla nostalgia ho deciso di provare il ristorante Bajka. In sala siamo stati accolti da Adam: professionale e simpatico con fare un po scherzoso. \nNel menu ho trovato tanti tipici piatti polacchi come pierogi, golÄ…bki, bigos, Å¼urek disponibili anche nelle varianti vegetariane, tutto accompagnato da ottime birre polacche.\nA un certo momento dalla cucina Ã¨ uscita la Chef Anna: bella, solare con un sorriso contagioso. \nLa serata Ã¨ stata molto piacevole. \nTutto ottimo. \nConsigliato!",
+				"RECENSIONE": "Un'oasi polacca a Roma Presa dalla nostalgia ho deciso di provare il ristorante Bajka. In sala siamo stati accolti da Adam: professionale e simpatico con fare un po scherzoso. \nNel menu ho trovato tanti tipici piatti polacchi come pierogi, golÃ„â€¦bki, bigos, Ã…Â¼urek disponibili anche nelle varianti vegetariane, tutto accompagnato da ottime birre polacche.\nA un certo momento dalla cucina ÃƒÂ¨ uscita la Chef Anna: bella, solare con un sorriso contagioso. \nLa serata ÃƒÂ¨ stata molto piacevole. \nTutto ottimo. \nConsigliato!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -11994,7 +11994,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Davvero una \"favola\" Prima serata fuori dopo l'emergenza covid abbiamo deciso di provare qualcosa di diverso e abbiamo optato per il ristorante polacco bajka: non potevamo fare scelta piÃ¹ azzeccata perchÃ© l'insegna ha tradotto alla perfezione l'esperienza che abbiamo avuto. Il locale Ã¨ piccolo e molto accogliente ma la vera sorpresa Ã¨ stata la cucina: semplice ma resa deliziosa dalla indubbia qualitÃ  della materia prima e soprattutto dalla passione per questo lavoro che la cuoca riesce a trasmettere nei piatti, mix di ingredienti che sono un successo garantito per ogni ristorante. Insomma chiunque abbia voglia di sperimentare una nuova cucina non ha scuse per non provare questo ristorante. Ci dispiace solamente di essere andati in questo periodo ed aver trovato il locale vuoto perdendo cosÃ¬ un po' di quell'atmosfera che sono certo essere un ulteriore punto di forza del bajka. Speriamo che le cose possano migliorare in futuro, sia per i proprietari che ci hanno fatto un'ottima impressione, sia per tutti noi, che dopo un periodo cosÃ¬ buio e difficile ci meritiamo di non perdere un ristorante cosÃ¬ unico nel cuore della nostra capitale",
+				"RECENSIONE": "Davvero una \"favola\" Prima serata fuori dopo l'emergenza covid abbiamo deciso di provare qualcosa di diverso e abbiamo optato per il ristorante polacco bajka: non potevamo fare scelta piÃƒÂ¹ azzeccata perchÃƒÂ© l'insegna ha tradotto alla perfezione l'esperienza che abbiamo avuto. Il locale ÃƒÂ¨ piccolo e molto accogliente ma la vera sorpresa ÃƒÂ¨ stata la cucina: semplice ma resa deliziosa dalla indubbia qualitÃƒÂ  della materia prima e soprattutto dalla passione per questo lavoro che la cuoca riesce a trasmettere nei piatti, mix di ingredienti che sono un successo garantito per ogni ristorante. Insomma chiunque abbia voglia di sperimentare una nuova cucina non ha scuse per non provare questo ristorante. Ci dispiace solamente di essere andati in questo periodo ed aver trovato il locale vuoto perdendo cosÃƒÂ¬ un po' di quell'atmosfera che sono certo essere un ulteriore punto di forza del bajka. Speriamo che le cose possano migliorare in futuro, sia per i proprietari che ci hanno fatto un'ottima impressione, sia per tutti noi, che dopo un periodo cosÃƒÂ¬ buio e difficile ci meritiamo di non perdere un ristorante cosÃƒÂ¬ unico nel cuore della nostra capitale",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -12153,7 +12153,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un angolo di Polonia a  Roma Piccolo ristorante in zona periferica ma assolutamente consigliato per chi si vuole avvicinare alla gastronomia polacca.\nPotrete assaggiare i piatti tipici della tradizione polacca i Pirogi ( classici ravioli ripieni ),  Golabki (involtini di verza ripieni di riso e carne ),  Golonka ( stinco di maiale lesso o al forno che va prenotato prima ), Gulash....\nTutto Ã¨ cucinato alla perfezione ed Ã¨  accompagnato da estrema gentilezza e cortesia.\nTroverete una ottima selezione di birre ( io consiglio Zywiec e Zubr ).\nChe dire non vi resta che provare ðŸ˜‰",
+				"RECENSIONE": "Un angolo di Polonia a  Roma Piccolo ristorante in zona periferica ma assolutamente consigliato per chi si vuole avvicinare alla gastronomia polacca.\nPotrete assaggiare i piatti tipici della tradizione polacca i Pirogi ( classici ravioli ripieni ),  Golabki (involtini di verza ripieni di riso e carne ),  Golonka ( stinco di maiale lesso o al forno che va prenotato prima ), Gulash....\nTutto ÃƒÂ¨ cucinato alla perfezione ed ÃƒÂ¨  accompagnato da estrema gentilezza e cortesia.\nTroverete una ottima selezione di birre ( io consiglio Zywiec e Zubr ).\nChe dire non vi resta che provare Ã°Å¸Ëœâ€°",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -12229,7 +12229,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Piatti Polacchi una bontÃ ! PerÃ²!? Ho trovato la cucina Polacca meravigliosa!piatti ricchi di gusto davvero ben cucinati, ottimi,birre altrettanto ottime cosÃ¬ come i dolci. Liquore della nonna strepitoso!!. I proprietari molto  gentili e cordiali..\n.Unica pecca che mi duole davvero menzionare Ã¨ la pulizia,Il locale Ã¨ piccolino ma grazioso e accogliente, perÃ² sia i pavimenti ma soprattutto i tavoli erano  veramente  grassi e appiccicosi, ed Ã¨ davvero  fadtidioso   sentire al tatto quell'appiccicume. Spero che i proprietari non me ne vogliano per questa critica ma prendano spunto da essa, perchÃ© la pulizia Ã¨ fondamentale soprattutto in un locale pubblico.\n Per il resto come ho scritto in tutta la recensione ho trovato tutto davvero  Ottimo!",
+				"RECENSIONE": "Piatti Polacchi una bontÃƒÂ ! PerÃƒÂ²!? Ho trovato la cucina Polacca meravigliosa!piatti ricchi di gusto davvero ben cucinati, ottimi,birre altrettanto ottime cosÃƒÂ¬ come i dolci. Liquore della nonna strepitoso!!. I proprietari molto  gentili e cordiali..\n.Unica pecca che mi duole davvero menzionare ÃƒÂ¨ la pulizia,Il locale ÃƒÂ¨ piccolino ma grazioso e accogliente, perÃƒÂ² sia i pavimenti ma soprattutto i tavoli erano  veramente  grassi e appiccicosi, ed ÃƒÂ¨ davvero  fadtidioso   sentire al tatto quell'appiccicume. Spero che i proprietari non me ne vogliano per questa critica ma prendano spunto da essa, perchÃƒÂ© la pulizia ÃƒÂ¨ fondamentale soprattutto in un locale pubblico.\n Per il resto come ho scritto in tutta la recensione ho trovato tutto davvero  Ottimo!",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -12434,7 +12434,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Dalla Polonia con sapore E' certo fuori dai quartieri cittadini \"di giro\", ma il locale si presenta caldo e accogliente, anche se rumoroso. La gestione Ã¨ affidata a una lei ai fornelli e a un lui in sala, equipaggio che nei fatti risulta sottodimensionato: il servizio ne soffre e qualche piatto arriva giÃ  freddo in tavola. Dalla cucina piatti ben presentati ma un poco deludenti nei sapori e, sopratutto, nella qualitÃ  delle materie prime. Conto leggero per un'esperienza insolita.",
+				"RECENSIONE": "Dalla Polonia con sapore E' certo fuori dai quartieri cittadini \"di giro\", ma il locale si presenta caldo e accogliente, anche se rumoroso. La gestione ÃƒÂ¨ affidata a una lei ai fornelli e a un lui in sala, equipaggio che nei fatti risulta sottodimensionato: il servizio ne soffre e qualche piatto arriva giÃƒÂ  freddo in tavola. Dalla cucina piatti ben presentati ma un poco deludenti nei sapori e, sopratutto, nella qualitÃƒÂ  delle materie prime. Conto leggero per un'esperienza insolita.",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -12550,7 +12550,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Semplicemente Casa Anna e Adam  con loro cuore T fanno sentire Veramente a Casa!\nÃˆ non Ã¨ una cosa da poco quando sei lontano dalla Tua terra di origine.\nGrazie 8 finite\nI migliori!",
+				"RECENSIONE": "Semplicemente Casa Anna e Adam  con loro cuore T fanno sentire Veramente a Casa!\nÃƒË† non ÃƒÂ¨ una cosa da poco quando sei lontano dalla Tua terra di origine.\nGrazie 8 finite\nI migliori!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -12596,7 +12596,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Piacevole scoperta  Piacevole scoperta di quartiere. Locale piccolo ma accogliente, cosÃ¬ come i proprietari! Rapporto qualitÃ /prezzo notevolmente a favore della qualitÃ , nel senso che i piatti sono veramente buoni ed i prezzi nella media!\nConsiglio di provare, non ve ne pentirete!\nDa tornarci assolutamente! \n\nPS \nsolo 5 su 5 perchÃ© non mi Ã¨ stato rivelato l'ingrediente principale del liquore della casa. Altrimenti avrei assegnato un bel 6 su 5! ðŸ˜œ\n",
+				"RECENSIONE": "Piacevole scoperta  Piacevole scoperta di quartiere. Locale piccolo ma accogliente, cosÃƒÂ¬ come i proprietari! Rapporto qualitÃƒÂ /prezzo notevolmente a favore della qualitÃƒÂ , nel senso che i piatti sono veramente buoni ed i prezzi nella media!\nConsiglio di provare, non ve ne pentirete!\nDa tornarci assolutamente! \n\nPS \nsolo 5 su 5 perchÃƒÂ© non mi ÃƒÂ¨ stato rivelato l'ingrediente principale del liquore della casa. Altrimenti avrei assegnato un bel 6 su 5! Ã°Å¸ËœÅ“\n",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -12735,7 +12735,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Una bella scoperta Spinti dalle ottime recensioni e da molta curiositÃ  prenotiamo per due. Ci accoglie una piccola sala con una trentina di coperti, atmosfera molto familiare da trattoria che ti dÃ  quella sensazione confortevole di casa. Adam in sala, Anna ai fornelli ci hanno fatto sentire davvero a casa. CordialitÃ , rilassatezza, piatti semplici ben preparati, molto gustosi e non particolarmente pesanti. Menzione speciale per le aringhe per il bigos. Vino della casa in caraffa gradevole. Occhio al liquore della nonna: crea dipendenza e ha un tasso alcoolico molto elevato!! Insomma, serata piacevolissima, mangiato benissimo, prezzi onesti. Torneremo sicuramente!!",
+				"RECENSIONE": "Una bella scoperta Spinti dalle ottime recensioni e da molta curiositÃƒÂ  prenotiamo per due. Ci accoglie una piccola sala con una trentina di coperti, atmosfera molto familiare da trattoria che ti dÃƒÂ  quella sensazione confortevole di casa. Adam in sala, Anna ai fornelli ci hanno fatto sentire davvero a casa. CordialitÃƒÂ , rilassatezza, piatti semplici ben preparati, molto gustosi e non particolarmente pesanti. Menzione speciale per le aringhe per il bigos. Vino della casa in caraffa gradevole. Occhio al liquore della nonna: crea dipendenza e ha un tasso alcoolico molto elevato!! Insomma, serata piacevolissima, mangiato benissimo, prezzi onesti. Torneremo sicuramente!!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -12937,7 +12937,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "100 Stelle! Se ci fossero piÃ¹ di cinque stelle, voterei fino a 100 stelle per questo ristorante meraviglioso. \nSiamo stati al loro ristorante Sushita a Roseto degli Abruzzi e siamo rimasti estasiati. Scoprire che questo ristorante aveva appena aperto anche a Roma, Ã¨ stata una delle piÃ¹ grandi felicitÃ  della nostra vita. \n\nLuogo raffinato, cibo ottimo, delizie per il palato. Se amate il sushi, correre a Sushita, il migliore di Roma. \n",
+				"RECENSIONE": "100 Stelle! Se ci fossero piÃƒÂ¹ di cinque stelle, voterei fino a 100 stelle per questo ristorante meraviglioso. \nSiamo stati al loro ristorante Sushita a Roseto degli Abruzzi e siamo rimasti estasiati. Scoprire che questo ristorante aveva appena aperto anche a Roma, ÃƒÂ¨ stata una delle piÃƒÂ¹ grandi felicitÃƒÂ  della nostra vita. \n\nLuogo raffinato, cibo ottimo, delizie per il palato. Se amate il sushi, correre a Sushita, il migliore di Roma. \n",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -13050,7 +13050,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ristorante eccezionale Sono stata da Sushita con il mio compagno e siamo rimasti piacevolmente colpiti dall'eccellente qualitÃ  dei prodotti ma soprattutto dalla creativitÃ  delle portate. Personale sempre molto attento e gentile. Ritorneremo sicuramente!",
+				"RECENSIONE": "Ristorante eccezionale Sono stata da Sushita con il mio compagno e siamo rimasti piacevolmente colpiti dall'eccellente qualitÃƒÂ  dei prodotti ma soprattutto dalla creativitÃƒÂ  delle portate. Personale sempre molto attento e gentile. Ritorneremo sicuramente!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -13120,7 +13120,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Consigliato  Pesce buono e ben presentato; menÃ¹ vario che prevede anche piatti particolari. Servizio attento e gentile, atmosfera curata e molto piacevole.",
+				"RECENSIONE": "Consigliato  Pesce buono e ben presentato; menÃƒÂ¹ vario che prevede anche piatti particolari. Servizio attento e gentile, atmosfera curata e molto piacevole.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -13211,7 +13211,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Top del Top Tutto pazzesco !!!!!!! Sushi fresco... Uramaki vari tutti buonissimi .....\nAd oggi tra quelli in cui ho mangiato, secondo me Ã¨ il migliore. \nTorneremo sicuramente ",
+				"RECENSIONE": "Top del Top Tutto pazzesco !!!!!!! Sushi fresco... Uramaki vari tutti buonissimi .....\nAd oggi tra quelli in cui ho mangiato, secondo me ÃƒÂ¨ il migliore. \nTorneremo sicuramente ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -13278,7 +13278,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sashimi top! Sashimi mix buonissimo si sente la qualitÃ  del pesce, anche gli altri piatti scelti sempre molto saporiti e ben presentati, servizio veloce attento e cordiale.\nil locale Ã¨ curato ma i tavoli un pÃ² piccolini.\nprezzi in linea con il servizio e la qualitÃ  del cibo, ci torneremo sicuramente per assaggiare gli altri piatti proposti. Consigliato!",
+				"RECENSIONE": "Sashimi top! Sashimi mix buonissimo si sente la qualitÃƒÂ  del pesce, anche gli altri piatti scelti sempre molto saporiti e ben presentati, servizio veloce attento e cordiale.\nil locale ÃƒÂ¨ curato ma i tavoli un pÃƒÂ² piccolini.\nprezzi in linea con il servizio e la qualitÃƒÂ  del cibo, ci torneremo sicuramente per assaggiare gli altri piatti proposti. Consigliato!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -13399,7 +13399,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Il migliore!! Abbiamo mangiato in diversi ristoranti di sushi, ma sushita Ã¨ per noi il migliore di sempre. Cibo ottimo,servizio impeccabile e personale gentilissimoðŸ˜Š",
+				"RECENSIONE": "Il migliore!! Abbiamo mangiato in diversi ristoranti di sushi, ma sushita ÃƒÂ¨ per noi il migliore di sempre. Cibo ottimo,servizio impeccabile e personale gentilissimoÃ°Å¸ËœÅ ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -13464,7 +13464,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Leggero calo di qualitÃ  Siamo stati a cena alla nuova sede e abbiamo dato una seconda chance anche al take away: non so se il cambio di locale e il covid hanno influito, ma ho notato un peggioramento della qualitÃ  del pesce utilizzato. Trovo i loro roll sempre buoni ma meno buoni di prima e soprattutto con tanta salsa a coprire. insomma adesso ci penso due volte prima di prenotare fa loro, soprattutto perchÃ© i prezzi sono comunque abbastanza rilevanti. Spero un giorno di ritornare e ricredermi, e di assaporare i rolls che mangiavo prima del covid.\n\nLocation e personale eccellenti. \n\n",
+				"RECENSIONE": "Leggero calo di qualitÃƒÂ  Siamo stati a cena alla nuova sede e abbiamo dato una seconda chance anche al take away: non so se il cambio di locale e il covid hanno influito, ma ho notato un peggioramento della qualitÃƒÂ  del pesce utilizzato. Trovo i loro roll sempre buoni ma meno buoni di prima e soprattutto con tanta salsa a coprire. insomma adesso ci penso due volte prima di prenotare fa loro, soprattutto perchÃƒÂ© i prezzi sono comunque abbastanza rilevanti. Spero un giorno di ritornare e ricredermi, e di assaporare i rolls che mangiavo prima del covid.\n\nLocation e personale eccellenti. \n\n",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -13675,7 +13675,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Tutto perfetto Mi hanno regalato una magnifica serata. Sono esperta di cibo giapponese, ho frequentato diversi ristoranti di Roma, devo dire che Ã¨ stato eccellente. L\u2019atmosfera raffinata, servizio curato, cibo di qualitÃ , rapporto di prezzo, a tutti do a 5 stelle. Se volete mangiare bene i sushi e i sashimi Andateci!!!! ",
+				"RECENSIONE": "Tutto perfetto Mi hanno regalato una magnifica serata. Sono esperta di cibo giapponese, ho frequentato diversi ristoranti di Roma, devo dire che ÃƒÂ¨ stato eccellente. L\u2019atmosfera raffinata, servizio curato, cibo di qualitÃƒÂ , rapporto di prezzo, a tutti do a 5 stelle. Se volete mangiare bene i sushi e i sashimi Andateci!!!! ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -13912,7 +13912,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Sushi fusion 10 e lode Veniamo spesso in questo splendido locale giapponrse fusion, ogni volta rimaniamo piÃ¹ che soddisfatti, la qualitÃ  delle materie prime utilizzate Ã¨ eccellente, ma quello che Ã¨ stupefacente Ã¨ la fantasia nel mescolare i sapori con risultati a dir poco eccezionali, sapori estremamente ricercati ed altamente godibili.\nIl locale nuovo Ã¨ accogliente e ben rifinito.\nAltro punto forte di questo ristorante Ã¨ l'assoluta cortesia e disponibilitÃ  del personale, ragazzi accorti, precisi, gentili.\nNel complesso altamente consigliato, va assolutamente provato, soprattutto per chi ama il sushi!",
+				"RECENSIONE": "Sushi fusion 10 e lode Veniamo spesso in questo splendido locale giapponrse fusion, ogni volta rimaniamo piÃƒÂ¹ che soddisfatti, la qualitÃƒÂ  delle materie prime utilizzate ÃƒÂ¨ eccellente, ma quello che ÃƒÂ¨ stupefacente ÃƒÂ¨ la fantasia nel mescolare i sapori con risultati a dir poco eccezionali, sapori estremamente ricercati ed altamente godibili.\nIl locale nuovo ÃƒÂ¨ accogliente e ben rifinito.\nAltro punto forte di questo ristorante ÃƒÂ¨ l'assoluta cortesia e disponibilitÃƒÂ  del personale, ragazzi accorti, precisi, gentili.\nNel complesso altamente consigliato, va assolutamente provato, soprattutto per chi ama il sushi!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -14010,7 +14010,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "IL SUSHI PIÃ™ BUONO DI SEMPRE!! Convinti dalle ottime recensioni ci siamo imbattuti in questo piccolo locale di sushi alla carta sulla nomentana. Niente a che vedere con i classici all you can eat: il prezzo Ã¨ sicuramente maggiore ma la differenza di qualitÃ  si sente e come. Carpaccio, tartare roll e uramaki speciali fanno da cornice ad un servizio impeccabile e attento. Location piccola ma molto accogliente e rilassante. Prezzo alto conforme alla qualitÃ  del cibo. Assolutamente da provare se si vuole assaporare un po' di vero Giappone. Ideale per coppie.",
+				"RECENSIONE": "IL SUSHI PIÃƒâ„¢ BUONO DI SEMPRE!! Convinti dalle ottime recensioni ci siamo imbattuti in questo piccolo locale di sushi alla carta sulla nomentana. Niente a che vedere con i classici all you can eat: il prezzo ÃƒÂ¨ sicuramente maggiore ma la differenza di qualitÃƒÂ  si sente e come. Carpaccio, tartare roll e uramaki speciali fanno da cornice ad un servizio impeccabile e attento. Location piccola ma molto accogliente e rilassante. Prezzo alto conforme alla qualitÃƒÂ  del cibo. Assolutamente da provare se si vuole assaporare un po' di vero Giappone. Ideale per coppie.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -14141,7 +14141,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "QualitÃ  indiscutibile, ma c'Ã¨ molto da lavorare # Recensione\nSono stato un grandissimo frequentatore di Sushita da quando hanno aperto. \nMi dispiace dover lasciare una recensione cosÃ¬ negativa ma spero il proprietario la legga e possa capire il punto di vista di un affezionato cliente.\n\n1. L\u2019apertura a pranzo:\n\nPer un certo periodo di tempo Ã¨ stato introdotto un menu pranzo molto conveniente che comprendeva diverse portate ad un prezzo competitivo. Dopo l\u2019introduzione di questo menÃ¹ avrÃ² pranzato praticamente quasi tutti i sabati li insieme a mia moglie. La ragazza che si trova li il sabato era sempre disponibile e ormai ci conoscevamo.\nDa un certo punto il menÃ¹ pranzo Ã¨ stato rimosso e il locale ha deciso di rimanere aperto soltanto a cena. Un punto molto a sfavore di chi, per questioni lavorative, si trovava in zona e volesse pranzare li. Peccato\n\n2. QualitÃ  del cibo\n\nQui non ho nulla da dire. Sushita ha scalato le classifiche dei miei ristoranti di sushi preferiti. A Roma penso di averne provati veramente tanti tra cui anche i piÃ¹ rinomati Doozo, Hamsei, Kiko e via dicendo. Sushita si guadagna un ottimo livello per qualitÃ  e anche per prezzo.\nLa scelta Ã¨ variegata e i prodotti sono sempre freschi.\n\n3. Servizio\n\nQui viene la seconda nota dolente. Mi Ã¨ spesso capitato di vedere il proprietario trattare con sufficienza i clienti che spendessero meno. Capiamoci, io vado a cena in un ristorante e mangio in base a quello che voglio e alla fame che ho in quel momento. Mai, in ristoranti di categoria ben superiore, come ad esempio stellati Michelin, mi sono sentito discriminato per le portate che sceglievo. Se voglio entrare e prendere un antipasto devo essere libero di farlo senza sentire le pressioni del proprietario o dei camerieri. Molto male\n\n4. Turni\n\nDa quanto il locale Ã¨ stato spostato nella nuova sede hanno avuto la pessima idea di inserire i turni. Attenzione, parliamo di un ristorante non economico. Posso comprendere i turni negli all you can eat, nelle hamburgerie e in altri locali economici. Non in un ristorante dove il costo medio a testa Ã¨ di 50\u20ac a persona.\n\nConcludo dicendo quanto giÃ  detto sopra, andateci e mangiate del buon sushi, perchÃ© la qualitÃ  non si discute. Per quanto riguarda tutto il resto c\u2019Ã¨ molto da lavorare\u2026",
+				"RECENSIONE": "QualitÃƒÂ  indiscutibile, ma c'ÃƒÂ¨ molto da lavorare # Recensione\nSono stato un grandissimo frequentatore di Sushita da quando hanno aperto. \nMi dispiace dover lasciare una recensione cosÃƒÂ¬ negativa ma spero il proprietario la legga e possa capire il punto di vista di un affezionato cliente.\n\n1. L\u2019apertura a pranzo:\n\nPer un certo periodo di tempo ÃƒÂ¨ stato introdotto un menu pranzo molto conveniente che comprendeva diverse portate ad un prezzo competitivo. Dopo l\u2019introduzione di questo menÃƒÂ¹ avrÃƒÂ² pranzato praticamente quasi tutti i sabati li insieme a mia moglie. La ragazza che si trova li il sabato era sempre disponibile e ormai ci conoscevamo.\nDa un certo punto il menÃƒÂ¹ pranzo ÃƒÂ¨ stato rimosso e il locale ha deciso di rimanere aperto soltanto a cena. Un punto molto a sfavore di chi, per questioni lavorative, si trovava in zona e volesse pranzare li. Peccato\n\n2. QualitÃƒÂ  del cibo\n\nQui non ho nulla da dire. Sushita ha scalato le classifiche dei miei ristoranti di sushi preferiti. A Roma penso di averne provati veramente tanti tra cui anche i piÃƒÂ¹ rinomati Doozo, Hamsei, Kiko e via dicendo. Sushita si guadagna un ottimo livello per qualitÃƒÂ  e anche per prezzo.\nLa scelta ÃƒÂ¨ variegata e i prodotti sono sempre freschi.\n\n3. Servizio\n\nQui viene la seconda nota dolente. Mi ÃƒÂ¨ spesso capitato di vedere il proprietario trattare con sufficienza i clienti che spendessero meno. Capiamoci, io vado a cena in un ristorante e mangio in base a quello che voglio e alla fame che ho in quel momento. Mai, in ristoranti di categoria ben superiore, come ad esempio stellati Michelin, mi sono sentito discriminato per le portate che sceglievo. Se voglio entrare e prendere un antipasto devo essere libero di farlo senza sentire le pressioni del proprietario o dei camerieri. Molto male\n\n4. Turni\n\nDa quanto il locale ÃƒÂ¨ stato spostato nella nuova sede hanno avuto la pessima idea di inserire i turni. Attenzione, parliamo di un ristorante non economico. Posso comprendere i turni negli all you can eat, nelle hamburgerie e in altri locali economici. Non in un ristorante dove il costo medio a testa ÃƒÂ¨ di 50\u20ac a persona.\n\nConcludo dicendo quanto giÃƒÂ  detto sopra, andateci e mangiate del buon sushi, perchÃƒÂ© la qualitÃƒÂ  non si discute. Per quanto riguarda tutto il resto c\u2019ÃƒÂ¨ molto da lavorare\u2026",
 				"RATE RECENSIONE": 2,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -14514,7 +14514,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Da non perdere!  Non vedevo l\u2019ora di provare Sushita nella nuova location di Via Nomentana, e devo dire che non ha deluso le aspettative! Il locale e\u2019 accogliente, spazioso e curato nei dettagli. Io piatti sono straordinari, uno dei migliori ristoranti giapponesi mai provati. La carta propone vastissima scelta tra sashimi, nigiri, uramaki e piatti fusion giapponese-italiano. Tra i roll consiglio vivamente il pineto e il mexico, mentre non si possono perdere il carpaccio e i nigirj aburi (nigiri scottati al tavolo al momento, molto scenografici oltre che buonissimi). Complimenti anche agli chef che curano gli impiattamenti nei minimi dettagli e propongono degli accostamenti particolari ma azzeccati in ogni roll. Il tutto servito da uno staff molto gentile e disponibile, che anche in questo momento particolare ci ha saputo accogliere calorosamente. \nOttimo anche il rapporto qualitÃ  prezzo... da non perdere! ",
+				"RECENSIONE": "Da non perdere!  Non vedevo l\u2019ora di provare Sushita nella nuova location di Via Nomentana, e devo dire che non ha deluso le aspettative! Il locale e\u2019 accogliente, spazioso e curato nei dettagli. Io piatti sono straordinari, uno dei migliori ristoranti giapponesi mai provati. La carta propone vastissima scelta tra sashimi, nigiri, uramaki e piatti fusion giapponese-italiano. Tra i roll consiglio vivamente il pineto e il mexico, mentre non si possono perdere il carpaccio e i nigirj aburi (nigiri scottati al tavolo al momento, molto scenografici oltre che buonissimi). Complimenti anche agli chef che curano gli impiattamenti nei minimi dettagli e propongono degli accostamenti particolari ma azzeccati in ogni roll. Il tutto servito da uno staff molto gentile e disponibile, che anche in questo momento particolare ci ha saputo accogliere calorosamente. \nOttimo anche il rapporto qualitÃƒÂ  prezzo... da non perdere! ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -14698,7 +14698,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Il mio ristorante di sushi preferito Ceno spesso in questo locale e mi trovo sempre benissimo. Il personale Ã¨ cortese e attento. Il cibo Ã¨ buonissimo. Vengono serviti sushi e sashimi classici e con qualche fantasiosa variante. Il pesce Ã¨ freschissimo. Sicuramente il mio ristorante di sushi preferito.",
+				"RECENSIONE": "Il mio ristorante di sushi preferito Ceno spesso in questo locale e mi trovo sempre benissimo. Il personale ÃƒÂ¨ cortese e attento. Il cibo ÃƒÂ¨ buonissimo. Vengono serviti sushi e sashimi classici e con qualche fantasiosa variante. Il pesce ÃƒÂ¨ freschissimo. Sicuramente il mio ristorante di sushi preferito.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -14895,7 +14895,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un paio di settimane fa, sono Un paio di settimane fa, sono venuto in questo locale: un vero e proprio fast food messicano. \nTra le opzioni presenti nel menu ho optato per nachos con guacamole ed il burrito. \nLa cosa carina Ã© che come bibita si puÃ² prendere un margarita, per rimanere in tema messicano. \nÃ‰ una buona alternativa quando si vuole fare qualcosa di diverso dal solito. \nLocale pulito, rispettoso delle norme igienico-sanitarie anti COVID.",
+				"RECENSIONE": "Un paio di settimane fa, sono Un paio di settimane fa, sono venuto in questo locale: un vero e proprio fast food messicano. \nTra le opzioni presenti nel menu ho optato per nachos con guacamole ed il burrito. \nLa cosa carina ÃƒÂ© che come bibita si puÃƒÂ² prendere un margarita, per rimanere in tema messicano. \nÃƒâ€° una buona alternativa quando si vuole fare qualcosa di diverso dal solito. \nLocale pulito, rispettoso delle norme igienico-sanitarie anti COVID.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15053,7 +15053,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cena Abbiamo ordinato online, mai provato in loco, quindi dico il mio pensiero solo su questa esperienza. \nAbbiamo ordinato due burrito, uno medio e uno grande. Buonissimi entrambi, peccato che sono arrivati entrambi freddi quindi credo sia un punto da sistemare. \nUno era piÃ¹ farcito dell\u2019altro, per noi Ã¨ andata benissimo cosÃ¬, a qualcuno forse puÃ² dar fastidio, ma questo sia dovuto al fatto che il medio Ã¨ meno farcito del grande? Comunque posto consigliato, se abbiamo occasione riproviamo sicuramente. ",
+				"RECENSIONE": "Cena Abbiamo ordinato online, mai provato in loco, quindi dico il mio pensiero solo su questa esperienza. \nAbbiamo ordinato due burrito, uno medio e uno grande. Buonissimi entrambi, peccato che sono arrivati entrambi freddi quindi credo sia un punto da sistemare. \nUno era piÃƒÂ¹ farcito dell\u2019altro, per noi ÃƒÂ¨ andata benissimo cosÃƒÂ¬, a qualcuno forse puÃƒÂ² dar fastidio, ma questo sia dovuto al fatto che il medio ÃƒÂ¨ meno farcito del grande? Comunque posto consigliato, se abbiamo occasione riproviamo sicuramente. ",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15126,7 +15126,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "'na bomba Abbiamo attraversato Roma per mangiare tacos e burrito qui e sono stati buonissimi. Personale davvero gentilissimo ci ha spiegato i vari ingredienti e come funzionava (puoi scegliere ogni ingrediente da aggiungere). Quando siamo usciti ci hanno regalato anche due donut ðŸ�©\nse state cercando un posto a Roma dove mangiare messicano, anche se questo Ã¨ un po' lontano dal centro, questo posto Ã¨ davvero strepitoso\n- Boo and Brad ðŸŒ®",
+				"RECENSIONE": "'na bomba Abbiamo attraversato Roma per mangiare tacos e burrito qui e sono stati buonissimi. Personale davvero gentilissimo ci ha spiegato i vari ingredienti e come funzionava (puoi scegliere ogni ingrediente da aggiungere). Quando siamo usciti ci hanno regalato anche due donut Ã°Å¸ï¿½Â©\nse state cercando un posto a Roma dove mangiare messicano, anche se questo ÃƒÂ¨ un po' lontano dal centro, questo posto ÃƒÂ¨ davvero strepitoso\n- Boo and Brad Ã°Å¸Å’Â®",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15182,7 +15182,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Consegne a domicilio: assolutamente no! Premetto che ho scritto di recente una recensione a 5* quindi sono insospettabile. Avendo davvero apprezzato i burritos di maybu, sempre presi in loco, ho deciso due sere fa di ordinare a domicilio (glovo), accettando di pagare qualcosa in piÃ¹ (due burritos medi li ho pagati 18.90). Tuttavia ho riscontrato delle cose inaccettabili: burritos diversi da come li avevamo ordinati (mancavano diversi ingredienti di condimento in entrambi), decisamente piÃ¹ piccoli di quelli che fanno da loro (cosa incredibile e inaccettabile, a fronte peraltro di un costo maggiore) e soprattutto FREDDI (!!!).\nMi Ã¨ dispiaciuto tra l'altro che non mi sia stato rimborsato nulla di quanto pagato, cosa che molti fanno in casi del genere.\nX maybu: mi piace molto la vostra cucina e sicuramente tornerÃ² da voi, non penso invece ordinerÃ² piÃ¹ a domicilio. Migliorate questo servizio, un consiglio da cliente affezionato.",
+				"RECENSIONE": "Consegne a domicilio: assolutamente no! Premetto che ho scritto di recente una recensione a 5* quindi sono insospettabile. Avendo davvero apprezzato i burritos di maybu, sempre presi in loco, ho deciso due sere fa di ordinare a domicilio (glovo), accettando di pagare qualcosa in piÃƒÂ¹ (due burritos medi li ho pagati 18.90). Tuttavia ho riscontrato delle cose inaccettabili: burritos diversi da come li avevamo ordinati (mancavano diversi ingredienti di condimento in entrambi), decisamente piÃƒÂ¹ piccoli di quelli che fanno da loro (cosa incredibile e inaccettabile, a fronte peraltro di un costo maggiore) e soprattutto FREDDI (!!!).\nMi ÃƒÂ¨ dispiaciuto tra l'altro che non mi sia stato rimborsato nulla di quanto pagato, cosa che molti fanno in casi del genere.\nX maybu: mi piace molto la vostra cucina e sicuramente tornerÃƒÂ² da voi, non penso invece ordinerÃƒÂ² piÃƒÂ¹ a domicilio. Migliorate questo servizio, un consiglio da cliente affezionato.",
 				"RATE RECENSIONE": 1,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15301,7 +15301,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Pranzo al volo Ingredienti freschi e cibi non unti. Burritos e piatti con cialda davvero gustosi. Va bene anche per chi non ama il piccante perchÃ© ci sono diverse opzioni di scelta.\nLo consiglio per un pranzo con piatto unico.\nVa bene anche per veg e affini.",
+				"RECENSIONE": "Pranzo al volo Ingredienti freschi e cibi non unti. Burritos e piatti con cialda davvero gustosi. Va bene anche per chi non ama il piccante perchÃƒÂ© ci sono diverse opzioni di scelta.\nLo consiglio per un pranzo con piatto unico.\nVa bene anche per veg e affini.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15484,7 +15484,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "IRRIPETIBILE  Sono cliente fisso dall\u2019apertura, ho giÃ¡ riempito tre tessere di timbri e provato tutte le combinazioni. Per me Ã¨ il migliore, tutto ottimo, personale molto gentile e bello il locale. Nessun burrito Ã¨ come questo ðŸŒ¯",
+				"RECENSIONE": "IRRIPETIBILE  Sono cliente fisso dall\u2019apertura, ho giÃƒÂ¡ riempito tre tessere di timbri e provato tutte le combinazioni. Per me ÃƒÂ¨ il migliore, tutto ottimo, personale molto gentile e bello il locale. Nessun burrito ÃƒÂ¨ come questo Ã°Å¸Å’Â¯",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15623,7 +15623,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Buonissimi tacos e burrito. Buonissimo tacos e burrito. PossibilitÃ  di personalizzare con buona scelta di ingredienti. Porzioni giganti. Personale gentilissimo che offre assaggi agli indecisi. Locale senza pretese per una cena economica e veloce. Atmosfera giovane. TornerÃ². ",
+				"RECENSIONE": "Buonissimi tacos e burrito. Buonissimo tacos e burrito. PossibilitÃƒÂ  di personalizzare con buona scelta di ingredienti. Porzioni giganti. Personale gentilissimo che offre assaggi agli indecisi. Locale senza pretese per una cena economica e veloce. Atmosfera giovane. TornerÃƒÂ². ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15791,7 +15791,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Si mangia benissimi cordiali Si mangia benissimi cordiali e tutto , uno dei locali piu buoni di roma ottima qualitÃ -prezzo il posto dove ho mangiato meglio in assoluto complimenti ðŸ–¤ ",
+				"RECENSIONE": "Si mangia benissimi cordiali Si mangia benissimi cordiali e tutto , uno dei locali piu buoni di roma ottima qualitÃƒÂ -prezzo il posto dove ho mangiato meglio in assoluto complimenti Ã°Å¸â€“Â¤ ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15851,7 +15851,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Salsa chipotle che ti fa volare in Messico Ieri sera ho voluto provare un burrito, pietanza che ritengo piÃ¹ tex che mex, in Messico lo avrÃ² mangiato sÃ¬ e no una volta o due in 2 anni. Il posto lo conosco perchÃ© sono una cliente del ristorante messicano La cucaracha che sta di fianco e il Maybu, dall\u2019aspetto fresco e giovanile, mi ha sempre invogliato ad andare. Posto pulito, ben tenuto, giovanile Ã¨ famigliare, personale cortese e sorridente (nonostante la mascherina)... un ambiente che mette di buon umore. Chiedo un burrito d\u2019asporto (carne di maiale ECCEZIONALE), il packaging Ã¨ ecosostenibile (ogni cosa ormai mi ha conquistata di questo posto). Mi fanno anche una sorta di Fidelity Card per il burrito in omaggio dopo un tot di acquisti. \nArrivo a casa, assaggio e...magia. La salsa al chipotle mi ha catapultata a Puebla, nello stand di DoÃ±a Filo. Non pensavo di poter riassaporare quella familiaritÃ  qui a Roma, mi avete commossa... ci vediamo presto ðŸ’™",
+				"RECENSIONE": "Salsa chipotle che ti fa volare in Messico Ieri sera ho voluto provare un burrito, pietanza che ritengo piÃƒÂ¹ tex che mex, in Messico lo avrÃƒÂ² mangiato sÃƒÂ¬ e no una volta o due in 2 anni. Il posto lo conosco perchÃƒÂ© sono una cliente del ristorante messicano La cucaracha che sta di fianco e il Maybu, dall\u2019aspetto fresco e giovanile, mi ha sempre invogliato ad andare. Posto pulito, ben tenuto, giovanile ÃƒÂ¨ famigliare, personale cortese e sorridente (nonostante la mascherina)... un ambiente che mette di buon umore. Chiedo un burrito d\u2019asporto (carne di maiale ECCEZIONALE), il packaging ÃƒÂ¨ ecosostenibile (ogni cosa ormai mi ha conquistata di questo posto). Mi fanno anche una sorta di Fidelity Card per il burrito in omaggio dopo un tot di acquisti. \nArrivo a casa, assaggio e...magia. La salsa al chipotle mi ha catapultata a Puebla, nello stand di DoÃƒÂ±a Filo. Non pensavo di poter riassaporare quella familiaritÃƒÂ  qui a Roma, mi avete commossa... ci vediamo presto Ã°Å¸â€™â„¢",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -15994,7 +15994,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Fast food messicano che lavora anche da asporto Locale di moderna concezione e molto attento alla biodegradabilitÃ .  Burriti e tacos al volo. Self service con vassoietto che ti  predispongono al banco. Personale giovane, veloce e disponibile a spiegare le composizioni piÃ¹ adeguate per burriti e tacos. A richiesta  ti farciscono le tortillas attingendo dalle vaschette (stile kebabbaro) piene di ingredienti utili a comporre i tipici piatti messicani. \nE poi vai direttamente ai tavoli per consumare. \nDiciamo che si perde l'atmosfera del locale multicolore tipico e il menÃ¹ piÃ¹ ricco che  trovi al ristorante tradizionale. Per esempio non mi pare di aver visto la sangria tra le bevande. \nIl Maybu appartiene agli stessi titolari dell'adiacente La Cucaracha, ristorante spiccatamente in stile messicano.\nIl vantaggio lo trovi nel fatto che puoi consumare in qualunque orario, e prendere, per esempio, una birra e dei tacos all'ora dell' aperitivo. Il costo Ã¨ piÃ¹ economico rispetto a quello del ristorante. Molto adatto ai giovani e a chi si Ã¨ stancato di una eccessiva caratterizzazione dei locali etnici. Non male.",
+				"RECENSIONE": "Fast food messicano che lavora anche da asporto Locale di moderna concezione e molto attento alla biodegradabilitÃƒÂ .  Burriti e tacos al volo. Self service con vassoietto che ti  predispongono al banco. Personale giovane, veloce e disponibile a spiegare le composizioni piÃƒÂ¹ adeguate per burriti e tacos. A richiesta  ti farciscono le tortillas attingendo dalle vaschette (stile kebabbaro) piene di ingredienti utili a comporre i tipici piatti messicani. \nE poi vai direttamente ai tavoli per consumare. \nDiciamo che si perde l'atmosfera del locale multicolore tipico e il menÃƒÂ¹ piÃƒÂ¹ ricco che  trovi al ristorante tradizionale. Per esempio non mi pare di aver visto la sangria tra le bevande. \nIl Maybu appartiene agli stessi titolari dell'adiacente La Cucaracha, ristorante spiccatamente in stile messicano.\nIl vantaggio lo trovi nel fatto che puoi consumare in qualunque orario, e prendere, per esempio, una birra e dei tacos all'ora dell' aperitivo. Il costo ÃƒÂ¨ piÃƒÂ¹ economico rispetto a quello del ristorante. Molto adatto ai giovani e a chi si ÃƒÂ¨ stancato di una eccessiva caratterizzazione dei locali etnici. Non male.",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -16198,7 +16198,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Ristorante greco Capitati per caso e per curiositÃ  di assaporare qualcosa della cucina greca, rimaniamo piacevolmente sorpresi su tutto. Antipasto proposto dallo chef composto da piÃ¹ assaggi perfetto nei sapori, presentazione e tempistiche. Due secondi di pesce delicatissimi, vino greco amabile, dessert con altro vino in abbinata azzeccatissimo. Il gestore gentile, disponibile e bravo....posso solo che consigliarlo a tutti perchÃ© Ã¨ veramente un posto piccolo ma accogliente che merita!!! Complimenti per la passione e il risultato.",
+				"RECENSIONE": "Ristorante greco Capitati per caso e per curiositÃƒÂ  di assaporare qualcosa della cucina greca, rimaniamo piacevolmente sorpresi su tutto. Antipasto proposto dallo chef composto da piÃƒÂ¹ assaggi perfetto nei sapori, presentazione e tempistiche. Due secondi di pesce delicatissimi, vino greco amabile, dessert con altro vino in abbinata azzeccatissimo. Il gestore gentile, disponibile e bravo....posso solo che consigliarlo a tutti perchÃƒÂ© ÃƒÂ¨ veramente un posto piccolo ma accogliente che merita!!! Complimenti per la passione e il risultato.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -16434,7 +16434,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Fantastica scoperta  Sono stata a cena in questo bistrot incuriosita da consigli e recensioni. Che dire? Ha superato ogni aspettativa. Cibo di qualitÃ  molto alta, ambiente curato e accogliente, titolare davvero simpatico, ti fa sentire il benvenuto, come se ci si conoscesse da anni. Il conto forse Ã¨ un po\u2019 salato ma la qualitÃ  si paga e un\u2019atmosfera cosÃ¬ non la trovavo da anni. TornerÃ² sicuramente molto spesso.",
+				"RECENSIONE": "Fantastica scoperta  Sono stata a cena in questo bistrot incuriosita da consigli e recensioni. Che dire? Ha superato ogni aspettativa. Cibo di qualitÃƒÂ  molto alta, ambiente curato e accogliente, titolare davvero simpatico, ti fa sentire il benvenuto, come se ci si conoscesse da anni. Il conto forse ÃƒÂ¨ un po\u2019 salato ma la qualitÃƒÂ  si paga e un\u2019atmosfera cosÃƒÂ¬ non la trovavo da anni. TornerÃƒÂ² sicuramente molto spesso.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -16550,7 +16550,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Delizioso pranzo Ottimo rapporto qualitÃ  prezzo. Il menÃ¹ dipende dalle disponibilitÃ  del giorno. In generale si attiene ai piatti della tradizione greca dalla moussaka al prosciutto di agnello ma con delle rivisitazioni del cuoco. Noi abbiamo spaziato con gli antipasti dalla piovra alla tartara dalle melanzane ripiene alle mazzancolle. Poi moussaka per tutti e infine dei deliziosi fichi caramellati accompagnati da un formaggio erborinato.\nVaria la lista dei vini.",
+				"RECENSIONE": "Delizioso pranzo Ottimo rapporto qualitÃƒÂ  prezzo. Il menÃƒÂ¹ dipende dalle disponibilitÃƒÂ  del giorno. In generale si attiene ai piatti della tradizione greca dalla moussaka al prosciutto di agnello ma con delle rivisitazioni del cuoco. Noi abbiamo spaziato con gli antipasti dalla piovra alla tartara dalle melanzane ripiene alle mazzancolle. Poi moussaka per tutti e infine dei deliziosi fichi caramellati accompagnati da un formaggio erborinato.\nVaria la lista dei vini.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -16643,7 +16643,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Pranzo Siamo stati ieri, abbiamo mangiato ieri, due ottime moussaka, un'insalata alla greca e un piatto di feta con le olive, rapporto qualitÃ  prezzo ottimo e ottimo cibo, ci ritorneremo.",
+				"RECENSIONE": "Pranzo Siamo stati ieri, abbiamo mangiato ieri, due ottime moussaka, un'insalata alla greca e un piatto di feta con le olive, rapporto qualitÃƒÂ  prezzo ottimo e ottimo cibo, ci ritorneremo.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -16680,7 +16680,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un po' di Grecia a Trieste Abbiamo piÃ¹ volte mangiato in questo ristorante accogliente e carino. Il titolare Ã¨ molto cordiale e propone con simpatia i piatti giornalmente preparati. Questi sono molto curati e coniugano i sapori della cucina greca con quella triestina. Rapporto qualitÃ  prezzo vincente.",
+				"RECENSIONE": "Un po' di Grecia a Trieste Abbiamo piÃƒÂ¹ volte mangiato in questo ristorante accogliente e carino. Il titolare ÃƒÂ¨ molto cordiale e propone con simpatia i piatti giornalmente preparati. Questi sono molto curati e coniugano i sapori della cucina greca con quella triestina. Rapporto qualitÃƒÂ  prezzo vincente.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -16757,7 +16757,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cena in compagnia  Mi sono trovato bene tutto quello che ho mangiato mi Ã¨ piaciuto locale carino e tranquillo sevizio buono lo consiglio ",
+				"RECENSIONE": "Cena in compagnia  Mi sono trovato bene tutto quello che ho mangiato mi ÃƒÂ¨ piaciuto locale carino e tranquillo sevizio buono lo consiglio ",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -16812,7 +16812,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "un angolo di Grecia nel cuore di Trieste Ottimi piatti, atmosfera calda e piacevole. Tutti super gentili e la qualitÃ  del cibo Ã¨ davvero elevata. Moussaka e piovra eccezionali, ma anche i cibi non propriamente greci sono interessanti. Prezzi coerenti alla qualitÃ . Superconsigliato!",
+				"RECENSIONE": "un angolo di Grecia nel cuore di Trieste Ottimi piatti, atmosfera calda e piacevole. Tutti super gentili e la qualitÃƒÂ  del cibo ÃƒÂ¨ davvero elevata. Moussaka e piovra eccezionali, ma anche i cibi non propriamente greci sono interessanti. Prezzi coerenti alla qualitÃƒÂ . Superconsigliato!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -16923,7 +16923,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Consigliatissimo Ristorante molto carino e ben curato, personale gentile, simpatico e disponibile. Prodotti e cucina di eccellente qualitÃ , preparati con dedizione ed evidente passione. Ottimo per una cena tra amici, ma perfetto anche per coppie. Consigliatissimo.",
+				"RECENSIONE": "Consigliatissimo Ristorante molto carino e ben curato, personale gentile, simpatico e disponibile. Prodotti e cucina di eccellente qualitÃƒÂ , preparati con dedizione ed evidente passione. Ottimo per una cena tra amici, ma perfetto anche per coppie. Consigliatissimo.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17029,7 +17029,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cena con amici Terza volta in questo ristorante, un piatto piÃ¹ buono dell\u2019altro. Cotture perfette e sapori d\u2019altri tempi quando la materia prima era eccezionale e chi cucinava sapeva e aveva tempo. Complimenti davveroðŸ™Œ",
+				"RECENSIONE": "Cena con amici Terza volta in questo ristorante, un piatto piÃƒÂ¹ buono dell\u2019altro. Cotture perfette e sapori d\u2019altri tempi quando la materia prima era eccezionale e chi cucinava sapeva e aveva tempo. Complimenti davveroÃ°Å¸â„¢Å’",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17201,7 +17201,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cena con amici In occasione della Barcolana abbiamo cenato in questo simpatico bistrot.Credo di non avere mai mangiato cosÃ¬ bene cucina greca nemmeno in loco e in Grecia sono stata x anni!!! Tutto fantastico , ottimo anche il vino e il titolare Ã¨ meraviglioso..consigliatissimo",
+				"RECENSIONE": "Cena con amici In occasione della Barcolana abbiamo cenato in questo simpatico bistrot.Credo di non avere mai mangiato cosÃƒÂ¬ bene cucina greca nemmeno in loco e in Grecia sono stata x anni!!! Tutto fantastico , ottimo anche il vino e il titolare ÃƒÂ¨ meraviglioso..consigliatissimo",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17345,7 +17345,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Piatti genuini preparati con cura e passione Il menu puÃ² variare a seconda di quello che l'appassionato di cucina, il cuoco, trova al mercato. Consiglio di accettare i suoi suggerimenti se concordano coi propri gusti. Ambiente semplice ma confortevole e fresco nel centro di Trieste. La moussakÃ  Ã¨ imperdibile!! Lo consiglio.",
+				"RECENSIONE": "Piatti genuini preparati con cura e passione Il menu puÃƒÂ² variare a seconda di quello che l'appassionato di cucina, il cuoco, trova al mercato. Consiglio di accettare i suoi suggerimenti se concordano coi propri gusti. Ambiente semplice ma confortevole e fresco nel centro di Trieste. La moussakÃƒÂ  ÃƒÂ¨ imperdibile!! Lo consiglio.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17437,7 +17437,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Particolare Siamo stati a pranzo in famiglia la prima calda domenica di giugno...in centro cittÃ , il locale Ã¨ cmq luminoso e fresco. Il titolare Ã¨ un personaggio un po'fuori dalle righe ma cmq simpatico e competente. Non un vero addetto ai lavori ma un appassionato di cucina. Si mangia quel che ha preparato, senza un menÃ¹ fisso, e non solo cucina greca, ma tutto farcito di spiegazioni! Ottimo vino greco e locale. Buon cibo, bella atmosfera...assolutamente non convenzionale!",
+				"RECENSIONE": "Particolare Siamo stati a pranzo in famiglia la prima calda domenica di giugno...in centro cittÃƒÂ , il locale ÃƒÂ¨ cmq luminoso e fresco. Il titolare ÃƒÂ¨ un personaggio un po'fuori dalle righe ma cmq simpatico e competente. Non un vero addetto ai lavori ma un appassionato di cucina. Si mangia quel che ha preparato, senza un menÃƒÂ¹ fisso, e non solo cucina greca, ma tutto farcito di spiegazioni! Ottimo vino greco e locale. Buon cibo, bella atmosfera...assolutamente non convenzionale!",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17593,7 +17593,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "Ottimo posto per una cena Ristorante indiano, piccolo ma accogliente, il personale Ã¨ sempre gentile, se amate il cibo piccante Ã¨ il posto giusto. Vi consiglio di provare i ceci fatti con una loro particolare salsa, piccanti ma dal sapore eccezionale. Anche il riso Ã¨ molto buono. ",
+				"RECENSIONE": "Ottimo posto per una cena Ristorante indiano, piccolo ma accogliente, il personale ÃƒÂ¨ sempre gentile, se amate il cibo piccante ÃƒÂ¨ il posto giusto. Vi consiglio di provare i ceci fatti con una loro particolare salsa, piccanti ma dal sapore eccezionale. Anche il riso ÃƒÂ¨ molto buono. ",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17689,7 +17689,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Bene Non il migliore, perÃ² sicuramente il migliore come rapporto qualitÃ  prezzo tra i ristoranti indiani della cittÃ .\nBuono il cibo, gentile il personale.",
+				"RECENSIONE": "Bene Non il migliore, perÃƒÂ² sicuramente il migliore come rapporto qualitÃƒÂ  prezzo tra i ristoranti indiani della cittÃƒÂ .\nBuono il cibo, gentile il personale.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17738,7 +17738,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ordine d\u2019asporto Ho provato ad ordinare d\u2019asporto in questo locale e sono rimasta parecchio delusa, ho passato tutta la notte a svegliarmi per bere. I sapori non erano tutta questa grande cosa Ã¨ direi che Ã¨ economico proprio perchÃ© ha prodotti di bassa qualitÃ . ",
+				"RECENSIONE": "Ordine d\u2019asporto Ho provato ad ordinare d\u2019asporto in questo locale e sono rimasta parecchio delusa, ho passato tutta la notte a svegliarmi per bere. I sapori non erano tutta questa grande cosa ÃƒÂ¨ direi che ÃƒÂ¨ economico proprio perchÃƒÂ© ha prodotti di bassa qualitÃƒÂ . ",
 				"RATE RECENSIONE": 2,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17815,7 +17815,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Da provare! Pranzo apprezzatissimo sia da chi ha mangiato carne, tenera e gustosa, sia da chi ha consumato menÃ¹ esclusivamente vegetariano. Ottime le salse, il pane tipico naan, il riso con verdure. Ho bevuto un ottimo tÃ¨ al cardamomo. Locale perfetto anche per vegani. Tutte le portate sono state spiegate dettagliatamente dal titolare molto gentile. Ottimo rapporto qualitÃ  prezzo. Sicuramente ci torneremo.",
+				"RECENSIONE": "Da provare! Pranzo apprezzatissimo sia da chi ha mangiato carne, tenera e gustosa, sia da chi ha consumato menÃƒÂ¹ esclusivamente vegetariano. Ottime le salse, il pane tipico naan, il riso con verdure. Ho bevuto un ottimo tÃƒÂ¨ al cardamomo. Locale perfetto anche per vegani. Tutte le portate sono state spiegate dettagliatamente dal titolare molto gentile. Ottimo rapporto qualitÃƒÂ  prezzo. Sicuramente ci torneremo.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -17950,7 +17950,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cena La cucina indiana Ã¨ molto speziata come deve essere e le pietanze sono molte. Unico neo per i neofiti della cucina indiana Ã¨ che i titolari non forniscono spiegazioni sulle pietanze, specialmente sul grado di piccantezza. Buonissimi gli antipasti.",
+				"RECENSIONE": "Cena La cucina indiana ÃƒÂ¨ molto speziata come deve essere e le pietanze sono molte. Unico neo per i neofiti della cucina indiana ÃƒÂ¨ che i titolari non forniscono spiegazioni sulle pietanze, specialmente sul grado di piccantezza. Buonissimi gli antipasti.",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -18020,7 +18020,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Il peggior ristorante indiano mai provato Il top l\u2019antipasto misto fritto per due: da non riconoscere l\u2019uno dall\u2019altro. Tutto evidentemente congelato e sbattuto nell\u2019olio bollente e scuro. I samosa che quando sono fatti bene sono uno scrigno di profumo e sapore avevano solo il\ngusto dell\u2019olio bruciato Ã¨ utilizzato piÃ¹ e piÃ¹ volte: per rispetto del mio fegato ho lasciato la metÃ  di tutto nel piatto. Il locale non ha atmosfera, i menu plastificati ricordano i locali che si trovano all\u2019interno dei centri commerciali e che sono falsamente etnici, nulla di autentico a parte le birre che almeno hanno un nome che consola: Kamasutra. NamastÃ¨ ðŸ™�",
+				"RECENSIONE": "Il peggior ristorante indiano mai provato Il top l\u2019antipasto misto fritto per due: da non riconoscere l\u2019uno dall\u2019altro. Tutto evidentemente congelato e sbattuto nell\u2019olio bollente e scuro. I samosa che quando sono fatti bene sono uno scrigno di profumo e sapore avevano solo il\ngusto dell\u2019olio bruciato ÃƒÂ¨ utilizzato piÃƒÂ¹ e piÃƒÂ¹ volte: per rispetto del mio fegato ho lasciato la metÃƒÂ  di tutto nel piatto. Il locale non ha atmosfera, i menu plastificati ricordano i locali che si trovano all\u2019interno dei centri commerciali e che sono falsamente etnici, nulla di autentico a parte le birre che almeno hanno un nome che consola: Kamasutra. NamastÃƒÂ¨ Ã°Å¸â„¢ï¿½",
 				"RATE RECENSIONE": 2,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -18335,7 +18335,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Cibo Indiano Ãˆ la prima volta che ho provato un ristorante indiano.\nInnanzitutto molta gentilezza e buona qualitÃ  delle tante tipologie di cibo Indiano.\nProvare nuove tipologie di cibo molto diverso dalla nostra cucina mediterranea Ã¨ una bella esperienza.\nProvare per credere.\n",
+				"RECENSIONE": "Cibo Indiano ÃƒË† la prima volta che ho provato un ristorante indiano.\nInnanzitutto molta gentilezza e buona qualitÃƒÂ  delle tante tipologie di cibo Indiano.\nProvare nuove tipologie di cibo molto diverso dalla nostra cucina mediterranea ÃƒÂ¨ una bella esperienza.\nProvare per credere.\n",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -18510,7 +18510,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Da provare.  Prima esperienza per me in un ristorante indiano. Positiva nel complesso. Buona accoglienza e buona atmosfera. Ho provato per 17 euro il menÃ¹ completo a base di carne che ha soddisfatto le mie aspettative. Solo il dolce ed il digestivo non sono stati di mio gradimento. Da provare. ",
+				"RECENSIONE": "Da provare.  Prima esperienza per me in un ristorante indiano. Positiva nel complesso. Buona accoglienza e buona atmosfera. Ho provato per 17 euro il menÃƒÂ¹ completo a base di carne che ha soddisfatto le mie aspettative. Solo il dolce ed il digestivo non sono stati di mio gradimento. Da provare. ",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -18615,7 +18615,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Top indiano a Trieste Ottimi sapori, buono il rapporto qualitÃ  prezzo. Da amanti del cibo indiano, ci veniamo al minimo 1x al mese. Non lontano dal centro. CordialitÃ  e servizio veloce. Per noi semplicemente FANTASTICO.",
+				"RECENSIONE": "Top indiano a Trieste Ottimi sapori, buono il rapporto qualitÃƒÂ  prezzo. Da amanti del cibo indiano, ci veniamo al minimo 1x al mese. Non lontano dal centro. CordialitÃƒÂ  e servizio veloce. Per noi semplicemente FANTASTICO.",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -18774,7 +18774,7 @@
 		"RANKING": 4.5
 	}, {
 		"RECENSIONI": [{
-				"RECENSIONE": "ðŸŒ¯ðŸŒ®ðŸ¥‘ðŸŒ¶ï¸� Modesto e tranquillo posticino per gustare buoni piatti messicani. \nPersonale davvero molto gentile anche se un po' lentini nel servizio, ma nel complesso molto molto piacevole!!\n",
+				"RECENSIONE": "Ã°Å¸Å’Â¯Ã°Å¸Å’Â®Ã°Å¸Â¥â€˜Ã°Å¸Å’Â¶Ã¯Â¸ï¿½ Modesto e tranquillo posticino per gustare buoni piatti messicani. \nPersonale davvero molto gentile anche se un po' lentini nel servizio, ma nel complesso molto molto piacevole!!\n",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -18835,7 +18835,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "TOTOPOS IRRESISTIBILI Locale e personale delizioso!\nIn particolare segnalo che sono uno dei rarissimi ristoranti messicani ad usare l\u2019unica vera farina di mais che andrebbe usata x cucinare i loro tachos, tortillas, nachos & co.!E li cucinano loro, fritti al momento!\nI loro TOTOPOS (nachos), da accompagnare alla guacamole o alle salsine varie, sono davvero come quelli originali del Messico, e non hanno nulla a che fare con le patatine salate: sono eccellenti!\nObbligo ordinarne almeno una confezione in piÃ¹ take away da portarsi con sÃ¨!\nOttima anche la selezione di birre tipiche, che ho davvero apprezzato pur non essendo amante in generale di questa bevanda.\nViva Mexico, bravi!\n",
+				"RECENSIONE": "TOTOPOS IRRESISTIBILI Locale e personale delizioso!\nIn particolare segnalo che sono uno dei rarissimi ristoranti messicani ad usare l\u2019unica vera farina di mais che andrebbe usata x cucinare i loro tachos, tortillas, nachos & co.!E li cucinano loro, fritti al momento!\nI loro TOTOPOS (nachos), da accompagnare alla guacamole o alle salsine varie, sono davvero come quelli originali del Messico, e non hanno nulla a che fare con le patatine salate: sono eccellenti!\nObbligo ordinarne almeno una confezione in piÃƒÂ¹ take away da portarsi con sÃƒÂ¨!\nOttima anche la selezione di birre tipiche, che ho davvero apprezzato pur non essendo amante in generale di questa bevanda.\nViva Mexico, bravi!\n",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -18962,7 +18962,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottimi nachos ma male L\u2019attesa e il costo della sangria Per chi ama la cucina messicana devo dire che c\u2019Ã¨ una ottima scelta. Molto buoni i nachos fatti in casa con buone salse di contorno. Burrito nella media.\nPurtroppo L attesa nelle serate affollate Ã¨ molto alta, ma ci ha lasciato di stucco il costo della sangria di 20\u20ac (x 1litro o 75 cl non ricordo), peraltro non indicato nel menu sul qualÃ¨ c\u2019Ã¨ solo L indicazione del costo del bicchiere. Errore nostro che non L abbiamo chiesto ma ci Ã¨ sembrato troppo alto.",
+				"RECENSIONE": "Ottimi nachos ma male L\u2019attesa e il costo della sangria Per chi ama la cucina messicana devo dire che c\u2019ÃƒÂ¨ una ottima scelta. Molto buoni i nachos fatti in casa con buone salse di contorno. Burrito nella media.\nPurtroppo L attesa nelle serate affollate ÃƒÂ¨ molto alta, ma ci ha lasciato di stucco il costo della sangria di 20\u20ac (x 1litro o 75 cl non ricordo), peraltro non indicato nel menu sul qualÃƒÂ¨ c\u2019ÃƒÂ¨ solo L indicazione del costo del bicchiere. Errore nostro che non L abbiamo chiesto ma ci ÃƒÂ¨ sembrato troppo alto.",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19077,7 +19077,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Prima e ultima volta! La qualitÃ  del cibo servitoci Ã¨ stata pari solamente all\u2019antipatia e boriositÃ  del personale che c\u2019Ã¨ l\u2019ha servita. Chili di carne che non si avvicinava minimamente a quello originale e un burritos che conteneva un pezzo piccolo di pollo, un pomodoro e una montagna di insalata! \nUna vergogna per la cittÃ !",
+				"RECENSIONE": "Prima e ultima volta! La qualitÃƒÂ  del cibo servitoci ÃƒÂ¨ stata pari solamente all\u2019antipatia e boriositÃƒÂ  del personale che c\u2019ÃƒÂ¨ l\u2019ha servita. Chili di carne che non si avvicinava minimamente a quello originale e un burritos che conteneva un pezzo piccolo di pollo, un pomodoro e una montagna di insalata! \nUna vergogna per la cittÃƒÂ !",
 				"RATE RECENSIONE": 1,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19148,7 +19148,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Una vergogna per questa cittÃ  A malincuore mi sento in obbligo di dover recensire questo \u201cristorante\u201d, per tutti voi che vedete il termine  \u201cVenezia\u201d e \u201cMessico\u201d associati a questo loculo; non fatevi ingannare come me, di messicano c\u2019Ã¨ solo la bandiera.\nQuesto locale e chi ci lavora dovrebbe essere banditi da Venezia, camerieri, cuochi e proprietari dovrebbero farsi un esame di coscienza; non si puÃ² servire del cibo di questa qualitÃ , personalmente non lo farei mangiare neanche al mio cane.\nPrego le autoritÃ  di cacciare dalla nostra cittÃ  tale abominio e confinare tali persone, maleducate e ignoranti nel posto che meritano.\nSiamo stati male tutti solo ad aver assaggiato quelle bestialitÃ  che ci sono state propinate.",
+				"RECENSIONE": "Una vergogna per questa cittÃƒÂ  A malincuore mi sento in obbligo di dover recensire questo \u201cristorante\u201d, per tutti voi che vedete il termine  \u201cVenezia\u201d e \u201cMessico\u201d associati a questo loculo; non fatevi ingannare come me, di messicano c\u2019ÃƒÂ¨ solo la bandiera.\nQuesto locale e chi ci lavora dovrebbe essere banditi da Venezia, camerieri, cuochi e proprietari dovrebbero farsi un esame di coscienza; non si puÃƒÂ² servire del cibo di questa qualitÃƒÂ , personalmente non lo farei mangiare neanche al mio cane.\nPrego le autoritÃƒÂ  di cacciare dalla nostra cittÃƒÂ  tale abominio e confinare tali persone, maleducate e ignoranti nel posto che meritano.\nSiamo stati male tutti solo ad aver assaggiato quelle bestialitÃƒÂ  che ci sono state propinate.",
 				"RATE RECENSIONE": 1,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19215,7 +19215,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Burritos und tacos spitze! Die Burritos und tacos sind der Hammer!! Gerne Wieder! Toller Vibe und AtmosphÃ¤re! Bedienung war sehr nett!",
+				"RECENSIONE": "Burritos und tacos spitze! Die Burritos und tacos sind der Hammer!! Gerne Wieder! Toller Vibe und AtmosphÃƒÂ¤re! Bedienung war sehr nett!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19330,7 +19330,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Un'attesa infinita Siamo state ieri sera in questo locale. Dopo esserci sedute, abbiamo aspettato 20 minuti per avere un menÃ¹. Una volta ordinato da bere, ci hanno portato delle bibite sbagliate e, dopo averlo fatto notare, la cameriera si Ã¨ rivolta a noi in maniera un po' scortese. La sangria ordinata era un simil acqua detox. Un'altra mezz'ora abbondante per avere solo dei nachos. Il secondo piatto Ã¨ arrivato quasi 40 minuti dopo. Insomma, l'attesa non vale nÃ© il servizio nÃ© la cucina. Sconsigliamo vivamente. ",
+				"RECENSIONE": "Un'attesa infinita Siamo state ieri sera in questo locale. Dopo esserci sedute, abbiamo aspettato 20 minuti per avere un menÃƒÂ¹. Una volta ordinato da bere, ci hanno portato delle bibite sbagliate e, dopo averlo fatto notare, la cameriera si ÃƒÂ¨ rivolta a noi in maniera un po' scortese. La sangria ordinata era un simil acqua detox. Un'altra mezz'ora abbondante per avere solo dei nachos. Il secondo piatto ÃƒÂ¨ arrivato quasi 40 minuti dopo. Insomma, l'attesa non vale nÃƒÂ© il servizio nÃƒÂ© la cucina. Sconsigliamo vivamente. ",
 				"RATE RECENSIONE": 2,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19517,7 +19517,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Ottimo cibo messicano.QualitÃ  Ottimo cibo messicano.QualitÃ  ingredienti buonissima(tacos fatto da loro sono fantastici !).titolare simpatica e in gamba!.Tappa.Rapporto qualitÃ  prezzo veramente ottimo.Tappa che consiglio.",
+				"RECENSIONE": "Ottimo cibo messicano.QualitÃƒÂ  Ottimo cibo messicano.QualitÃƒÂ  ingredienti buonissima(tacos fatto da loro sono fantastici !).titolare simpatica e in gamba!.Tappa.Rapporto qualitÃƒÂ  prezzo veramente ottimo.Tappa che consiglio.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19619,7 +19619,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Carino ma non troppo buono Siamo andati per la prima volta a San Valentino in questo ristorante messicano, sentendo pareri contrastanti a riguardo. Il personale Ã¨ molto cortese, nulla da dire; ambiente tranquillo, decorazioni tipiche messicane con musica contemporanea di sottofondo che non crea disturbo.\nPer quanto riguarda la cucina non posso essere altrettanto positiva: le porzioni sono piccole e riempite di insalata per fare volume, riducendo cosÃ¬, spesso e volentieri il vero contenuto dei cibi. Il gusto, in ogni caso, non Ã¨ il massimo ed io, avendo esperienza con altri ristoranti messicani, mi sento di dire che non aveva troppo sapore il cibo. Non dico che il cibo sia cattivo, ma neanche eccellente o, almeno, come me l'aspettavo.",
+				"RECENSIONE": "Carino ma non troppo buono Siamo andati per la prima volta a San Valentino in questo ristorante messicano, sentendo pareri contrastanti a riguardo. Il personale ÃƒÂ¨ molto cortese, nulla da dire; ambiente tranquillo, decorazioni tipiche messicane con musica contemporanea di sottofondo che non crea disturbo.\nPer quanto riguarda la cucina non posso essere altrettanto positiva: le porzioni sono piccole e riempite di insalata per fare volume, riducendo cosÃƒÂ¬, spesso e volentieri il vero contenuto dei cibi. Il gusto, in ogni caso, non ÃƒÂ¨ il massimo ed io, avendo esperienza con altri ristoranti messicani, mi sento di dire che non aveva troppo sapore il cibo. Non dico che il cibo sia cattivo, ma neanche eccellente o, almeno, come me l'aspettavo.",
 				"RATE RECENSIONE": 3,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19743,7 +19743,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Tappa obbligatoria a Venezia Molto spesso con la mia amica torno a Venezia apposta per mangiare all'Iguana. Tutto sempre buonissimo e dopo aver mangiato mi sento sempre piena e felicissima! Potrebbero solo ampliare il locale, perchÃ© se non prenoti o magari decidi spontaneamente di andare lÃ¬, ti danno un tavolino davanti alla porta ed Ã¨ troppo fastidioso avere alle spalle la gente che entra ed esce continuamente... La stessa cosa se si prenota e ti capita il tavolo nella prima parte del locale, Ã¨ difficilissimo alzarsi dal tavolo per andare in bagno o fare le conversazioni private, gli spazi tra i tavoli non sono ampi per niente... Per il resto ottimo!",
+				"RECENSIONE": "Tappa obbligatoria a Venezia Molto spesso con la mia amica torno a Venezia apposta per mangiare all'Iguana. Tutto sempre buonissimo e dopo aver mangiato mi sento sempre piena e felicissima! Potrebbero solo ampliare il locale, perchÃƒÂ© se non prenoti o magari decidi spontaneamente di andare lÃƒÂ¬, ti danno un tavolino davanti alla porta ed ÃƒÂ¨ troppo fastidioso avere alle spalle la gente che entra ed esce continuamente... La stessa cosa se si prenota e ti capita il tavolo nella prima parte del locale, ÃƒÂ¨ difficilissimo alzarsi dal tavolo per andare in bagno o fare le conversazioni private, gli spazi tra i tavoli non sono ampi per niente... Per il resto ottimo!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19805,7 +19805,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Tappa gradita Nei nostri viaggi non puÃ² mancare la prova dei ristoranti messicani del posto.. In questo caso siamo rimasti contenti, peccato non ci sia nel menÃ¹ il classico piatto nachos con queso ma hanno rimediato portandoci la salsa di formaggio a parte. Personale cortese.",
+				"RECENSIONE": "Tappa gradita Nei nostri viaggi non puÃƒÂ² mancare la prova dei ristoranti messicani del posto.. In questo caso siamo rimasti contenti, peccato non ci sia nel menÃƒÂ¹ il classico piatto nachos con queso ma hanno rimediato portandoci la salsa di formaggio a parte. Personale cortese.",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19856,7 +19856,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Compleanno in famiglia by 87 years  Gentilezza in primo piano, ok non Ã¨ tipico veneziano, ma Ã¨ un posto accessibile a mia madre x festeggiare un compleanno speciale, bravissima la ragazza che ci ha servito ",
+				"RECENSIONE": "Compleanno in famiglia by 87 years  Gentilezza in primo piano, ok non ÃƒÂ¨ tipico veneziano, ma ÃƒÂ¨ un posto accessibile a mia madre x festeggiare un compleanno speciale, bravissima la ragazza che ci ha servito ",
 				"RATE RECENSIONE": 4,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -19893,7 +19893,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "QualitÃ  Prima esperienza per me  in questo ristorante messicano consigliatomi dalla mia fidanzata, la titolare gentilissima e disponibile mi ha spiegato ogni piatto, ebbene si sono un rompiballe di prima categoria.\nAbbiamo iniziato con lo spritz accompagnato da Nachos e Salse, una cosa meravigliosa, pensavo mi arrivassero le soli croste che si trovano dappertutto ed invece erano fatte in casa, leggere e croccanti.\nQuindi ci siamo fatti portare due Chimichanga ai Gamberi (gamberoni freschi stupendi) ed Ã¨ stata un esperienza sublime, la qualitÃ  del piatto e le materie prime erano una cosa inaspettata, leggerissima delicatissima, quindi non contenti siamo passati ad un Burrito Asada con carne marinata, un burro, morbidissima. \nAbbiamo terminato con un dolce Bamba Flauta al mascarpone e noci per chiudere il pranzo in bellezza.\nAdesso devo programmare il ritorno per assaporare gli altri piatti visto che Ã¨ stata una bontÃ .\nConsigliatissimo per tutti quelli a cui piace mangiare bene e sanno distinguere tra i prodotti freschi e quelli no, per tutti gli altri c'Ã¨ il McDonalds\nPosso solo dire ECCEZIONALE!!!",
+				"RECENSIONE": "QualitÃƒÂ  Prima esperienza per me  in questo ristorante messicano consigliatomi dalla mia fidanzata, la titolare gentilissima e disponibile mi ha spiegato ogni piatto, ebbene si sono un rompiballe di prima categoria.\nAbbiamo iniziato con lo spritz accompagnato da Nachos e Salse, una cosa meravigliosa, pensavo mi arrivassero le soli croste che si trovano dappertutto ed invece erano fatte in casa, leggere e croccanti.\nQuindi ci siamo fatti portare due Chimichanga ai Gamberi (gamberoni freschi stupendi) ed ÃƒÂ¨ stata un esperienza sublime, la qualitÃƒÂ  del piatto e le materie prime erano una cosa inaspettata, leggerissima delicatissima, quindi non contenti siamo passati ad un Burrito Asada con carne marinata, un burro, morbidissima. \nAbbiamo terminato con un dolce Bamba Flauta al mascarpone e noci per chiudere il pranzo in bellezza.\nAdesso devo programmare il ritorno per assaporare gli altri piatti visto che ÃƒÂ¨ stata una bontÃƒÂ .\nConsigliatissimo per tutti quelli a cui piace mangiare bene e sanno distinguere tra i prodotti freschi e quelli no, per tutti gli altri c'ÃƒÂ¨ il McDonalds\nPosso solo dire ECCEZIONALE!!!",
 				"RATE RECENSIONE": 5,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
@@ -20020,7 +20020,7 @@
 				}
 			},
 			{
-				"RECENSIONE": "Niente di speciale Il locale Ã¨ carino, in una stretta calletta a Cannaregio. Molto gradevole la possibilitÃ  di cenare all\u2019aperto con tavoli correttamente e ampiamente distanziati.\nIl servizio Ã¨ cordiale, ma troppo lungo con i tempi per un numero cosÃ¬ ridotto di coperti.\nHo la possibilitÃ¡ di assaggiare il piatto \u201cmacho nacho\u201d come antipasto da condividere: scarico di sapore per una cucina messicana, mediocre e per di piÃ¹ a un prezzo esagerato.\nCome portata principale punto su un burrito di pollo, insapore e pieno colmo di insalata, scarsissimo il ripieno di carne. Avessi voluto mangiare vegetariano avrei scelto un altro locale\nNon lo consiglierei, sono uscito con la fame",
+				"RECENSIONE": "Niente di speciale Il locale ÃƒÂ¨ carino, in una stretta calletta a Cannaregio. Molto gradevole la possibilitÃƒÂ  di cenare all\u2019aperto con tavoli correttamente e ampiamente distanziati.\nIl servizio ÃƒÂ¨ cordiale, ma troppo lungo con i tempi per un numero cosÃƒÂ¬ ridotto di coperti.\nHo la possibilitÃƒÂ¡ di assaggiare il piatto \u201cmacho nacho\u201d come antipasto da condividere: scarico di sapore per una cucina messicana, mediocre e per di piÃƒÂ¹ a un prezzo esagerato.\nCome portata principale punto su un burrito di pollo, insapore e pieno colmo di insalata, scarsissimo il ripieno di carne. Avessi voluto mangiare vegetariano avrei scelto un altro locale\nNon lo consiglierei, sono uscito con la fame",
 				"RATE RECENSIONE": 2,
 				"SENTIMENT RECENSIONE": {
 					"SCORE": [
