@@ -11,7 +11,6 @@ wine
 wines
 wine itinerary
 meats
-food
 ice cream
 pici
 fried cream
@@ -88,6 +87,7 @@ recipes
 sandwich
 toasted sandwiches
 snack
+snacks
 bread
 filling
 pizza
@@ -104,6 +104,7 @@ ciccheti
 homemade
 cicchetti
 beers
+smell
 fillings
 decaf
 Nebbiolo
@@ -116,13 +117,168 @@ cuisine
 variety
 kitchen
 cake
+cakes
 roast potatoes
 burrito
 vegetarian
+pies
+food
+vegan dishes
 material
+bowl
+home flavors
+schiacciate
+pizzas
+Spaghetti
+meatball
+lampredotto
+tomato soup
+brunch
+platter
+fruits
+dish
+Eggs Benedict
+cake
+drinks
+drink
+beers
+tapas
+fish soup
+beers
+salads
+cooking
+grappas
+fried fish
+ham
+melon
+ciabatta
+cheese
+fries
+gourmet pizzas
+Gourmet
+bruschetta
+sfogliatella
+pastry
+watermelon
+tasting plate
+mulberry flavors
+mulberries
+bacon
+presentation
+carbonara
+peach
+sweets
+bakery
+venue
+apple tart
+arancina
+waffle
+mignon
+arancini
+arancino
+pistachio cream
+hot chocolate
+pistachio chocolate
+chocolate
+broth
+Toast
+Cookies
+rotisserie
+granitas
+crepes
+piadina
+Prawns
+tagliolino
+quantities
+udon
+porchetta
+rustic
+salsiccia
+Kebab
+burritos
+burrito
+tacos
+frozen yogurt
+calamari
+granita
+yogurt
+Greek yogurt
+patisserie
+mozzarella
+tomato
+Almond pastries
+semifreddo
+potatoes
+goulash
+gnocchi
+calzone
+lasagna
+Krapfen
+tagliata
+risotto
+ricotta
+tortellini
+cotechino
+tagliatelle
+cavatelli
+homemade desserts
+Passatelli
+Bolognese lasagna
+canederli
+fish
+entrecote
+carpaccio
+milkshakes
+saltimbocca
+ossobuco
+Polenta
+gelato
+lamb
+gelati
+condiments
+Florentine
+zucchini flowers
+Gricia
+Cacio e Pepe
+pasta amatriciana
+ravioli
+fettuccine
+amaatriciana
+raw materials
+digestibility
+rolls
+noodles
+oil
+chicken wings
+strudel
+casatiello
+sushi
+Delicious
+farinata
 
 LOCATION
+
+walls
+Sit
+sea view
+garden
+furnishing
+ambience
+hygiene measures
+dining room
+area
+seating area
+air conditioning
+decor
+elegance
+cushions
+hangout place
+city
+seats
+dining
+courtyard
 cellar
+chairs
 elaxation
 terrace
 jukebox
@@ -140,11 +296,44 @@ lake view
 view
 interior
 spot
+room
+rooms
 seating
 outdoor
 toilet
 
+
+
 SERVIZIO
+
+car park
+reservation
+hygienic conditions
+management
+hygiene measures
+patrons
+gentleman
+shop assistants
+listlessness
+cashier
+employee
+hostess
+employees
+treatment
+light
+seriousness
+background music
+parking
+professionalism
+catering
+kindness
+family-run
+competence
+availability
+Friendliness
+serving staff
+customer service
+courtesy
 managers
 orders
 waitress
@@ -156,7 +345,9 @@ owners
 organizational
 barman
 barmen
+hospitality
 staff
+punctuality
 service
 services
 bartenders
@@ -169,6 +360,8 @@ tables
 booking
 
 COSTO
+price ratio
+price ratios
 pricing
 cost
 costs
