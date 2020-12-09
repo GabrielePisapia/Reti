@@ -4,6 +4,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
 
 import org.json.JSONObject;
 
@@ -16,6 +19,8 @@ import com.google.gson.JsonSyntaxException;
 
 public class MainAnalisiDati {
 	
+	public static ArrayList<String> allAspects = new ArrayList<String>();
+	
 	public static void main(String[] args) throws JsonIOException, JsonSyntaxException, FileNotFoundException {
 		
 		
@@ -25,6 +30,7 @@ public class MainAnalisiDati {
 		ArrayList<RistoBean> ristorantiNord = new ArrayList<>();
 		ArrayList<RistoBean> ristorantiCentro = new ArrayList<>();
 		ArrayList<RistoBean> ristorantiSud = new ArrayList<>();
+	
 		
 		int totalCountPositiveNord = 0;
 		int totalCountNegativeNord = 0;
@@ -66,7 +72,10 @@ public class MainAnalisiDati {
 		System.out.println("Score NORD:  pos: "+ totalCountPositiveNord+"  neut: "+ totalCountNeutralNord+"  neg: "+ totalCountNegativeNord+ " mixed: "+totalCountMixedNord+"\n");
 		System.out.println("Score CENTRO: pos: "+totalCountPositiveCenter+" neut: "+totalCountNeutralCenter+" neg: "+totalCountNegativeCenter+" mixed: "+totalCountMixedCenter+"\n");
 		System.out.println("Score SUD: pos: "+totalCountPositiveSud+" neut: "+totalCountNeutralSud+" neg: "+totalCountNegativeSud+" mixed: "+totalCountMixedSud+"\n");
-		
+
+		for(int i = 0; i < allAspects.size(); i++) {
+			System.out.println(allAspects.get(i));
+		}
 	}
 	
 	public static int[] analyzeNord(String s,ArrayList<RistoBean> ristorantiNord) throws JsonIOException, JsonSyntaxException, FileNotFoundException {
@@ -96,6 +105,8 @@ public class MainAnalisiDati {
 							JsonObject oggettoRecensione = (JsonObject) recensioni.get(k);
 							JsonObject temp = (JsonObject) oggettoRecensione.get("SENTIMENT RECENSIONE");
 							String sentRev =  temp.get("SENTIMENT").toString().replace("\"","");
+							//System.out.println(oggettoRecensione.get("RECENSIONE").getAsString());
+							getAspects(temp);
 							switch(sentRev) {
 								case "positive":
 									counterPositiveScoreNord++;
@@ -157,6 +168,8 @@ public class MainAnalisiDati {
 							JsonObject oggettoRecensione = (JsonObject) recensioni.get(k);
 							JsonObject temp = (JsonObject) oggettoRecensione.get("SENTIMENT RECENSIONE");
 							String sentRev =  temp.get("SENTIMENT").toString().replace("\"","");
+							//System.out.println(oggettoRecensione.get("RECENSIONE").getAsString());
+							getAspects(temp);
 							switch(sentRev) {
 							case "positive":
 								counterPositiveScoreCenter++;
@@ -217,6 +230,8 @@ public class MainAnalisiDati {
 							JsonObject oggettoRecensione = (JsonObject) recensioni.get(k);
 							JsonObject temp = (JsonObject) oggettoRecensione.get("SENTIMENT RECENSIONE");
 							String sentRev =  temp.get("SENTIMENT").toString().replace("\"","");
+							//System.out.println(oggettoRecensione.get("RECENSIONE").getAsString());
+							getAspects(temp);
 							switch(sentRev) {
 								case "positive":
 									counterPositiveScoreSud++;
@@ -262,6 +277,20 @@ public class MainAnalisiDati {
 		}
 		return flag;
 		
+	}
+	
+	public static void getAspects(JsonObject r) {
+		JsonArray sentences = (JsonArray) r.get("SENTENCES").getAsJsonArray();
+		for(int i = 0; i < sentences.size(); i++) {
+			JsonObject sentence = (JsonObject) sentences.get(i);
+			JsonArray aspects = (JsonArray) sentence.get("ASPECTS");
+			for(int j = 0; j < aspects.size(); j++) {
+				JsonObject aspect = (JsonObject) aspects.get(j);
+				String stringAspect = aspect.get("ASPECT").getAsString();
+				//System.out.println(" -- " + stringAspect);
+				allAspects.add(stringAspect);
+			}
+		}
 	}
 
 }
