@@ -90,36 +90,40 @@ public class MainAnalisiDati {
 			totalCountNegativeSud+= scoresSud[2];
 			totalCountMixedSud+= scoresSud[3];
 		}
+		float[] tempNordFood = scoreFoodNord.getAvg();
+		float[] tempNordLocation = scoreLocationNord.getAvg();
+		float[] tempNordService = scoreServiceNord.getAvg();
+		float[] tempNordPrice = scorePriceNord.getAvg();
 		
 		System.out.println("Score NORD:  pos: "+ totalCountPositiveNord+"  neut: "+ totalCountNeutralNord+"  neg: "+ totalCountNegativeNord+ " mixed: "+totalCountMixedNord);
 		System.out.println("Food score positive: " + scoreFoodNord.getCountPositive() + " Food score negative: " + scoreFoodNord.getCountNegative() + " Food score neutral: " + scoreFoodNord.getCountNeutral() + " Food score mixed: " + scoreFoodNord.getCountMixed());
-		System.out.println("FOOD TOTAL: " + scoreFoodNord.getTotalCount() + " AVG POSITIVE: " + scoreFoodNord.getAvg()[0] + " AVG NEGATIVE: " + scoreFoodNord.getAvg()[1] + " AVG MIXED: " + scoreFoodNord.getAvg()[3]);
+		System.out.println("FOOD TOTAL: " + scoreFoodNord.getTotalCount() + " AVG POSITIVE: " + Math.round(tempNordFood[0])+"%" + " AVG NEGATIVE: " + Math.round(tempNordFood[1])+"%"+ " AVG MIXED: " + Math.round(tempNordFood[3])+"%");
 		System.out.println("Location score positive: " + scoreLocationNord.getCountPositive() + " Location score negative: " + scoreLocationNord.getCountNegative() + " Location score neutral: " + scoreLocationNord.getCountNeutral() + " Location score mixed: " + scoreLocationNord.getCountMixed());
-		System.out.println("LOCATION TOTAL: " + scoreLocationNord.getTotalCount() + " AVG POSITIVE: " + scoreLocationNord.getAvg()[0] + " AVG NEGATIVE: " + scoreLocationNord.getAvg()[1] + " AVG MIXED: " + scoreLocationNord.getAvg()[3]);
+		System.out.println("LOCATION TOTAL: " + scoreLocationNord.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreLocationNord.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreLocationNord.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreLocationNord.getAvg()[3])+"%");
 		System.out.println("Service score positive: " + scoreServiceNord.getCountPositive() + " Service score negative: " + scoreServiceNord.getCountNegative() + " Service score neutral: " + scoreServiceNord.getCountNeutral() + " Service score mixed: " + scoreServiceNord.getCountMixed());
-		System.out.println("SERVICE TOTAL: " + scoreServiceNord.getTotalCount() + " AVG POSITIVE: " + scoreServiceNord.getAvg()[0] + " AVG NEGATIVE: " + scoreServiceNord.getAvg()[1] + " AVG MIXED: " + scoreServiceNord.getAvg()[3]);
+		System.out.println("SERVICE TOTAL: " + scoreServiceNord.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreServiceNord.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreServiceNord.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreServiceNord.getAvg()[3])+"%");
 		System.out.println("Price score positive: " + scorePriceNord.getCountPositive() + " Price score negative: " + scorePriceNord.getCountNegative() + " Price score neutral: " + scorePriceNord.getCountNeutral() + " Price score mixed: " + scorePriceNord.getCountMixed());
-		System.out.println("PRICE TOTAL: " + scorePriceNord.getTotalCount() + " AVG POSITIVE: " + scorePriceNord.getAvg()[0] + " AVG NEGATIVE: " + scorePriceNord.getAvg()[1] + " AVG MIXED: " + scorePriceNord.getAvg()[3] + "\n" +"\n");
+		System.out.println("PRICE TOTAL: " + scorePriceNord.getTotalCount() + " AVG POSITIVE: " + Math.round(scorePriceNord.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scorePriceNord.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scorePriceNord.getAvg()[3])+"%" + "\n" +"\n");
 		
 		System.out.println("Score CENTRO: pos: "+totalCountPositiveCenter+" neut: "+totalCountNeutralCenter+" neg: "+totalCountNegativeCenter+" mixed: "+totalCountMixedCenter);
 		System.out.println("Food score positive: " + scoreFoodCenter.getCountPositive() + " Food score negative: " + scoreFoodCenter.getCountNegative() + " Food score neutral: " + scoreFoodNord.getCountNeutral() + " Food score mixed: " + scoreFoodNord.getCountMixed());
-		System.out.println("FOOD TOTAL: " + scoreFoodCenter.getTotalCount() + " AVG POSITIVE: " + scoreFoodCenter.getAvg()[0] + " AVG NEGATIVE: " + scoreFoodCenter.getAvg()[1] + " AVG MIXED: " + scoreFoodCenter.getAvg()[3]);
+		System.out.println("FOOD TOTAL: " + scoreFoodCenter.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreFoodCenter.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreFoodCenter.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreFoodCenter.getAvg()[3])+"%");
 		System.out.println("Location score positive: " + scoreLocationCenter.getCountPositive() + " Location score negative: " + scoreLocationCenter.getCountNegative() + " Location score neutral: " + scoreLocationCenter.getCountNeutral() + " Location score mixed: " + scoreLocationCenter.getCountMixed());
-		System.out.println("LOCATION TOTAL: " + scoreLocationCenter.getTotalCount() + " AVG POSITIVE: " + scoreLocationCenter.getAvg()[0] + " AVG NEGATIVE: " + scoreLocationCenter.getAvg()[1] + " AVG MIXED: " + scoreLocationCenter.getAvg()[3]);
+		System.out.println("LOCATION TOTAL: " + scoreLocationCenter.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreLocationCenter.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreLocationCenter.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreLocationCenter.getAvg()[3])+"%");
 		System.out.println("Service score positive: " + scoreServiceCenter.getCountPositive() + " Service score negative: " + scoreServiceCenter.getCountNegative() + " Service score neutral: " + scoreServiceCenter.getCountNeutral() + " Service score mixed: " + scoreServiceCenter.getCountMixed());
-		System.out.println("SERVICE TOTAL: " + scoreServiceCenter.getTotalCount() + " AVG POSITIVE: " + scoreServiceCenter.getAvg()[0] + " AVG NEGATIVE: " + scoreServiceCenter.getAvg()[1] + " AVG MIXED: " + scoreServiceCenter.getAvg()[3]);
+		System.out.println("SERVICE TOTAL: " + scoreServiceCenter.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreServiceCenter.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreServiceCenter.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreServiceCenter.getAvg()[3])+"%");
 		System.out.println("Price score positive: " + scorePriceCenter.getCountPositive() + " Price score negative: " + scorePriceCenter.getCountNegative() + " Price score neutral: " + scorePriceCenter.getCountNeutral() + " Price score mixed: " + scorePriceCenter.getCountMixed());
-		System.out.println("PRICE TOTAL: " + scorePriceCenter.getTotalCount() + " AVG POSITIVE: " + scorePriceCenter.getAvg()[0] + " AVG NEGATIVE: " + scorePriceCenter.getAvg()[1] + " AVG MIXED: " + scorePriceCenter.getAvg()[3] + "\n" +"\n");
+		System.out.println("PRICE TOTAL: " + scorePriceCenter.getTotalCount() + " AVG POSITIVE: " + Math.round(scorePriceCenter.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scorePriceCenter.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scorePriceCenter.getAvg()[3]) +"%"+ "\n" +"\n");
 		
 		System.out.println("Score SUD: pos: "+totalCountPositiveSud+" neut: "+totalCountNeutralSud+" neg: "+totalCountNegativeSud+" mixed: "+totalCountMixedSud);
 		System.out.println("Food score positive: " + scoreFoodSud.getCountPositive() + " Food score negative: " + scoreFoodSud.getCountNegative() + " Food score neutral: " + scoreFoodNord.getCountNeutral() + " Food score mixed: " + scoreFoodNord.getCountMixed());
-		System.out.println("FOOD TOTAL: " + scoreFoodSud.getTotalCount() + " AVG POSITIVE: " + scoreFoodSud.getAvg()[0] + " AVG NEGATIVE: " + scoreFoodSud.getAvg()[1] + " AVG MIXED: " + scoreFoodSud.getAvg()[3]);
+		System.out.println("FOOD TOTAL: " + scoreFoodSud.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreFoodSud.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreFoodSud.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreFoodSud.getAvg()[3])+"%");
 		System.out.println("Location score positive: " + scoreLocationSud.getCountPositive() + " Location score negative: " + scoreLocationSud.getCountNegative() + " Location score neutral: " + scoreLocationSud.getCountNeutral() + " Location score mixed: " + scoreLocationSud.getCountMixed());
-		System.out.println("LOCATION TOTAL: " + scoreLocationSud.getTotalCount() + " AVG POSITIVE: " + scoreLocationSud.getAvg()[0] + " AVG NEGATIVE: " + scoreLocationSud.getAvg()[1] + " AVG MIXED: " + scoreLocationSud.getAvg()[3]);
+		System.out.println("LOCATION TOTAL: " + scoreLocationSud.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreLocationSud.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreLocationSud.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreLocationSud.getAvg()[3])+"%");
 		System.out.println("Service score positive: " + scoreServiceSud.getCountPositive() + " Service score negative: " + scoreServiceSud.getCountNegative() + " Service score neutral: " + scoreServiceSud.getCountNeutral() + " Service score mixed: " + scoreServiceSud.getCountMixed());
-		System.out.println("SERVICE TOTAL: " + scoreServiceSud.getTotalCount() + " AVG POSITIVE: " + scoreServiceSud.getAvg()[0] + " AVG NEGATIVE: " + scoreServiceSud.getAvg()[1] + " AVG MIXED: " + scoreServiceSud.getAvg()[3]);
+		System.out.println("SERVICE TOTAL: " + scoreServiceSud.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreServiceSud.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreServiceSud.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreServiceSud.getAvg()[3])+"%");
 		System.out.println("Price score positive: " + scorePriceSud.getCountPositive() + " Price score negative: " + scorePriceSud.getCountNegative() + " Price score neutral: " + scorePriceSud.getCountNeutral() + " Price score mixed: " + scorePriceSud.getCountMixed());
-		System.out.println("PRICE TOTAL: " + scorePriceSud.getTotalCount() + " AVG POSITIVE: " + scorePriceSud.getAvg()[0] + " AVG NEGATIVE: " + scorePriceSud.getAvg()[1] + " AVG MIXED: " + scorePriceSud.getAvg()[3] + "\n" +"\n");
+		System.out.println("PRICE TOTAL: " + scorePriceSud.getTotalCount() + " AVG POSITIVE: " + Math.round(scorePriceSud.getAvg()[0]) +"%"+ " AVG NEGATIVE: " + Math.round(scorePriceSud.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scorePriceSud.getAvg()[3])+"%" + "\n" +"\n");
 	}
 	
 	public static void inizialize() throws IOException {

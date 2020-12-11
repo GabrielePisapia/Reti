@@ -13,6 +13,7 @@ public class Score {
 		this.countNegative = 0;
 		this.countNeutral = 0;
 		this.countPositive = 0;
+		this.totalCount = 0;
 	}
 	
 	public void addPositive() {
@@ -57,10 +58,14 @@ public class Score {
 
 	public float[] getAvg() {
 		float[] res = new float[4];
-		res[0] = this.countPositive/this.totalCount;
-		res[1] = this.countNegative/this.totalCount;
-		res[2] = this.countNeutral/this.totalCount;
-		res[3] = this.countMixed/this.totalCount;
+		float cps = (float) countPositive;
+		float cng = (float) countNegative;
+		float mxd = (float) countMixed;
+		float ttc = (float) totalCount;
+		res[0] = cps*100/ttc;
+		res[1] = cng*100/ttc;
+		res[2] = 0;
+		res[3] = mxd*100/ttc;
 		return res;
 	}
 }
