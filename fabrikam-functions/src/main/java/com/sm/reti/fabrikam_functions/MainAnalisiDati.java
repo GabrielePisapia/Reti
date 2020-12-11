@@ -1,8 +1,10 @@
 package com.sm.reti.fabrikam_functions;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -19,9 +21,27 @@ import com.google.gson.JsonSyntaxException;
 
 public class MainAnalisiDati {
 	
-	public static ArrayList<String> allAspects = new ArrayList<String>();
+	public static ArrayList<String> food = new ArrayList<String>();
+	public static ArrayList<String> location = new ArrayList<String>();
+	public static ArrayList<String> service = new ArrayList<String>();
+	public static ArrayList<String> price = new ArrayList<String>();
 	
-	public static void main(String[] args) throws JsonIOException, JsonSyntaxException, FileNotFoundException {
+	public static Score scoreFoodNord = new Score();
+	public static Score scoreLocationNord = new Score();
+	public static Score scoreServiceNord = new Score();
+	public static Score scorePriceNord = new Score();
+	
+	public static Score scoreFoodCenter = new Score();
+	public static Score scoreLocationCenter = new Score();
+	public static Score scoreServiceCenter = new Score();
+	public static Score scorePriceCenter = new Score();
+	
+	public static Score scoreFoodSud = new Score();
+	public static Score scoreLocationSud = new Score();
+	public static Score scoreServiceSud = new Score();
+	public static Score scorePriceSud = new Score();
+	
+	public static void main(String[] args) throws JsonIOException, JsonSyntaxException, IOException {
 		
 		
 		//Prendo i nomi di tutti i file per recuperare i ristoranti
@@ -30,7 +50,6 @@ public class MainAnalisiDati {
 		ArrayList<RistoBean> ristorantiNord = new ArrayList<>();
 		ArrayList<RistoBean> ristorantiCentro = new ArrayList<>();
 		ArrayList<RistoBean> ristorantiSud = new ArrayList<>();
-	
 		
 		int totalCountPositiveNord = 0;
 		int totalCountNegativeNord = 0;
@@ -47,9 +66,12 @@ public class MainAnalisiDati {
 		int totalCountNeutralSud = 0;
 		int totalCountMixedSud = 0;
 		
+		
 		int [] scoresNord = new int [4];
 		int [] scoresCenter = new int [4];
 		int [] scoresSud = new int [4];
+		
+		inizialize();
 		
 		for(int i = 0; i < fileArray.length; i++) {
 			scoresNord = analyzeNord(fileArray[i].getName(),ristorantiNord);
@@ -69,12 +91,69 @@ public class MainAnalisiDati {
 			totalCountMixedSud+= scoresSud[3];
 		}
 		
-		System.out.println("Score NORD:  pos: "+ totalCountPositiveNord+"  neut: "+ totalCountNeutralNord+"  neg: "+ totalCountNegativeNord+ " mixed: "+totalCountMixedNord+"\n");
-		System.out.println("Score CENTRO: pos: "+totalCountPositiveCenter+" neut: "+totalCountNeutralCenter+" neg: "+totalCountNegativeCenter+" mixed: "+totalCountMixedCenter+"\n");
-		System.out.println("Score SUD: pos: "+totalCountPositiveSud+" neut: "+totalCountNeutralSud+" neg: "+totalCountNegativeSud+" mixed: "+totalCountMixedSud+"\n");
-
-		for(int i = 0; i < allAspects.size(); i++) {
-			System.out.println(allAspects.get(i));
+		System.out.println("Score NORD:  pos: "+ totalCountPositiveNord+"  neut: "+ totalCountNeutralNord+"  neg: "+ totalCountNegativeNord+ " mixed: "+totalCountMixedNord);
+		System.out.println("Food score positive: " + scoreFoodNord.getCountPositive() + " Food score negative: " + scoreFoodNord.getCountNegative() + " Food score neutral: " + scoreFoodNord.getCountNeutral() + " Food score mixed: " + scoreFoodNord.getCountMixed());
+		System.out.println("FOOD TOTAL: " + scoreFoodNord.getTotalCount() + " AVG POSITIVE: " + scoreFoodNord.getAvg()[0] + " AVG NEGATIVE: " + scoreFoodNord.getAvg()[1] + " AVG MIXED: " + scoreFoodNord.getAvg()[3]);
+		System.out.println("Location score positive: " + scoreLocationNord.getCountPositive() + " Location score negative: " + scoreLocationNord.getCountNegative() + " Location score neutral: " + scoreLocationNord.getCountNeutral() + " Location score mixed: " + scoreLocationNord.getCountMixed());
+		System.out.println("LOCATION TOTAL: " + scoreLocationNord.getTotalCount() + " AVG POSITIVE: " + scoreLocationNord.getAvg()[0] + " AVG NEGATIVE: " + scoreLocationNord.getAvg()[1] + " AVG MIXED: " + scoreLocationNord.getAvg()[3]);
+		System.out.println("Service score positive: " + scoreServiceNord.getCountPositive() + " Service score negative: " + scoreServiceNord.getCountNegative() + " Service score neutral: " + scoreServiceNord.getCountNeutral() + " Service score mixed: " + scoreServiceNord.getCountMixed());
+		System.out.println("SERVICE TOTAL: " + scoreServiceNord.getTotalCount() + " AVG POSITIVE: " + scoreServiceNord.getAvg()[0] + " AVG NEGATIVE: " + scoreServiceNord.getAvg()[1] + " AVG MIXED: " + scoreServiceNord.getAvg()[3]);
+		System.out.println("Price score positive: " + scorePriceNord.getCountPositive() + " Price score negative: " + scorePriceNord.getCountNegative() + " Price score neutral: " + scorePriceNord.getCountNeutral() + " Price score mixed: " + scorePriceNord.getCountMixed());
+		System.out.println("PRICE TOTAL: " + scorePriceNord.getTotalCount() + " AVG POSITIVE: " + scorePriceNord.getAvg()[0] + " AVG NEGATIVE: " + scorePriceNord.getAvg()[1] + " AVG MIXED: " + scorePriceNord.getAvg()[3] + "\n" +"\n");
+		
+		System.out.println("Score CENTRO: pos: "+totalCountPositiveCenter+" neut: "+totalCountNeutralCenter+" neg: "+totalCountNegativeCenter+" mixed: "+totalCountMixedCenter);
+		System.out.println("Food score positive: " + scoreFoodCenter.getCountPositive() + " Food score negative: " + scoreFoodCenter.getCountNegative() + " Food score neutral: " + scoreFoodNord.getCountNeutral() + " Food score mixed: " + scoreFoodNord.getCountMixed());
+		System.out.println("FOOD TOTAL: " + scoreFoodCenter.getTotalCount() + " AVG POSITIVE: " + scoreFoodCenter.getAvg()[0] + " AVG NEGATIVE: " + scoreFoodCenter.getAvg()[1] + " AVG MIXED: " + scoreFoodCenter.getAvg()[3]);
+		System.out.println("Location score positive: " + scoreLocationCenter.getCountPositive() + " Location score negative: " + scoreLocationCenter.getCountNegative() + " Location score neutral: " + scoreLocationCenter.getCountNeutral() + " Location score mixed: " + scoreLocationCenter.getCountMixed());
+		System.out.println("LOCATION TOTAL: " + scoreLocationCenter.getTotalCount() + " AVG POSITIVE: " + scoreLocationCenter.getAvg()[0] + " AVG NEGATIVE: " + scoreLocationCenter.getAvg()[1] + " AVG MIXED: " + scoreLocationCenter.getAvg()[3]);
+		System.out.println("Service score positive: " + scoreServiceCenter.getCountPositive() + " Service score negative: " + scoreServiceCenter.getCountNegative() + " Service score neutral: " + scoreServiceCenter.getCountNeutral() + " Service score mixed: " + scoreServiceCenter.getCountMixed());
+		System.out.println("SERVICE TOTAL: " + scoreServiceCenter.getTotalCount() + " AVG POSITIVE: " + scoreServiceCenter.getAvg()[0] + " AVG NEGATIVE: " + scoreServiceCenter.getAvg()[1] + " AVG MIXED: " + scoreServiceCenter.getAvg()[3]);
+		System.out.println("Price score positive: " + scorePriceCenter.getCountPositive() + " Price score negative: " + scorePriceCenter.getCountNegative() + " Price score neutral: " + scorePriceCenter.getCountNeutral() + " Price score mixed: " + scorePriceCenter.getCountMixed());
+		System.out.println("PRICE TOTAL: " + scorePriceCenter.getTotalCount() + " AVG POSITIVE: " + scorePriceCenter.getAvg()[0] + " AVG NEGATIVE: " + scorePriceCenter.getAvg()[1] + " AVG MIXED: " + scorePriceCenter.getAvg()[3] + "\n" +"\n");
+		
+		System.out.println("Score SUD: pos: "+totalCountPositiveSud+" neut: "+totalCountNeutralSud+" neg: "+totalCountNegativeSud+" mixed: "+totalCountMixedSud);
+		System.out.println("Food score positive: " + scoreFoodSud.getCountPositive() + " Food score negative: " + scoreFoodSud.getCountNegative() + " Food score neutral: " + scoreFoodNord.getCountNeutral() + " Food score mixed: " + scoreFoodNord.getCountMixed());
+		System.out.println("FOOD TOTAL: " + scoreFoodSud.getTotalCount() + " AVG POSITIVE: " + scoreFoodSud.getAvg()[0] + " AVG NEGATIVE: " + scoreFoodSud.getAvg()[1] + " AVG MIXED: " + scoreFoodSud.getAvg()[3]);
+		System.out.println("Location score positive: " + scoreLocationSud.getCountPositive() + " Location score negative: " + scoreLocationSud.getCountNegative() + " Location score neutral: " + scoreLocationSud.getCountNeutral() + " Location score mixed: " + scoreLocationSud.getCountMixed());
+		System.out.println("LOCATION TOTAL: " + scoreLocationSud.getTotalCount() + " AVG POSITIVE: " + scoreLocationSud.getAvg()[0] + " AVG NEGATIVE: " + scoreLocationSud.getAvg()[1] + " AVG MIXED: " + scoreLocationSud.getAvg()[3]);
+		System.out.println("Service score positive: " + scoreServiceSud.getCountPositive() + " Service score negative: " + scoreServiceSud.getCountNegative() + " Service score neutral: " + scoreServiceSud.getCountNeutral() + " Service score mixed: " + scoreServiceSud.getCountMixed());
+		System.out.println("SERVICE TOTAL: " + scoreServiceSud.getTotalCount() + " AVG POSITIVE: " + scoreServiceSud.getAvg()[0] + " AVG NEGATIVE: " + scoreServiceSud.getAvg()[1] + " AVG MIXED: " + scoreServiceSud.getAvg()[3]);
+		System.out.println("Price score positive: " + scorePriceSud.getCountPositive() + " Price score negative: " + scorePriceSud.getCountNegative() + " Price score neutral: " + scorePriceSud.getCountNeutral() + " Price score mixed: " + scorePriceSud.getCountMixed());
+		System.out.println("PRICE TOTAL: " + scorePriceSud.getTotalCount() + " AVG POSITIVE: " + scorePriceSud.getAvg()[0] + " AVG NEGATIVE: " + scorePriceSud.getAvg()[1] + " AVG MIXED: " + scorePriceSud.getAvg()[3] + "\n" +"\n");
+	}
+	
+	public static void inizialize() throws IOException {
+		File file = new File("file_temporanei");
+		File[] fileArray = file.listFiles();
+		for(int i = 1; i < fileArray.length; i++) {
+				System.out.println(fileArray[i].getName());
+				String name = fileArray[i].getName();
+				
+				FileReader reader = new FileReader(fileArray[i]);
+				BufferedReader bf = new BufferedReader(reader);
+				String line;
+				switch(name) {
+					case "food.txt": 
+						while((line = bf.readLine()) != null) {
+							food.add(line.toLowerCase());
+						}
+					break;
+					case "location.txt":
+						while((line = bf.readLine()) != null) {
+							location.add(line.toLowerCase());
+						}
+					break;
+					case "service.txt":
+						while((line = bf.readLine()) != null) {
+							service.add(line.toLowerCase());
+						}
+					break;
+					case "price.txt":
+						while((line = bf.readLine()) != null) {
+							price.add(line.toLowerCase());
+						}
+					break;
+				}
 		}
 	}
 	
@@ -106,7 +185,7 @@ public class MainAnalisiDati {
 							JsonObject temp = (JsonObject) oggettoRecensione.get("SENTIMENT RECENSIONE");
 							String sentRev =  temp.get("SENTIMENT").toString().replace("\"","");
 							//System.out.println(oggettoRecensione.get("RECENSIONE").getAsString());
-							getAspects(temp);
+							getAspects(temp, scoreFoodNord, scoreLocationNord, scoreServiceNord, scorePriceNord);
 							switch(sentRev) {
 								case "positive":
 									counterPositiveScoreNord++;
@@ -169,7 +248,7 @@ public class MainAnalisiDati {
 							JsonObject temp = (JsonObject) oggettoRecensione.get("SENTIMENT RECENSIONE");
 							String sentRev =  temp.get("SENTIMENT").toString().replace("\"","");
 							//System.out.println(oggettoRecensione.get("RECENSIONE").getAsString());
-							getAspects(temp);
+							getAspects(temp, scoreFoodCenter, scoreLocationCenter, scoreServiceCenter, scorePriceCenter);
 							switch(sentRev) {
 							case "positive":
 								counterPositiveScoreCenter++;
@@ -231,7 +310,7 @@ public class MainAnalisiDati {
 							JsonObject temp = (JsonObject) oggettoRecensione.get("SENTIMENT RECENSIONE");
 							String sentRev =  temp.get("SENTIMENT").toString().replace("\"","");
 							//System.out.println(oggettoRecensione.get("RECENSIONE").getAsString());
-							getAspects(temp);
+							getAspects(temp, scoreFoodSud, scoreLocationSud, scoreServiceSud, scorePriceSud);
 							switch(sentRev) {
 								case "positive":
 									counterPositiveScoreSud++;
@@ -279,7 +358,7 @@ public class MainAnalisiDati {
 		
 	}
 	
-	public static void getAspects(JsonObject r) {
+	public static void getAspects(JsonObject r, Score foods, Score locations, Score services, Score prices) {
 		JsonArray sentences = (JsonArray) r.get("SENTENCES").getAsJsonArray();
 		for(int i = 0; i < sentences.size(); i++) {
 			JsonObject sentence = (JsonObject) sentences.get(i);
@@ -287,8 +366,73 @@ public class MainAnalisiDati {
 			for(int j = 0; j < aspects.size(); j++) {
 				JsonObject aspect = (JsonObject) aspects.get(j);
 				String stringAspect = aspect.get("ASPECT").getAsString();
+				if(food.contains(stringAspect.toLowerCase())) {
+					String sentimentAspect = aspect.get("SENTIMENT ASPECT").getAsString();
+					switch(sentimentAspect) {
+						case "positive": 
+							foods.addPositive();
+							break;
+						case "negative": 
+							foods.addNegative();
+							break;
+						case "neutral":
+							foods.addNeutral();
+							break;
+						case "mixed": 
+							foods.addMixed();
+							break;
+					}
+				} else if(location.contains(stringAspect.toLowerCase())) {
+					String sentimentAspect = aspect.get("SENTIMENT ASPECT").getAsString();
+					switch(sentimentAspect) {
+						case "positive": 
+							locations.addPositive();
+							break;
+						case "negative": 
+							locations.addNegative();
+							break;
+						case "neutral":
+							locations.addNeutral();
+							break;
+						case "mixed": 
+							locations.addMixed();
+							break;
+					}
+				} else if(service.contains(stringAspect.toLowerCase())) {
+					String sentimentAspect = aspect.get("SENTIMENT ASPECT").getAsString();
+					switch(sentimentAspect) {
+						case "positive": 
+							services.addPositive();
+							break;
+						case "negative": 
+							services.addNegative();
+							break;
+						case "neutral":
+							services.addNeutral();
+							break;
+						case "mixed": 
+							services.addMixed();
+							break;
+					}
+				} else if(price.contains(stringAspect.toLowerCase())) {
+					String sentimentAspect = aspect.get("SENTIMENT ASPECT").getAsString();
+					switch(sentimentAspect) {
+						case "positive": 
+							prices.addPositive();
+							break;
+						case "negative": 
+							prices.addNegative();
+							break;
+						case "neutral":
+							prices.addNeutral();
+							break;
+						case "mixed": 
+							prices.addMixed();
+							break;
+					}
+				}
 				//System.out.println(" -- " + stringAspect);
-				allAspects.add(stringAspect);
+				//allAspects.add(stringAspect);
 			}
 		}
 	}
