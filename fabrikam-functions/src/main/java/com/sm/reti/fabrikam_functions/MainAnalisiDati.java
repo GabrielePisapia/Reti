@@ -133,11 +133,9 @@ public class MainAnalisiDati {
 		int superTotalLocation = scoreLocationSud.getTotalCount()+scoreLocationNord.getTotalCount()+scoreLocationCenter.getTotalCount();
 		
 		int superTotalFoodPositive = scoreFoodSud.getCountPositive()+ scoreFoodNord.getCountPositive()+scoreFoodCenter.getCountPositive();
-		System.out.println(superTotalFoodPositive);
 		int superTotalFoodNegative = scoreFoodSud.getCountNegative()+scoreFoodNord.getCountNegative()+scoreFoodCenter.getCountNegative();
-		System.out.println(superTotalFoodNegative);
 		int superTotalFoodMixed = scoreFoodSud.getCountMixed()+scoreFoodNord.getCountMixed()+scoreFoodCenter.getCountMixed();
-		System.out.println(superTotalFoodMixed);
+
 		
 		int superTotalServicePositive = scoreServiceSud.getCountPositive()+scoreServiceNord.getCountPositive()+scoreServiceCenter.getCountPositive();
 		int superTotalServiceNegative = scoreServiceSud.getCountNegative()+scoreServiceNord.getCountNegative()+scoreServiceCenter.getCountNegative();
