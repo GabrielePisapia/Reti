@@ -124,6 +124,37 @@ public class MainAnalisiDati {
 		System.out.println("SERVICE TOTAL: " + scoreServiceSud.getTotalCount() + " AVG POSITIVE: " + Math.round(scoreServiceSud.getAvg()[0])+"%" + " AVG NEGATIVE: " + Math.round(scoreServiceSud.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scoreServiceSud.getAvg()[3])+"%");
 		System.out.println("Price score positive: " + scorePriceSud.getCountPositive() + " Price score negative: " + scorePriceSud.getCountNegative() + " Price score neutral: " + scorePriceSud.getCountNeutral() + " Price score mixed: " + scorePriceSud.getCountMixed());
 		System.out.println("PRICE TOTAL: " + scorePriceSud.getTotalCount() + " AVG POSITIVE: " + Math.round(scorePriceSud.getAvg()[0]) +"%"+ " AVG NEGATIVE: " + Math.round(scorePriceSud.getAvg()[1])+"%" + " AVG MIXED: " + Math.round(scorePriceSud.getAvg()[3])+"%" + "\n" +"\n");
+		
+		System.out.println("%%%%%%%%%%%%%%%%");
+		
+		int superTotalFood = scoreFoodSud.getTotalCount()+scoreFoodNord.getTotalCount()+scoreFoodCenter.getTotalCount();
+		int superTotalService = scoreServiceSud.getTotalCount()+scoreServiceNord.getTotalCount()+scoreServiceCenter.getTotalCount();
+		int superTotalPrice = scorePriceSud.getTotalCount()+scorePriceNord.getTotalCount()+scorePriceCenter.getTotalCount();
+		int superTotalLocation = scoreLocationSud.getTotalCount()+scoreLocationNord.getTotalCount()+scoreLocationCenter.getTotalCount();
+		
+		int superTotalFoodPositive = scoreFoodSud.getCountPositive()+ scoreFoodNord.getCountPositive()+scoreFoodCenter.getCountPositive();
+		System.out.println(superTotalFoodPositive);
+		int superTotalFoodNegative = scoreFoodSud.getCountNegative()+scoreFoodNord.getCountNegative()+scoreFoodCenter.getCountNegative();
+		System.out.println(superTotalFoodNegative);
+		int superTotalFoodMixed = scoreFoodSud.getCountMixed()+scoreFoodNord.getCountMixed()+scoreFoodCenter.getCountMixed();
+		System.out.println(superTotalFoodMixed);
+		
+		int superTotalServicePositive = scoreServiceSud.getCountPositive()+scoreServiceNord.getCountPositive()+scoreServiceCenter.getCountPositive();
+		int superTotalServiceNegative = scoreServiceSud.getCountNegative()+scoreServiceNord.getCountNegative()+scoreServiceCenter.getCountNegative();
+		int superTotalServiceMixed = scoreServiceSud.getCountMixed()+scoreServiceNord.getCountMixed()+scoreServiceCenter.getCountMixed();
+		
+		int superTotalLocationPositive = scoreLocationSud.getCountPositive()+scoreLocationNord.getCountPositive()+scoreLocationCenter.getCountPositive();
+		int superTotalLocationNegative = scoreLocationSud.getCountNegative()+scoreLocationNord.getCountNegative()+scoreLocationCenter.getCountNegative();
+		int superTotalLocationMixed = scoreLocationSud.getCountMixed()+scoreLocationNord.getCountMixed()+scoreLocationCenter.getCountMixed();
+		
+		int superTotalPricePositive = scorePriceSud.getCountPositive()+scorePriceNord.getCountPositive()+scorePriceCenter.getCountPositive();
+		int superTotalPriceNegative = scorePriceSud.getCountNegative()+scorePriceNord.getCountNegative()+scorePriceCenter.getCountNegative();
+		int superTotalPriceMixed = scorePriceSud.getCountMixed()+scorePriceNord.getCountMixed()+scorePriceCenter.getCountMixed();
+		
+		System.out.println("PERCENTUALI TOTALI FOOD -- "+ "Positive: "+Math.round(superTotalFoodPositive*100/superTotalFood)+"%"+" Negative: "+Math.round(superTotalFoodNegative*100/superTotalFood)+"%"+" Mixed: "+Math.round(superTotalFoodMixed*100/superTotalFood)+"%");
+		System.out.println("PERCENTUALI TOTALI SERVICE -- "+ "Positive: "+Math.round(superTotalServicePositive*100/superTotalService)+"%"+" Negative: "+Math.round(superTotalServiceNegative*100/superTotalService)+"%"+" Mixed: "+Math.round(superTotalServiceMixed*100/superTotalService)+"%");
+		System.out.println("PERCENTUALI TOTALI LOCATION -- "+ "Positive: "+Math.round(superTotalLocationPositive*100/superTotalLocation)+"%"+" Negative: "+Math.round(superTotalLocationNegative*100/superTotalLocation)+"%"+" Mixed: "+Math.round(superTotalLocationMixed*100/superTotalLocation)+"%");
+		System.out.println("PERCENTUALI TOTALI PRICE -- "+ "Positive: "+Math.round(superTotalPricePositive*100/superTotalPrice)+"%"+" Negative: "+Math.round(superTotalPriceNegative*100/superTotalPrice)+"%"+" Mixed: "+Math.round(superTotalPriceMixed*100/superTotalPrice)+"%");
 	}
 	
 	public static void inizialize() throws IOException {
